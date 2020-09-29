@@ -1,0 +1,2764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Games &amp; Rituals</string>
+    <string name="destiny_Text">Escoge un Capítulo…</string>
+    <string name="AcesingChapter">Accediendo al capítulo </string>
+    <string name="logo">logo</string>
+    <string name="PauseMusic">Música Pausada </string>
+    <string name="PlayMusic">Reproduciendo Música </string>
+    <string name="privacy_policy">
+        <a href="https://framedmemories.es/politica-de-privacidad/">Política de Privacidad</a>
+    </string>
+
+    <!-- TEXTO DE LA PÁGINA INFO-->
+
+    <string name="notas"><i><b>Info Importante</b></i></string>
+
+    <string name="note0"> </string>
+    <string name="note1b">Esto es un compendio de juegos y rituales tomados de todo internet.
+        Todo lo que se encuentra aquí puede ser consultado en varias páginas web y de forma
+        completamente gratuita.\n\n
+        Hemos recolectado todo esto aquí para ti. Además, los hemos traducido a varios idiomas. No
+        obstante, si piensas que algo no debería ir aquí, o eres propietario de algún texto y no das
+        tu consentimiento para que aparezca en esta app, manda un email a: <b>software@framedmemories.es</b>. \n
+        Estaremos encantados de atenderte.</string>
+    <string name="note1">A los humanos nos encanta tanto el horror como las situaciones escabrosas.
+        Es un sentimiento natural. Nos encanta jugar, como a la mayoría de las personas. Pero andate
+        con ojo. Estos juegos y rituales pueden no estar echos para ti. Si te asustas fácilmente, o
+        sufres algún problema referido al corazón, este compendio no es para ti.\n El contenido de esta
+        app puede ser muy peligroso para ti o tus amigos, así que tómatelo con calma y de forma segura.
+        No nos haremos responsables de lo que pase, bajo ninguna circunstancia.</string>
+    <string name="note2"><i><b>Juega bajo tu propia cuenta y riesgo</b></i></string>
+    <string name="note3">Dicho todo esto, <b>DIVIÉRTETE! ;)\n\n\n\n
+
+        ¿Te gusta la app? ¿Has pasado miedo? Si crees que la app merece la pena, por favor, considera
+        ayudarnos viendo un pequeño anuncio presionando la imagen de más abajo y clicando dentro del
+        anuncio. Si, lo odiamos, pero nos ayudará para futuras app. \n¡MUCHAS GRACIAS POR TU AYUDA!</b></string>
+
+    <string name="note4">\n\n\n CRÉDITOS MUSICALES\n\n
+
+
+        <i>\"Horror Drone #1\"\n\n</i>
+
+        Tema descargado de audionautix.com - "Music by audionautix.com"\n\n
+
+        Todas las imágenes usadas son de Pexels.com
+
+        \n\nPor favor, contacta conmigo a
+        través de este email: <b>software@framedmemories.es</b>
+
+        \n\nDesarrollado y traducido por Pedro Luque\nVer 1.3\nFramed Memories Software, 2018.\n\n\n
+
+    </string>
+
+    <!-- TEXTO DE LOS JUEGOS -->
+    <!--__________________________ JUEGO 1____________________________________-->
+
+    <string name="Game1Name"><b>Corta el cordón</b></string>
+    <string name="Game1Players"><b><u>JUGADORES</u></b>\n*Un principal\n</string>
+    <string name="Game1Requi"><b><u>REQUISITOS</u></b>\n*Un espejo.\n*Una habitación a oscuras.\n*Una luz con interruptor.\n</string>
+    <string name="Game1Inst"><b><u>INSTRUCCIONES</u></b>\n\n
+        1. Comienza a cualquier hora. Las horas nocturnas son óptimas.\n\n
+
+        2. Prepara tu habitación: Cubre las ventanas completamente; no debe penetrar ningún tipo de luz, tanto
+        luz de la calle como lunar. Prepara tu espejo. Asegúrate de que la luz que has escogido y su
+        correspondiente interruptor funcionan como deberían.
+        Deja la luz encendida por ahora.\n\n
+
+        3. Párate frente a tu espejo.\n\n
+
+        4. Mira a tu reflejo del espejo.\n\n
+
+        5. No es tu reflejo. Es tu Copia. Mira a tu copia en el espejo. Mira a los ojos de tu copia.\n\n
+
+        6. Sabes — no pienses; sabes — que no estas mirandote a ti mismo. Sabes que estas mirando a
+        una Copia perfecta de ti. Sabes que estas unido a tu Copia, y tu Copia a ti — pero también
+        que tu Copia es distinta de ti, una criatura separada, un ser por sí mismo. Cree todo esto con
+        cada fibra de tu ser. Cree que es completamente cierto.\n\n
+
+        7.	Cuando hayas alcanzado esa certidumbre, apaga las luces.\n
+        <b>NOTA: Si NO alcanzas ese momento de certidumbre, NO PROCEDAS.</b>\n\n
+
+        8.	Espera.  No hay un marco de tiempo preciso para esperar; simplemente espera hasta que
+        sientas que es el momento de dejar de esperar. La mayoría de los jugadores esperan alrededor de
+        dos minutos. Puede que debas esperar más. Puede que debas esperar menos.\n\n
+
+        9.	Enciende las luces de nuevo:\n<u>Si tu reflejo aún está presente:</u> El ritual ha fallado.
+        Se recomienda NO INTENTARLO DE NUEVO.\n <u>Si tu reflejo se ha desvanecido:</u> El ritual
+        ha sido un éxito. No habrá necesidad de intentarlo de nuevo.\n\n
+
+        <b><u>EL PREMIO</u></b>\n
+        Si el ritual ha sido satisfactorio, has cortado la “cuerda” -el enlace- entre tu y tu Copia.
+        Tu Copia no te reflejara cada movimiento que hagas. Nunca más serás observado. Puedes hacer
+        lo que quieras, y no afrontarás ningún tipo de represalias por ello.\n
+        En el lugar de la separación, la \"cuerda\" comenzará a deteriorarse -por un lado, y solamente por un lado-.
+        No se sabe qué lado comenzará a deteriorarse; puede ser tu lado, o puede ser el lado de tu Copia.
+        Sea el lado que sea, al llegar al Tú de ese lado, el deterioro comenzará a comerse el alma de ese
+        ser. Se pondrán pálidos y débiles, la enfermedad los desgarrará desde adentro hacia afuera, maldiciendolos
+         a una eternidad de sombras.\n\nSi tu Copia cae en la descomposición, serás libre.\n\nSi la
+        descomposición cae sobre ti…\n …no lo serás.\n\n
+
+        <b><u>REFERENTE A LA COPIA\n</u></b>No asumas que la copia no eres tú.\n Si comienzas a notarte
+        enfermo un día, como una sombra de ti mismo, mírate en el espejo.\n ¿Está tu reflejo en el?
+        Si no, el otro Tú puede haber cortado la cuerda…\n …Y tu eres el que está pagando el precio.
+    </string>
+
+
+    <!--__________________________ JUEGO 2____________________________________-->
+
+    <string name="Game2Name"><b>La Fotografía</b></string>
+    <string name="Game2Players"><b><u>PARTICIPANTES</u></b>\n*Al menos dos participantes.
+        Cuantos más, mejor. No hay un personaje principal.\n</string>
+    <string name="Game2Requi"><b><u>REQUISITOS</u></b>\n*Un trozo de cordel, cuerda u otro material similar.
+        Este trozo de cordel, cuerda u otro material debe ser lo suficientemente largo como para hacer un círculo
+        cuando los extremos se aten.\n
+        *Tijeras, un cuchillo, o cualquier otra cosa con borde afilado.\n
+        *Un pequeño espejo por participante.\n
+        *Una cámara con flash integrado. <b>NO se recomienda la cámara de un smartphone.</b>\n
+        *Un vaso para beber.\n
+        *Un brebaje, preferiblemente alcohólico. Se recomienda Vino.\n
+        *Una habitación en silencio.\n\n</string>
+    <string name="Game2Inst"><b><u>INSTRUCCIONES</u></b>\n\n
+
+        <i>Preludio\n</i>
+        1. Comienza a medianoche.\n\n
+        2. Crea un círculo con el cordel o cuerda atando ambos extremos con un nudo.\n\n
+        3. Coloca el círculo de cordel en medio de la habitación.\n\n
+        4. Coloca el vaso para beber en medio del círculo de cordel.\n\n
+        5. Llena el vaso con el brebaje elegido.\n\n
+        6. Organiza a los participantes en círculo sentándolos alrededor del exterior del círculo de cordel.\n
+         <b>NOTA: NO se debe entrar al centro del círculo de cordel en ningún momento ni por ninguna razón.</b>\n\n
+        7. Cada participante debe colocar su espejo frente a ellos. La parte reflectante del espejo debe
+        estar apuntando al techo.\n\n
+        8. Apaga la luz.\n\n
+
+        <i>La Invitación\n</i>
+        1. Los participantes deben cerrar sus ojos. El círculo de participantes debe darse las manos.\n\n
+        2. Cada participante debe decir, uno tras otro, la frase, \"Creo en ti.\" Los participantes no
+        deben decir dicha frase al unísono; cada participante debe decirlo de forma individual uno
+        tras otro.\n\n
+        3. Después de que cada participante exprese su confianza, todos los participantes deben repetir
+        tres veces, al unísono, las palabras, \"La puerta está abierta, por favor, pasa.\"\n\n
+        4. Los participantes pueden entonces abrir los ojos.\n\n
+
+        <i>La Sesión\n</i>
+        1. Comienza la sesión haciendo que un participante tome la cámara. Este participante debe decir
+        las palabras, \"Te tengo\"; entonces, apuntando la cámara hacia delante (hacia el centro del círculo),
+        el participante debe disparar una foto.\n\n
+        2. Pasa la cámara hacia el siguiente participante en el círculo. Si se usa una cámara digital,
+        no previsualices la imagen que acaba de tomarse.\n\n
+        3. El siguiente participante debe decir también las palabras, \"Te tengo,\" y tomar una fotografía
+        con la cámara mirando hacia delante.\n\n
+        4. Repite este proceso hasta que cada participante ha tomado tres fotografías. La cámara
+        debe rodear el círculo tres veces.\n
+         <b>NOTA: Si un participante comienza a llorar o sentir nauseas, NO permitáis bajo ningún concepto
+             que tome ninguna fotografía. En vez de eso, pasa la cámara al siguiente participante en el
+             círculo.</b>\n\n
+        5. Después de que la cámara dé la vuelta tres veces alrededor del círculo, déjala en el suelo.\n\n
+
+        <i>La Despedida\n</i>
+        1. Todos los participantes deben cerrar sus ojos y repetir tres veces, al unísono, la frase,
+        \"Es hora de ir a casa.\"\n\n
+        2. Cada participante debe girar su espejo al revés.\n\n
+        3. Enciende las luces.\n\n
+        4. Usando las tijeras, el cuchillo o cualquier otro objeto afilado, corta y abre de nuevo el círculo de cordel.\n\n
+        5. Lleva el vaso de beber al exterior y vacíalo. Se recomienda vaciarlo en un trozo de basura o tierra.\n\n
+
+        <i>La Revisión\n</i>
+        1. Ahora puedes revisar las fotos tomdas durante el ritual. ¿Qué ves?\n\n
+        2. Acércate.\n\n
+        3. Mira más de cerca.\n\n
+        4. Ahí.\n\n
+
+        <b><u>NOTAS ADICIONALES:</u></b>\n
+        Puesto que no hay un personaje principal, en términos de organización puede ayudar el designar
+        a uno de los participantes como Persona de Referencia. Esta Persona de Referencia puede crear
+        el círculo de cuerda, colocar y rellenar el vaso, operar las luces, comenzar la sección de \"Creo en ti\",
+        ser el primer participante en tomar la cámara, cortar el círculo de cuerda y vaciar el vaso
+        para concluir el ritual.\n\n
+
+        <b><u>BANDERAS ROJAS:\n</u></b>
+        Si algo de lo siguiente ocurre, NO PROCEDER:\n\n
+
+        *Uno o más participantes comienza a actuar de manera extraña.\n
+        *Uno o más participantes comenta que tiene miedo.\n\n
+
+        Si el ritual debe ser abortado, puedes hacerlo dejando la cámara en el suelo y procediendo
+        directamente con La Despedida, Paso 1.\n\n
+
+        <b><u>SI UN PARTICIPANTE BANDERA ROJA TOMA UNA FOTOGRAFÍA:</u></b>\n
+        No mires la fotografía.\n\n
+
+        No continúes con el ritual.\n\n
+
+        Destruye la cámara.\n\n
+    </string>
+
+
+    <!--__________________________ JUEGO 3____________________________________-->
+
+    <string name="Game3Name"><b>Concéntrate</b></string>
+    <string name="Game3Players"><b><u>JUGADORES\n</u></b>
+        *Un principal.\n*Un guía.\n</string>
+    <string name="Game3Requi"><b><u>REQUISITOS\n</u></b>
+        *Los Textos.\n</string>
+    <string name="Game3Inst"><b><u>INSTRUCCIONES\n</u></b>\n
+        1. Comienza en cualquier lugar y a cualquier hora.\n\n
+
+        *<u>Si eres el guía:</u> Colócate detrás del principal. Deberías ver su espalda.\n\n
+
+        *<u>Si eres el principal:</u> Colócate frente al guía. Deberías de estar de espaldas a él. Cierra los ojos.\n\n
+
+        *<b>NOTA: </b>Desde el paso 2 hasta el 19 deben ser realizados por el guía. El principal
+        simplemente debe mantener los ojos cerrados y experimentar las acciones del guía. El principal
+        NO DEBE abrir los ojos hasta que se le pida.\n\n
+
+        2. <u>Si eres el guía:</u> Cierra tus manos como puños pero relajados. Comienza a golpear suavemente
+        la espalda del principal en un ritmo de uno-dos-uno-dos.\n\n
+        3. Sigue el ritmo marcado por tus puños, recita o canta el Coro de Las Palabras:\n\n
+
+        <i>Concéntrate, concéntrate\n
+            Concéntrate en lo que te digo\n
+            La gente está muriendo, los niños están llorando\n
+            Concéntrate, concéntrate\n\n</i>
+
+        4. Cesa el movimiento de golpeo. Procede con el primer Versículo de Las Palabras. El primer Versículo es como sigue:\n\n
+
+        <i>Rompe un huevo en tu cabeza, deja que la llema baje\n
+            Deja que los escalofríos suban, deja que la llema baje\n
+            Rompe un huevo en tu cabeza, deja que la llema baje\n
+            Deja que los escalofríos suban, deja que la llema baje\n\n</i>
+
+        5. Mientras recitas o cantas el Versículo, realiza los siguientes movimientos simulando la experiencia
+        descrita por Las Palabras (repite cada movimiento cada vez que ocurra en El Versículo):\n\n
+        *En la palabra \“huevo,\” da un suave golpecito con tu puño en la parte superior de la cabeza del principal.\n
+        *En la frase \"deja que la llema baje,\" abre tu puño y desliza suavemente los dedos hacia abajo por la espalda del principal.\n
+        *En la frase \"Deja que los escalofríos suban,\" desliza suavemente los dedos hacia arriba por la esplada del principal.\n\n
+
+        6. Vuelve de nuevo al movimiento de golpeo suave al ritmo de uno-dos en la espalda del principal. Repite el Coro.\n\n
+
+        7. Cesa el movimiento de golpeo. Procede con el segundo Versículo de Las Palabras.
+        El segundo Versículo es el siguiente:\n\n
+
+        <i>Estruja dos naranjas en tus hombros, deja que el jugo baje\n
+           Deja que los escalofríos suban, deja que el jugo baje\n
+           Estruja dos naranjas en tus hombros, deja que el jugo baje\n
+           Deja que los escalofríos suban, deja que el jugo baje.\n\n</i>
+
+        8. Mientras recitas o cantas el Versículo, realiza los siguientes movimientos simulando la experiencia
+        descrita por Las Palabras (repite cada movimiento cada vez que ocurra en El Versículo):\n\n
+        *En la palabra \“Naranjas,\” estruja y gira suavemente los hombros del principal.\n
+        *En la frase \"deja que el jugo baje,\" abre tu puño y desliza suavemente los dedos hacia abajo por la espalda del principal.\n
+        *En la frase \"Deja que los escalofríos suban,\" desliza suavemente los dedos hacia arriba por la esplada del principal.\n\n
+
+        9. Vuelve de nuevo al movimiento de golpeo suave al ritmo de uno-dos en la espalda del principal. Repite el Coro.\n\n
+
+        10. Cesa el movimiento de golpeo. Procede con el tercer Versículo de Las Palabras. El tercer
+        Versículo es el siguiente: (repite cada movimiento cada vez que ocurra en El Versículo)\n\n
+
+        <i>Clava 10 agujas en tus costados, deja que la sangre baje\n
+           Deja que los escalofríos suban, deja que la sangre baje\n
+           Clava 10 agujas en tus costados, deja que la sangre baje\n
+           Deja que los escalofríos suban, deja que la sangre baje\n\n</i>
+
+        11. Mientras recitas o cantas el Versículo, realiza los siguientes movimientos simulando la experiencia
+        descrita por Las Palabras (repite cada movimiento cada vez que ocurra en El Versículo):\n\n
+        *En la palabra \"agujas,\" clava suavemente tus dedos en los costados del principal, una mano en cada uno.\n
+        *En la frase \"deja que la sangre baje,\" desliza suavemente los dedos hacia abajo por los costados del principal.\n
+        *En la frase \"Deja que los escalofríos suban,\" desliza suavemente los dedos hacia arriba por los costados del principal.\n\n
+
+        12. Vuelve de nuevo al movimiento de golpeo suave al ritmo de uno-dos en la espalda del principal. Repite el Coro.\n\n
+
+        13. Cesa el movimiento de golpeo. Procede con el cuarto Versículo de Las Palabras. El cuarto
+        Versículo es así: (repite cada movimiento cada vez que ocurra en El Versículo)\n\n
+
+        <i>Clava un cuchillo en tu espalda, deja que la sangre baje\n
+           Deja que los escalofríos suban, deja que la sangre baje\n
+           Clava un cuchillo en tu espalda, deja que la sangre baje\n
+           Deja que los escalofríos suban, deja que la sangre baje\n\n</i>
+
+        14. Mientras recitas o cantas el Versículo, realiza los siguientes movimientos simulando la experiencia
+        descrita por Las Palabras (repite cada movimiento cada vez que ocurra en El Versículo):\n\n
+        *En la palabra \"cuchillo,\" golpea suavemente un puño en el centro de la espalda del principal.\n
+        *En la frase \"deja que la que la sangre baje,\" desliza tus dedos hacia abajo por la espalda del principal.\n
+        *En la frase \"Deja que los escalofríos suban,\" desliza suavemente los dedos hacia arriba por la esplada del principal.\n\n
+
+        15. Vuelve de nuevo al movimiento de golpeo suave al ritmo de uno-dos en la espalda del principal. Repite el Coro.\n\n
+
+        16. Cesa el movimiento de golpeo. Procede con el quinto Versículo de Las Palabras. El quinto
+        Versículo es el siguiente: (NOTA: El ritmo de este Versículo puede ser ligeramente diferente al de
+        los versículos uno a cuatro; adaptar según sea necesario):\n\n
+
+        <i>Desliza una cuerda alrededor de tu cuello, deslízala hasta que esté apretada\n
+            Desliza una cuerda alrededor de tu cuello, y\n
+            TIRA\n\n</i>
+
+        17. Mientras recitas o cantas el Versículo, realiza los siguientes movimientos simulando la experiencia
+        descrita por Las Palabras (repite cada movimiento cada vez que ocurra en El Versículo):\n\n
+        *En la palabra \"cuerda,\" imita que estas poniendo una soga alrededor del cuello del principal.
+        <b>NO PONGAS tus manos alrededor del cuello del principal;</b> simplemente dibuja una línea
+        suavemente alrededor de su cuello con tu mano simulando la \"cuerda\" y suéltalo.\n
+        *En la palabra \"TIRA,\" coloca tus manos en los hombros del principal y empuja ligeramente pero bruscamente hacia abajo.\n\n
+
+        18. Sujeta al principal por los brazos. Apoya tu cuerpo suavemente, cerca. Susurra las siguientes Palabras en su oído:\n\n
+
+         <i>Te encuentras en un edificio\n
+            Estas justo en el borde\n
+            Te sientes muy mareado\n
+            Estas muy cerca del borde\n
+            Y alguien\n
+            TE EMPUJA\n\n</i>
+
+        19. En la palabra \"EMPUJA,\" empuja al principal ligeramente pero bruscamente hacia adelante -
+        solo lo suficientemente fuerte para que pierda el equilibrio, pero no lo suficiente como para
+        tirarlo al suelo.\n\n
+
+        20. Para acabar el juego:\n
+        *Si eres el guía: Insta al principal a abrir sus ojos e inmediatamente describirte qué color ve o ha visto.\n
+        *Si eres el principal: Abre tus ojos cuando te lo señale el guía e inmediatamente descríbele entonces
+        el color que has visto.\n\n
+
+        <b><u>ACERCA DE LOS COLORES:\n</u></b>
+        *Si el principal ve el color rojo: Morirá por apuñalamiento.\n
+        *Si el principal ve el color azul: Morirá ahogado.\n
+        *Si el principal ve el color amarillo: Morirá envenenado.\n
+        *Si el principal ve el color naranja: Morirá a causa del fuego.\n
+        *Si el principal ve el color verde: Morirá por una caída.\n
+        *Si el principal ve el color morado: Morirá por asfixia.\n
+        *Si el principal ve el color gris: Morirá debido a una enfermedad.\n
+        *Si el principal ve el color blanco: Morirá de viejo y ascenderá al cielo.\n
+        *Si el principal ve el color negro: Morirá de viejo y descenderá al infierno.\n
+        *Si el principal ve el color marrón: Morirá enterrado vivo.\n\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 4____________________________________-->
+
+    <string name="Game4Name"><b>El Hombre de las Respuestas</b></string>
+    <string name="Game4Players"><b><u>PARTICIPANTES\n</u></b>
+        *10 participantes.\n</string>
+    <string name="Game4Requi"><b><u>REQUISITOS\n</u></b>
+        *10 teléfonos móviles. Se recomienda teléfonos fáciles de quemar (mira: Acabando La Llamada, Paso 4)\n</string>
+    <string name="Game4Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+
+        <u>HACIENDO LA LLAMADA:\n</u>
+        1. Comienza en cualquier momento en cualquier lugar.\n\n
+
+        2. Reúne a los 10 participantes en un círculo.\n\n
+
+        3. Cada participante debe dar su numero de teléfono a la persona de su derecha - esto es, cada
+        participante debe ser capaz de llamar a la persona de su izquierda.\n\n
+
+        4. A la cuenta de tres, todos los participantes deben llamar a la persona de su izquierda.\n\n
+
+        *<u>Si los 10 participantes reciben un "línea ocupada" o la llamada va a buzón de voz:</u>
+        El ritual ha fallado; no proceder. Si surge este resultado, prueba más tarde.\n\n
+        *<u>Si nueve de los participantes reciben un "línea ocupada" o la llamada va a buzón de voz:
+        </u> El ritual ha sido un éxito; puedes proceder. Si este es el resultado obtenido, la llamada
+        de uno de los participantes - y solo uno - será respondida. Este participante escuchará una
+        voz que comenzará a hablar en el otro lado.\n\n
+
+        <u>LA CONVERSACIÓN:\n</u>
+
+        1. El participante el cual ha tenido éxito en su llamada puede hacer una pregunta al Hombre de las Respuestas.\n\n
+        2. El participante debe escuchar atentamente la respuesta.\n\n
+        3. Tras recibir la respuesta del Hombre de las Respuestas, el hará una pregunta al participante.\n\n
+        4. El participante DEBE responder a dicha pregunta. La respuesta debe ser honesta, veraz y correcta.\n\n
+        5. El participante puede repetir el proceso tantas veces como desee.\n\n
+
+        <u>ACABANDO LA LLAMADA:\n</u>
+
+        1. Cuando el participante ha recibido toda la información que necesitaba, debe acabar la llamada
+        diciendo al Hombre de las Respuestas que debe irse.\n\n
+        2. El Hombre de las Respuestas puede intentar mantener al participante en la línea, posiblemente
+        ofreciéndole información gratis. El participante NO DEBE quedarse en la línea. El participante
+        debe insistir repetidamente su necesidad de acabar la conversación.\n\n
+        3. Si el participante es persistente, el Hombre de las Respuestas dirá adiós y colgará. En este
+        momento, la llamada ha finalizado.\n\n
+        4. Tras finalizar la llamada, inmediatamente destruíd todos los teléfonos móviles usados en el
+        ritual.\n\n
+
+        <b><u>NOTAS ADICIONALES\n</u></b>
+        Es recomendable que los participantes guarden los números de teléfono para \"Haciendo la llamada\",
+        Pasos 3 y 4 en su agenda de contactos (o marcación rápida) para llamar más fácilmente.\n\n
+
+        También es recomendable que un participante sea designado como \"El Contador\"; esta persona
+        realizará la cuenta atrás cuando se marquen los números de teléfono en \"Haciendo la llamada\",
+         paso 4. También es buena idea que esta persona exponga con claridad, por adelantado, lo que
+        significa \"A la de tres\": Esto es, cuando todos los participantes deben presionar el botón
+        de \"llamada\", cuando se pronuncie el número tres, o si deben presionarlo momentos inmediatamente
+        después de decir tres. \n\n
+
+        NO ES RECOMENDABLE que los participantes que hayan conseguido ponerse en contacto con el
+        Hombre de las Respuestas de forma satisfactoria entreguen el teléfono a otros participantes
+        del círculo o permitir a varios participantes hacer una pregunta. Hay una razón por la cual
+        el Hombre de las Respuestas atiende esa llamada en particular; no se contenta sencillamente
+        con hablar con cualquiera. \n\n
+
+        NO ES RECOMENDABLE que pongas al Hombre de las respuestas en el altavoz principal del teléfono
+        o en un manos libres.\n\n
+
+        NO FALLES en la destrucción de todos los teléfonos móviles usados para realizar el ritual
+        tan pronto como sea posible tras su realización. Incluso si has colgado - o incluso si estabas
+        entre los nueve que no pudieron ponerse en contacto en primer lugar - nunca se sabe qué podría
+        devolverte la llamada.\n\n
+
+        <u>RESPECTO A LA OFERTA DEL HOMBRE DE LAS RESPUESTAS:\n</u>
+        <b>NO ACEPTES la oferta del Hombre de las Respuestas de información grátis a cambio de quedarte
+            en la línea.</b> Es un maestro en explotar lagunas, encontrará una manera de preguntarte,
+         y encontrará la manera de hacerla un requisito para que la contestes. Cuando esta pregunta llegue,
+         será mucho más difícil que cualquiera de las preguntas anteriores; de hecho, probablemente
+        será imposible de responder. En caso de no responder, como el pretende con esa oferta -  lee
+        más abajo.\n\n
+
+        <u>RESPECTO A LAS PREGUNTAS DEL HOMBRE DE LAS RESPUESTAS:\n</u>
+        <b>NO FALLES en responder a las preguntas que te haga el Hombre de las Respuestas.</b> No mientas,
+        tanto directamente como por omisión. No respondas falsamente. No respondas incorrectamente.
+         Si fallas en la respuesta a cualquier pregunta que te haga el Hombre de las Respuestas,
+        puede que sientas una sensación de hormigueo leve en una parte en concreto de tu cuerpo - un
+        dedo, un dedo del pié, una mano, una pierna; cualquiera de ellas es juego limpio. Así es como
+        sabrás que has fallado; este es el premio por tu fracaso.\n\n
+
+        Y cuando, tras unos días, meses o incluso años pasen, pierdas esa parte de tu cuerpo - por
+         accidente, por enfermedad o por cualquier otro motivo - sabrás que ha cobrado su precio.\n\n
+
+        Finalmente, nunca, bajo ninguna circunstancia, cuelgues al Hombre de las Respuestas.\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 5____________________________________-->
+
+    <string name="Game5Name"><b>La Red de Charlotte</b></string>
+    <string name="Game5Players"><b><u>PARTICIPANTES\n</u></b>
+        *2 participantes.\n</string>
+    <string name="Game5Requi"><b><u>REQUISITOS\n</u></b>
+        *Una habitación sin ventanas. Si tu única opción tiene ventanas, cúbrelas lo máximo posible.\n
+        *Linternas - tantas como te hagan falta para poder ver. NO USES velas, mecheros, cerillas o
+        cualquier otro tipo de llama.\n
+        *Un juguete.\n
+        *Un espejo.\n
+        *Una mesa y dos sillas.\n</string>
+    <string name="Game5Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <u>PRELUDIO\n</u>
+    1.	Comienza yendo a la habitación.\n\n
+    2.	Coloca las sillas en la habitación. Las sillas deben estar una al lado de la otra con una
+        separación de aproximadamente poco más de medio metro, ambas mirando a la misma dirección.\n\n
+    3.	Coloca el espejo enfrente de las sillas. Deberíais ser capaces de ver vuestro reflejo en el espejo
+         cuando estéis sentados en las sillas. <b>(Nota: No os senteis en las sillas aún.)</b>\n\n
+    4.	Coloca la mesa detrás de las sillas - esto es, la mesa debe estar a la espalda de las sillas.
+         Deberíais ser capaces de ver el reflejo de la mesa en el espejo cuando estéis sentados en las sillas.
+        <b>(Nota: No os senteis en las sillas aún.)</b>\n\n
+    5.	Coloca el juguete en la mesa. Deberíais poder ver su reflejo en el espejo entre las dos sillas
+         cuando estéis sentados en ellas. <b>(Nota: No os senteis en las sillas aún.)</b>\n\n
+    6.	Enciende las linternas.\n\n
+    7.	Apaga las luces de la habitación.\n\n
+
+    <u>EL EVENTO PRINCIPAL\n</u>
+    1.	Sentaos en las sillas. Ambos participantes deben estar sentados en este punto.\n\n
+    2.	Mirad al espejo.\n\n
+    3.	Decid las siguientes palabras al unísono: \"Queremos jugar a la Red de Charlotte\".\n\n
+    4.	Esperad. Mirad solamente al espejo.\n\n
+    5.	Esperad. Mirad solamente al espejo.\n\n
+    6.	No tengáis miedo. Mirad solamente al espejo.\n\n
+    7.	Ella sabrá si tenéis miedo. Mirad solamente al espejo.\n\n
+    8.	Esperad. Mirad solamente al espejo.\n\n
+    9.	Mirad el juguete en el espejo. No os déis la vuelta.\n\n
+
+    <u>*Si ella no coge el juguete:\n</u>
+    -<b>NO PROCEDÁIS.</b> Está disgustada. Es una niña, cogerá una rabieta. No os déis la vuelta.
+        Mirad solamente al espejo. Id al Paso 1 de El Cierre.\n\n
+
+    <u>*Si ella coge el juguete:\n</u>
+    -<b>Podéis proceder.</b> Está complacida. Es una niña; es curiosa. Le gusta la atención, y querrá
+        hablar. Podéis hablar con ella. Tomad turnos. Preguntadle. No os déis la vuelta. Mirad
+        solamente al espejo. Cuando hayáis finalizado vuestra conversación id al Paso 1 de El Cierre.\n\n
+
+    <u>EL CIERRE\n</u>
+    1.	Para finalizar el juego, no os déis la vuelta. Mirad solamente al espejo. Decid al unísono:
+         \"Adiós, Charlotte.\"\n\n
+    2.	No os déis la vuelta. Mirad solamente al espejo.\n\n
+    3.	Si has tenido éxito, ella quedará fuera de la vista del espejo, llevandose el juguete con ella.
+         Una vez se haya ído, podéis daros la vuelta.\n\n
+    4.	Enciende las luces.\n\n
+    5.	No volváis a jugar a este juego nunca más.\n\n
+
+    <b>NOTAS ADICIONALES\n</b>
+    *Puedes comenzar a cualquier hora, aunque es recomendable cuando cae la noche, particularmente si
+        la habitación tiene ventanas.\n\n
+    *No uses ninguna forma de llama en vez de linternas. No le gusta el fuego.\n\n
+    *Una vez estéis sentados en las sillas, nunca, en ningún momento o por ninguna razón, apartéis
+      la mirada del espejo. No os déis la vuelta. No miréis los laterales ni entre vosotros. Esto
+      podría desembocar en una rabieta.\n
+
+
+    </string>
+
+
+    <!--__________________________ JUEGO 6____________________________________-->
+
+    <string name="Game6Name"><b>El Juego del Libro Rojo</b></string>
+    <string name="Game6Players"><b><u>JUGADORES</u></b>\n*Al menos 2 participantes\n</string>
+    <string name="Game6Requi"><b><u>REQUISITOS\n</u></b>
+        *Un libro. Debe ser de tapa dura, y las tapas deben ser rojas. Tampoco debe contener imágenes,
+        fotografías o cualquier tipo de ilustración en sus páginas - Su contenido solamente debe consistir
+        en palabras.\n
+        *Al menos una vela. La vela debe ser roja.\n
+        *Cerillas o un encendedor.\n
+        *Una habitación silenciosa.\n
+        *Una pregunta.\n
+</string>
+    <string name="Game6Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>PREFACIO\n</b>
+    1. Id a la habitación tranquila.\n\n
+    2. Corre las cortinas y apaga las luces.\n\n
+    3. Siéntante en círculo con los otros participantes. Coloca la(s) vela(s) en el centro del círculo.
+        Enciendelas.\n\n
+    4. Cerrad los ojos. Coloca la palma de tu mano en la cubierta del libro. Realiza la siguiente pregunta
+        en voz alta: \"Libro Rojo, ¿puedo entrar en tu juego?\"\n\n
+    5. Mantened los ojos cerrados. Abre el libro por una página al azar. Coloca tu dedo en un punto
+        aleatorio de la página.\n\n
+    6. Abre tus ojos. Lee la frase en la que ha aterrizado tu dedo. Esa es tu respuesta - aunque debes
+        interpretarla correctamente para proceder.\n
+    *<i>Si la respuesta es negativa o sin sentido:</i> No ha habido contacto. No proceder. Inténtalo de nuevo.\n
+    *<i>Si la respuesta es positiva:</i> Puedes proceder.\n\n
+    7. Cada jugador debe preguntar y recibir permiso para entrar en el juego.\n\n
+
+    <b>LA CRECIENTE ACCIÓN\n</b>
+    1. Cierra tus ojos. Coloca la palma de tu mano en la cubierta del libro. Haz tu pregunta. Dila en
+        voz alta.\n\n
+    2. Mantén tus ojos cerrados. Abre el libro en una página al azar. Coloca tu dedo en un punto
+        aleatorio de la página.\n\n
+    3. Abre tus ojos. Lee la frase en la que ha aterrizado tu dedo. Esa es tu respuesta -
+    debes interpretar lo que sea que signifique.\n\n
+    4. Pasa el libro al siguiente. Cada jugador que desee hacer una cuestión debe cerrar sus ojos,
+    colocar la palma de su mano en la cubierta del libro, hacer su pregunta en voz alta, abrir el libro
+        por una página al azar y colocar su dedo en una zona al azar de la página. La frase que indique
+        el sitio donde señaló su dedo siempre será la respuesta a la pregunta, aunque la interpretación
+        queda a discreción del que realizó la pregunta.\n\n
+
+    <b>EPÍLOGO\n</b>
+    1. Cuando todas las preguntas hayan sido realizadas y respondidas, cierra tus ojos y coloca la palma
+        de tu mano en la cubierta del libro una vez más. Pregunta en voz alta, \"Libro Rojo, ¿Puedo
+        dejar de jugar?\"\n\n
+    2. Mantén tus ojos cerrados. Abre el libro por una página al azar. Coloca tu dedo en un punto
+        aleatorio de la página.\n\n
+    3. Abre tus ojos. Lee la frase en la que ha aterrizado tu dedo. Esa es tu respuesta\n
+    *<i>Si la respuesta es negativa o sin sentido:</i> No tienes permiso para abandonar el juego. Vuelve
+        a intentarlo.\n
+    *<i>Si la respuesta es positiva:</i> Puedes dejar el juego.\n\n
+    4. Cada jugador debe pedir y recibir permiso para dejar el juego.\n\n
+    5. Cuando todos los jugadores tengan permiso para abandonar la partida, cierra el libro. Apaga
+        las velas. Abre las cortinas y finalmente enciende las luces.\n\n
+
+    <b>NOTAS ADICIONALES\n</b>
+    No hay un horario para comenzar específico; no obstante, la habitación debe estar lo más oscura
+        posible sin las velas encendidas, por lo que es aconsejable comenzar en la noche.\n\n
+    Ninguna pregunta está oficialmente \"fuera de los límites\", pero no es recomendable preguntar
+        algo que podría enfadar a tu corresponsal. Tampoco lo es preguntar algo sobre tu muerte. Algunas
+        cosas es mejor no saberlas.\n\n
+
+    <b>RESPECTO AL PERMISO\n</b>
+    <b>No comiences a hacer preguntas o dejar el juego sin pedir y obtener permiso primero. Hacerlo
+    es... poco sabio.</b>
+
+
+    </string>
+
+
+    <!--__________________________ JUEGO 7____________________________________-->
+
+    <string name="Game7Name"><b>Música Oscura</b></string>
+
+    <string name="Game7Players"><b><u>PARTICIPANTES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game7Requi"><b><u>REQUISITOS\n</u></b>
+        *Una localización protegida con puerta.\n
+        *Un instrumento musical. Algo pequeño y portátil es ideal; piensa en una guitarra o en una flauta,
+        más que en un piano grande.\n
+        *Un alfiler.\n
+        *Una copa con agua salada.\n
+        *Un envase con sal.\n
+        *Una hoja de papel.\n
+        *Un lápiz.\n
+        *Una cámara. Este requisito es opcional.\n
+        *Un sitio donde esconderse. Este requisito NO es opcional.\n
+    </string>
+
+    <string name="Game7Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>PRELUDIO:\n</b>
+    1. Comienza cuando caiga la noche.\n\n
+
+    2. Apaga todas las luces.\n\n
+
+    3. Coloca el instrumento musical enfrente de la puerta. Si estás usando la cámara, colócala de
+       tal forma que pueda capturar el instrumento mientras graba. Ésta es tu configuración del concierto.
+       <b>NO PERMANEZCAS entre el instrumento y la puerta. TAMPOCO bloquees el instrumento desde la
+       puerta.\n\n</b>
+
+    4. Con el alfiler, pincha en la parte de tu cuerpo que normalmente usas para tocar el instrumento
+       que has escogido; entonces, deposita una gota de sangre en el área del instumento donde sueles
+        tocar con tu cuerpo a la hora de tocar el instrumento; por ejemplo, si escoges la guitarra,
+        pincha tu dedo, y deposita una gota de sangre en las cuerdas, a lo largo del diapasón.\n\n
+
+    5. Usando el lápiz, escribe un mensaje breve en la hoja de papel pidiendo al espíritu que toque
+        una canción para ti. La redacción depende de ti; no obstante es recomendable que seas respetuoso
+        y amable. <b>NO ES RECOMENDABLE que EXIJAS al espíritu que toque.</b> A nadie le gusta que
+        le den órdenes.\n\n
+
+    6. Coloca la nota sobre el instrumento.\n\n
+
+    7. Si usas la cámara, comienza a grabar.\n\n
+
+    8. Dibuja una línea con la sal entre tu y tu configuración del concierto.\n\n
+
+    <b>EL TEMA PRINCIPAL:\n</b>
+    1. Ve a tu escondite. Toma la sal y la copa con agua salada contigo. <b>NO DEBERÍAS ser capaz de
+       ver el intrumento musical desde ahí.\n\n</b>
+
+    2. Siéntate.\n\n
+
+    3. Estáte quieto.\n\n
+
+    4. Mantente en silencio.\n\n
+
+    5. Escucha.\n\n
+
+    6. Disfruta la música.\n\n
+
+    <b>LA CODA:\n</b>
+
+    <i><b>*Si la música desemboca en un cierre natural:\n</b></i>
+    1. Abandona tu escondite. Toma el agua salada contigo.\n\n
+
+    2. Dirígete hacia la línea de sal entre tu y la configuración del concierto.\n
+            *<u>Si está rota:</u> <b>No proceder.</b> En vez de eso, ve al Paso 1 de \"Si algo de lo siguiente ocurre\"\n
+            *<u>Si el instrumento está roto:</u> <b>No proceder.</b> En vez de eso, ve al Paso 1 de \"Si algo de lo siguiente ocurre\"\n
+            *<u>Si la línea de sal y el instrumento están intactos:</u> Puedes proceder.\n\n
+
+    3. Usando ambas manos, haz un corte en la línea de sal.\n\n
+
+    4. Ve hacia el instrumento musical. <b>No permanezcas entre el instrumento y la puerta. De igual
+       manera no bloquees el instrumento desde la puerta.</b>\n\n
+
+    5. Toma el trozo de papel con el mensaje en él. Dóblalo tres veces.\n\n
+
+    6. Coloca el mensaje doblado en la copa de agua salada.\n\n
+
+    7. Coloca la copa de agua salada sobre el instrumento allí donde antes estaba el mensaje previamente.\n\n
+
+    8. Agradece al espíritu por su actuación.\n\n
+
+    9. Usa el agua salada para lavar la sangre del instrumento.\n\n
+
+    10. Si estás usando la cámara, detén la grabación.\n\n
+
+    11.	Acaba la noche como mejor te parezca. Es recomendable que te mantengas tranquilo y no toques
+        ninguna otra música. Puedes escoger sencillamente irte a dormir.\n\n
+
+    *<b>Si algo de lo siguiente ocurre:</b> La música sufre una parada repentina; si la música comienza
+        a irse fuera de tono o tempo; un sonido muy alto suena desde algún lugar de la casa;
+        la línea de sal está rota o el instrumento está roto:\n
+
+    1. Tan rápido como puedas, deja tu escondite y ve hacia el instrumento. Lleva la copa de agua
+       salada contigo.\n\n
+
+    2. Salpica algo de agua salada en el suelo entre el instrumento y la puerta. <b>NO USES todo el
+       agua salada. NO PERMANEZCAS entre el instrumento y la puerta. TAMPOCO BLOQUEES el instrumento
+       desde la puerta.</b>\n\n
+
+    3. La cuenta atrás comienza ahora. Tienes 15 segundos.\n\n
+
+    4. Toma el mensaje. Rómpelo en cinco pedazos. Arruga cada pieza y déjala caer en el agua salada
+        restante. Asegúrate de que cada trozo esta bien empapado.\n\n
+
+    5. Comprueba la cuenta atrás. Tienes 12 segundos.\n\n
+
+    6. Ruega al espíritu por su perdón.\n\n
+
+    7. Ruega al espíritu por su perdón.\n\n
+
+    8. Ruega al espíritu por su perdón.\n\n
+
+    9. Comprueba la cuenta atrás. Tienes 10 segundos.\n\n
+
+    10. Tras pedir disculpas al espíritu tres veces, toma el instrumento.\n\n
+
+    11. Toca el instrumento. <b>NO sobreactues. NO INTENTES tocar lo que el espíritu ha tocado. </b>
+        Hazlo simple y limpiamente.\n\n
+
+    12.	Toca durante 10 segundos.\n\n
+
+    13. <b>La cuenta atrás ha finalizado.</b>\n
+            <u>*Si has completado las tres tareas</u> - destruír el mensaje, pedir disculpas, tocar el
+            instrumento durante 10 segundos -  puedes proceder.\n
+            <u>*Si NO HAS COMPLETADO las tres tareas</u> - destruír el mensaje, pedir disculpas, tocar el
+            instrumento durante 10 segundos — no debes proceder. O para ser más precisos, no estarás
+            en condiciones para proceder.\n\n
+
+    14. Deja el instrumento.\n\n
+
+    15.	Enciende las luces.\n\n
+
+    16.	Estate quieto.\n\n
+
+    17.	Mantente en silencio.\n\n
+
+    18.	Espera.\n\n
+
+    19.	Después de que haya pasado una hora, haz una nueva copa de agua salada y limpia la sangre del
+        instrumento.\n\n
+
+    20.	No vuelvas a tocar música en ese sitio de nuevo.\n\n
+
+    <b>VARIACIONES DEL TEMA:\n</b>
+    Algunas versiones del juego instan a los jugadores a <b>comenzar a unas horas específicas.
+    </b> De acuerdo con una de ellas, debes estar en tu escondite antes de la medianoche; ahí es
+    cuando comienza el concierto, y es grosero llegar tarde. Según otra versión, puedes comenzar
+    en cualquier momento entre las 11pm y las 4am. Escoge la hora sabiamente.\n\n
+
+    Algunas versiones del juego <b>requieren una pluma de águila y tinta</b>. Estos materiales son
+    usados en vez del lápiz. No se conoce el porqué es más efectivo que el lápiz de ninguna
+    manera.\n\n
+
+    Otras versiones <b>no incluyen la línea de sal.</b> No es recomendable que juegues a estas
+    versiones; la línea de sal es un seguro de vida, y sería una auténtica locura jugar sin ella.\n\n
+
+    También hay otras versiones que requieren <b>una grabadora de audio y auriculares.</b> No se
+    sabe porqué un concierto en vivo y en directo necesitan de estos elementos para ser
+    escuchado.\n\n
+
+    Otras versiones del juego animan a los jugadores a <b>dejar una partitura junto con el mensaje.
+    </b> La función de la partitura puede ser por si el jugador hace una petición específica
+    de una canción en concreto; no obstante, es necesaria una segunda coda, los jugadores deben
+    romper la partitura al igual que el mensaje. Esto hace realmente difícil y desafortunado para
+    el jugador llevarla a cabo y completarla antes de que se agote la cuenta atrás. Así que no
+    es recomendable que los jugadores dejen una partitura junto al mensaje.\n\n
+
+    Más versiones, otras sugieren más de un lugar para esconderse, pero también <b><i>una cosa</i>
+    en la que esconderse.</b> Una manta de color oscuro es lo que se suele recomendar para este
+    propósito.\n\n
+
+    Algunas solamente tienen <b>solamente una opción en la coda.</b> Estas versiones hacen al jugador
+    acabar el ritual a su propio ritmo, en lugar del espíritu, y para hacerlo hay que llenarse la
+    boca de agua salada y escupirla por el suelo y por el instrumento. La seguridad de esta versión
+    parece algo sospechosa.\n\n
+
+    <b>SOBRE LA CÁMARA\n</b>
+    Si has ejecutado la primera coda, puedes ver lo grabado en tu tiempo libre.\n\n
+
+    Si has ejecutado la segunda coda, se recomienda encarecidamente que no veas la grabación y/o la
+    destruyas.\n\n
+
+    No importa cual coda realizaste, <b>NO SUBAS EL VÍDEO A INTERNET.</b> El espíritu no suele ser
+    amable con aquellos que intentan sacar provecho de sus actuaciones privadas.\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 8____________________________________-->
+
+    <string name="Game8Name"><b>11 Millas</b></string>
+
+    <string name="Game8Players"><b><u>JUGADORES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game8Requi"><b><u>REQUISITOS\n</u></b>
+        *Un vehículo y la habilidad para poder maniobrar con el. Un coche suele ser la opción más popular,
+        pero no es la única opcion que puedes escoger.\n
+        *Un deseo o profundo anhelo.\n\n
+    </string>
+
+    <string name="Game8Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>ENCONTRANDO LA CARRETERA:\n</b>
+        1. Comienza de noche, idealmente en momentos cuando las carreteras son poco transitadas o no es recomendable.\n\n
+        2. Conduce hacia el bosque. El bosque debe ser un tipo de bosque particular: La carretera que escojas <i>hacia</i>
+        el, debe pasar <i>a través</i> de el.\n\n
+        3. Conduce. Entra en el bosque.\n\n
+        4. Conduce. Comienza a observar. Mira detenidamente. Deja que tu deseo te guíe. Sabrás qué
+        carretera es cuando la veas.\n\n
+        5. Conduce. Cuando tengas la certeza de haber encontrado la carretera, entra en ella.\n\n
+
+    <b>VIAJANDO A TRAVÉS DE LAS MILLAS:\n</b>
+        1. Toma un respiro si lo necesitas. Puedes detener el vehículo si lo deseas. Procede
+        solamente cuando estés preparado.\n\n
+
+        2. Conduce. <b>Esta es la milla uno.</b> Si el ambiente se vuelve frío, puedes encender la
+        calefacción.\n\n
+
+        3. Conduce. <b>Esta es la milla dos.</b> Si aún no has encendido la calefacción, es un buen momento
+        para hacerlo. Si no lo haces, puede que te arrepientas más adelante.\n\n
+
+        4. Conduce. <b>Esta es la milla tres.</b> Ignora cualquier sombra en los árboles, no importa
+        lo humanas que puedan parecer.\n\n
+
+        5. Conduce. <b>Esta es la milla cuatro.</b> Ignora cualquier voz que puedas oír, no importa
+        lo humana que pueda parecer.\n\n
+
+        6. Conduce. <b>Esta es la milla cinco.</b> Ignora la desaparición de los árboles, la aparición
+        repentina de un lago, y el brillo de la luna.\n\n
+
+        7. Conduce. <b>Esta es la milla seis.</b> Ignora la reaparición de los árboles, la desaparición
+        de las estrellas y el parpadeo de las luces de cruce de tu vehículo. Si se enciende tu radio,
+        ignóralo también. Ignóralo sin importar qué diga, pero no intentes apagarla.\n\n
+
+        8. Enhorabuena; has llegado a la mitad del trayecto.\n\n
+
+        9. Conduce. <b>Esta es la milla siete.</b> Ignora - de nuevo - cualquier voz que puedas escuchar,
+        no importa lo cerca que pueda estar el sonido. No te des la vuelta, incluso si las voces
+        parecen venir del asiento trasero.\n\n
+
+        10.	Conduce. <b>Esta es la milla ocho.</b> Baja la velocidad, pero no pares. Frena si las
+        luces de cruce de tu vehículo parpadean, pero no pares. No importa el frío que haga, no pares.
+        No importa que o a quien veas, no pares.\n\n
+
+        11.	Conduce. <b>Esta es la milla nueve.</b> Tu vehículo puede pararse. Cierra los ojos.
+        Intenta arrancar tu vehículo. No abras los ojos. No importa qué oigas, no abras tus ojos.
+        Cuando tu vehículo arranque, aprieta el acelerador lo más rápido que puedas. Cuando acabe esta
+        milla, puedes abrir tus ojos.\n\n
+
+        12.	Conduce. <b>Esta es la milla diez.</b> No mires por el retrovisor.\n\n
+
+        13.	Conduce. <b>Esta es la milla once.</b> Tu vehículo puede que pierda fuerza, pero continúa
+        moviéndose. Déjalo así.\n\n
+
+        14.	Si ves una luz roja más adelante, cierra los ojos. Cierralos bien. Cúbrelos con tus manos
+        si tienes que hacerlo. Cubre tus orejas si puedes. Asegúrate de que no puedes ver nada.\n\n
+
+        15.	No importa lo que oigas, <b>no mires.</b>\n\n
+
+        16.	No importa lo que sientas, <b>no mires.</b>\n\n
+
+        17.	No importa lo caliente que se vuelva el ambiente, <b>no mires.</b>\n\n
+
+        18.	Cuando vuelva la electricidad, detén tu vehículo. Abre los ojos. Espera un momento. Toma
+        un respiro.\n\n
+
+        19.	Conduce.\n\n
+
+    <b>RECIBIENDO TU RECOMPENSA:\n</b>
+
+        1. Conduce hasta que la carretera llegue a un punto sin salida.\n\n
+
+        2. Para.\n\n
+
+        3. Relájate.\n\n
+
+        4. Cierra los ojos.\n\n
+
+        5. Imagina tu más profundo deseo. Incluso si este cambió desde que iniciaste tu viaje, imagínatelo
+         de todas formas - con cambios y todo. Imagina no solamente que lo deseas, sino que lo posees.\n\n
+
+        6. Abre tus ojos. \n
+            *<u>Si tu deseo era un objeto:</u> Revisa tu maletero. Si es más pequeño que eso, revisa
+            entonces los asientos traseros. Si es aún más pequeño que eso, mira tus bolsillos.\n
+            *<u>Si tu deseo no era algo material:</u> Vuelve a tu vida normal y revisa ahí. Si no
+            aparece inmediatamente, espera. Sé paciente. Vendrá.\n\n
+
+    <b>COMPLETANDO EL VIAJE:\n</b>
+        1. En este momento puede que te encuentres de nuevo al inicio del camino.\n\n
+        2. Puedes ir a casa… o puedes comenzar el viaje de nuevo.\n\n
+        3. La elección es tuya.\n\n
+
+    <b>DURANTE EL VIAJE:\n</b>
+
+        NO HAGAS nada de lo siguiente:\n
+        *Encender la radio, cassette, reproductor de CD, MP3 o cualquier otro dispositivo de audio;\n
+        *Uses el teléfono móvil;\n
+        *Abras las ventanas;\n
+        *Conduzcas más rápido de 30 millas por hora;\n
+        *O bajes y dejes el vehículo.\n\n
+
+        <b>Además:</b>\n
+        Mantén los ojos en la carretera.\n\n
+
+        <b>También:</b>\n
+        Abróchate el cinturón. Va a ser un viaje movido.\n
+
+    </string>
+
+    <!--__________________________ JUEGO 9____________________________________-->
+
+
+    <string name="Game9Name"><b>El Año Nuevo Japonés</b></string>
+
+    <string name="Game9Players"><b><u>PARTICIPANTES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game9Requi"><b><u>REQUISITOS\n</u></b>
+        * Un cesto, canastilla o cualquier otro contenedor.\n
+        * Fruta: Una piña, tres plátanos, dos manzanas y 30 uvas. Nada más, nada menos.\n
+        * Un dispositivo para cronometrar el tiempo. Debe ser lo más preciso posible.\n
+        * Algo afilado.\n
+        * Un bosque con algún claro.\n
+        * Cualquier cosa que necesites para encender un fuego.\n
+
+    </string>
+
+    <string name="Game9Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>LA PREPARACIÓN:\n</b>
+        1. Comienza cuando el reloj marque la medianoche del 31 de Diciembre.\n\n
+
+        2. Cierra todas las cortinas.\n\n
+
+        3. Durante 24 horas, no comas absolutamente nada. No bebas nada. No duermas. No vayas al exterior.\n\n
+
+        4. Dos horas antes de la llegada del año, perara la cesta de fruta. Prepara en la cesta:
+        Una piña, tres plátanos, dos manzanas y 30 uvas. Deberías tener 36 piezas de fruta en la cesta.
+        No cuentes mal.\n\n
+
+        5. Con el objeto afilado que has escogido, corta tu mano. unta cada pieza de fruta con una
+        gota de tu sangre. No te dejes ninguna. No cierres los ojos. No te tapes la herida.\n\n
+
+    <b>LA CONVERSACIÓN:\n</b>
+        1. A la medianoche, toma tu cesta de fruta y tus herramientas para hacer fuego y ve al bosque
+        más cercano que previamente has escogido.\n\n
+
+        2. Pasea muy adentro del bosque hasta encontrar un claro.\n\n
+
+        3. Haz un fuego. Siéntante junto a el. Coloca la cesta de fruta frente a ti. No dejes que
+        el fuego se apague. No te muevas a menos que la única acción que hagas sea para que el fuego
+        no se apague.\n
+            *<u>Si nadie se acerca a ti desde el bosque:</u> El ritual no puede continuar. No procedas.\n
+            *<u>Si una figura se acerca a ti desde el bosque:</u> Puedes proceder.\n\n
+
+        4. La figura hará contacto visual contigo. No lo rompas.\n\n
+
+        5. No grites.\n\n
+
+        6. No huyas.\n\n
+
+        7. No hables.\n\n
+
+        8. Tras haber provado tu valentía, la figura comenzará a comerse la fruta. Mantén el contacto
+        visual. No lo rompas.\n\n
+
+        9. Si has llegado hasta aquí, la figura te hará una pregunta cuando haya acabado de comer:
+        \"¿Qué deseas saber?\"\n\n
+
+        10.	Díselo. No apartes la mirada.\n\n
+
+        11.	Te dirá la respuesta. Después se marchará.\n\n
+
+        12.	No rompas el contacto visual hasta que se haya desvanecido de tu campo de visión.\n\n
+
+    <b>EL DESPERTAR\n</b>
+        1. Ve a dormir. (Realmente no tienes porqué seguir este paso activamente; simplemente
+        te quedarás dormido, te guste o no)\n\n
+
+        2. Cuando despiertes, estarás en tu propia cama, con un nuevo conocimiento en tu mente.\n\n
+
+
+    <b>Acerca de la Figura del Bosque:\n</b>
+        Será muy delgado y alto. Sus ojos grandes y negros. Su boca ancha y sus dientes afilados.
+        No llevará ningún tipo de ropa, ni expresión en su rostro.\n\n
+
+        Es llamado El Sabio. Trátalo con el respeto que se merece.\n\n
+
+        No trata de forma respetuosa a quien no es respetuoso con el.\n\n
+
+    <b>Cuando preguntes Acerca de lo que Quieres Saber:\n</b>
+        Escoge tus palabras cuidadosamente. Puedes preguntar lo que desees, desde cuan larga será tu
+        vida hasta que vas a desayunar por la mañana. Pero haz una pregunta y solamente una pregunta.
+        No seas codicioso.\n\n
+
+    <b>Y ten en cuenta:\n</b>
+        ¿Cualquier cosa que preguntes?\n\n
+
+        Asegúrate de que realmente quieres saberlo.\n\n
+
+        Una vez obtengas ese conocimiento, no puedes volver atrás, no importa cuánto lo desees.\n\n
+
+        El conocimiento es poder…\n\n
+
+        …Pero también puede ser el motivo de tu ruina.\n
+
+
+    </string>
+
+
+    <!--__________________________ JUEGO 10____________________________________-->
+
+
+    <string name="Game10Name"><b>Huesos Secos</b></string>
+
+    <string name="Game10Players"><b><u>JUGADORES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game10Requi"><b><u>REQUISITOS\n</u></b>
+    * Un cuarto de baño.\n
+    * Un espejo. Existe cierta flexibilidad aquí; el espejo sobre tu bañera debería ser la mejor
+    opción, pero un espejo de mano también es válido.\n
+    * Cerillas. No uses un encendedor.\n
+    *Un cronómetro o algo para medir el tiempo.Esto es técnicamente opcional, pero altamente
+    recomendado. La habilidad para poder medir el tiempo es esencial.\n\n
+    </string>
+
+    <string name="Game10Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>PRELUDIO:\n</b>
+        1. Antes de comenzar, despeja tu casa de gente y mascotas. Asegúrate de que saben que no
+        pueden volver hasta que el sol vuelva a salir la siguiente mañana.\n\n
+
+        2. Si el espejo aún no está en el baño, colocalo allí.\n\n
+
+        3. Asegúrate de que llevas las cerillas contigo. Lo mismo para el cronómetro, si lo usas.\n\n
+
+    <b>LA INVITACIÓN:\n</b>
+        1. Comienza a las 12:01 am.\n\n
+
+        2. Cierra de forma segura todo lo que se pueda abrir en tu casa - puertas, armarios, vitrinas, etc…
+        Todo.\n\n
+
+        3. Apaga todas las luces de tu casa, así como cualquier otra cosa que pueda hacer ruido.
+        Se recomienda desenchufar los dispositivos que hagan ruido.\n\n
+
+        4. Entra al baño. Cierra la puerta tras de ti. (Todo debe estar cerrado, ¿recuerdas?)\n\n
+
+        5. Mira al espejo.\n
+            * <u>Si escuchas algo fuera de lo habitual:</u> <b>No procedas.</b> Termina inmediatamente.
+            Sal de la casa. Ve a algún lugar seguro. No vuelvas hasta la próxima luz del día.\n
+            * <u>Si no escuchas nada fuera de lo normal:</u> Puedes continuar.\n\n
+
+        6. Piensa en algo que quieras. Piensa de forma intensa en ello. Visualízalo en tu cabeza si puedes.\n\n
+
+        7. Enciende una cerilla. Deja que arda.\n
+            * <u>Si la cerilla se apaga en menos de 15 segundos:</u> <b>NO PROCEDAS.</b> Termina inmediatamente.
+            Sal de la casa. Ve a algún lugar seguro. No vuelvas hasta la próxima luz del día.\n
+            * <u>Si la cerilla permanece encendida por al menos 15 segundos:</u> Puedes proceder.\n\n
+
+        8. Túmbate en el suelo y di las palabras, \“Soy consciente de tu presencia. Te doy la
+        bienvenida a mi hogar. Entra\”\n\n
+
+        9. Sal del baño. Cierra la puerta tras de ti. Dirígete a la habitación más grande de tu
+        casa. Cierra la puerta tras de ti.n\n
+
+        10.	Espera.\n
+            <u>* Si escuchas otra cosa que no sea un ligero gemido y/o un ligero ruido de traqueteo:</u>
+            <b>No continúes.</b> Termina inmediatamente. Sal de la casa. Ve a algún lugar seguro.
+            No vuelvas hasta la próxima luz del día.\n
+            <u>* Si escuchas un ligero gemido y/o un ligero ruido de traqueteo:</u> Procede.\n\n
+
+    <b>EL JUEGO:\n</b>
+        1. Corre. Escóndete. Hazlo deprisa y en silencio.\n\n
+
+        2. Mantente escondido hasta las 3:00 am. No es tan fácil como suena. No dejes que te vea.
+        No dejes que te escuche. Y por supuesto no dejes que te atrape.\n\n
+
+    <b>LA DESPEDIDA:\n</b>
+        1. A las 3:00 am, vuelve a la habitación más grande de tu casa. Cierra la puerta tras de ti.
+        Pronuncia las siguientes palabras: \“Gracias por jugar, pero debes irte ahora. Ya no eres
+        bienvenido\"\n
+            *Si de primeras no escuchas ninguna forma de contestación, repite la frase hasta que lo
+        hagas. Lo sabrás cuando lo escuches.\n\n
+
+        2. Duerme, si puedes.\n\n
+
+        3. Cuando despiertes, vuelve a tu rutina diaria. Tu premio debería estar próximo.\n\n
+
+        4. Se recomienda no volver a jugar a este juego.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        * Existe una variación de la invitación según otras versiones del juego. Puedes usar también
+        esta invitación en lugar de la mencionada más arriba:\n
+        \“Soy consciente de tu presencia, y te doy la bienvenida a mi casa, pero no a mi cuerpo.
+        Entra.\” Esta protección añadida no está garantizada, pero, bueno… la necesidad carece
+        de ley.\n\n
+
+        *<b>NO APAGUES la cerilla.</b> Déjala arder por su propia cuenta. Si la apagas, aunque sea
+        de forma accidental, sal del área inmediatamente, ve a algún lugar seguro y no vuelvas hasta
+        la siguiente luz del día.\n\n
+
+        * Tras entrar en la habitación más grande de tu casa durante el Paso 9 de La Invitación,
+        sé paciente. El periodo de espera podría ser inferior a cinco minutos, o puede tomar mucho
+        más tiempo.\n\n
+
+
+    <b>Sobre Tu Deseo:\n</b>
+        * Tu deseo llegará razonablemente rápido tras completar el juego. Algunos jugadores reportan
+        recibirlo en la puerta de su casa a la mañana siguiente.\n\n
+
+        * Tu deseo puede ser cualquier cosa realisticamente alcanzable. Si pides algo que desafíe las
+        leyes de la física, por ejemplo, probablemente no tengas suerte.\n\n
+
+        * Tu deseo no debe involucrar hacer daño a otra persona. Si lo hace, puede decidir que el precio
+        del deseo es más alto que el que pagaste - y no tiene la costumbre de dejar deudas impagadas.\n\n
+
+    <b>Si Decides Jugar De Nuevo:\n</b>
+        No lo hagas.\n\n
+
+        Es posible que le hayas pedido que se vaya esta vez, pero no impedirá que haga una nueva
+        visita.\n\n
+
+        Y si vas demasiado lejos como para invitarlo otra vez…\n\n
+
+        …Puede que no vaya muy bien esta vez.\n
+
+
+    </string>
+
+    <!--__________________________ JUEGO 11____________________________________-->
+
+
+    <string name="Game11Name"><b>El Armario</b></string>
+
+    <string name="Game11Players"><b><u>JUGADORES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game11Requi"><b><u>REQUISITOS\n</u></b>
+        * Un Armario.\n
+        * Una Cerilla.\n
+    </string>
+
+    <string name="Game11Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    1. Comienza de noche.\n\n
+
+    2. Oscurece la habitación: Apaga las luces de la habitación en la que se encuentre el armario y
+        corre las cortinas. Si el armario tiene luz, asegurate también de que están apagadas.\n\n
+
+    3. Asegúrate de que llevas contigo la cerilla.\n\n
+
+    4. Abre el armario, métete dentro, y cierra la puerta. No debería haber ninguna luz visible, tanto
+        fuera como dentro del armario.\n\n
+
+    5. Permanece en la oscuridad al menos durante 2 minutos. No te muevas. No hables.\n\n
+
+    6. Cuando los dos minutos hayan pasado, sujeta la cerilla enfrente tuya. Di las palabras:
+    \“Muéstrame la luz o déjame en la oscuridad.\”\n\n
+
+    7. Escucha atentamente. \n
+        * <b>Si escuchas susurros en la oscuridad:</b>\n
+            -Enciende la cerilla inmediatamente. Espera.\n
+        * <b>Si no oyes nada:</b>\n
+            -No te des la vuelta. Espera.\n\n
+
+    8. Si has llegado hasta aquí indemne, abre la puerta del armario, sal de el y cierra la puerta
+        de nuevo. NO MIRES dentro del armario.\n
+
+    9. De hecho, no vuelvas a mirar dentro del armario si es posible, especialmente no lo hagas
+        sin encender absolutamente todas las luces e iluminación posible.\n\n
+
+    <b>Notas Adicionales:\n</b>
+    Algunos de los que han completado el juego de forma satisfactoria advierten que ocurren cosas
+        muy extrañas en la noche si dejas la puerta del armario abierta. De nuevo, NO ES RECOMENDABLE
+        que mires dentro del armario con las luces apagadas… pero si lo haces, puede que observes
+        dos relucientes puntos de luz en la oscuridad, brillando en color rojo, como dos cerillas
+        encendidas.\n\n
+
+    Podrían ser ojos.\n\n
+
+    Podrían no serlo.\n\n
+
+    Pero podrían.\n\n
+
+    <b>Si fallas en encender la cerilla a tiempo:\n</b>
+    No falles. Nadie sabe qué ocurre de no hacerlo, o nadie lo ha contado nunca….\n
+
+
+    </string>
+
+
+    <!--__________________________ JUEGO 12____________________________________-->
+
+
+    <string name="Game12Name"><b>Sillas Musicales</b></string>
+
+    <string name="Game12Players"><b><u>JUGADORES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game12Requi"><b><u>REQUISITOS\n</u></b>
+        * Una silla.\n
+        * Una cerilla.\n
+        * Algo con lo que reproducir música.\n
+        * Una grabación de \"Tiptoe Through the Tulips\".\n
+        * Una habitación oscura y silenciosa - vacía si es posible.\n
+    </string>
+
+    <string name="Game12Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+        1. Comienza a medianoche.\n\n
+
+        2. Prepara la habitación: Corre las cortinas. Asegúrate de que ninguna luz penetra en la
+        habitación. Prepara tu dispositivo de reproducción de música -  ya sea un reproductor de CD,
+        un ordenador, un teléfono móvil, un reproductor MP3 con altavoz o cualquier otra cosa.
+        Prepara la grabación de \“Tiptoe Through the Tulips.\” Coloca la silla en el centro de la
+        habitación y apaga las luces.\n\n
+
+        3. Sostén la cerilla enfrente de tu mano, pero no la enciendas.\n\n
+
+        4. Reproduce la música y comienza el juego. Camina alrededor de la silla seis veces.\n
+            * <b>Si la música se detiene:</b> Siéntate y enciende la cerilla. Enhorabuena - has ganado.\n
+            * <b>Si la música sigue sonando:</b> Has invitado a algo a tu casa… pero no quiere jugar.\n
+            * <b>Si la silla vuelca por si sola:</b> Abandona la habitación. No mires a la silla. No
+        entres a esa habitación de nuevo - <b>nunca.</b>\n\n
+
+    <b>Notas Adicionales:\n</b>
+        Las instrucciones no especifican qué hacer en el evento cuando la música continúa sonando.
+        Eso es lo que hace al juego tan peligroso: Hay muchos factores desconocidos. Cuando eso
+        ocurre en un evento, recomendamos abortar el juego y realizar un ritual de purificación
+        (quemar un palo de savia, espolvorear sal, etc.); No obstante, no podemos garantizar que
+        lo que sea que hayas invitado a tu hogar se vaya, incluso con el ritual de purificación.
+        Hazlo bajo tu propia cuenta y riesgo.\n\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 13____________________________________-->
+
+
+    <string name="Game13Name"><b>El Kimono Blanco</b></string>
+
+    <string name="Game13Players"><b><u>PARTICIPANTES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game13Requi"><b><u>REQUISITOS\n</u></b>
+        * Una habitación oscura con exactamente cuatro esquinas - ni más ni menos. Las cortinas deben
+        estar corridas, y debe eliminarse cualquier tipo de polución lumínica.\n
+        * Una fuente de luz con un interruptor fácil de usar.\n
+        * Una brújula. Opcional, pero recomendada si careces del sentido de la orientación.\n
+
+    </string>
+
+    <string name="Game13Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>LA INVITACION:\n</b>
+        1. Comienza tras la medianoche. Es recomendable entre las dos y las tres en punto de la
+        madrugada.\n\n
+
+        2. Ve a tu cuarto, cierra la puerta y acuéstate sobre tu espalda. Las luces deben estar
+        encendidas, pero organizadas de forma que sea fácil apagarlas desde la posición en la que
+        te encuentras. (Una pequeña lámpara colocada cerca de tu sitio de reposo sería ideal.)
+        Tu mirada debería estár centrada en el techo.\n\n
+
+        3. Dirige tu mirada a la esquina más al norte de la habitación.\n\n
+
+        4. Dirige tu mirada a la esquina más al oeste de la habitación.\n\n
+
+        5. Dirige tu mirada a la esquina más al sur de la habitación.\n\n
+
+        6. Dirige tu mirada a la esquina más al este de la habitación.\n\n
+
+        7. Repite desde el Paso 3 hasta el 6 dos veces más, mirando a cada esquina por turnos, en
+        sentido contrario a las agujas del reloj, haciendo un total de tres circuitos alrededor de la
+        habitación.\n\n
+
+        8. Cruza tus brazos sobre tu pecho.\n\n
+
+        9. Repite las siguientes palabras tres veces: \“On be iroki yamashironi sowaka.\”\n\n
+
+        10.	En tu ojo mental, imagina una mujer. Tiene el pelo largo y negro, y va ataviada con un
+        quimono blanco - o al menos, <i>debe ser</i> blanco, si no fuera por el hecho de que está muy
+        manchado. La mancha es roja, un rojo oxidado que invita a pensamientos terribles.\n\n
+
+        11.	Ella está caminando hacia ti.\n\n
+
+        12.	Aún camina hacia ti.\n\n
+
+        13.	Se está acercando.\n\n
+
+        14.	Esta muy cerca.\n\n
+
+        15.	Está justo delante de ti.\n\n
+
+        16.	Descruza tus brazos.\n\n
+
+        17.	Apaga las luces.\n\n
+
+        18.	Ve a dormir.\n\n
+
+    <b>EL SUEÑO:\n</b>
+        1. Si ves a la mujer en tu sueño, la invitación ha sido un éxito. Puedes apreciar su presencia;
+        no obstante, <b>EVITA:</b>\n
+            * Hablar con ella.\n
+            * Decirle tu nombre.\n
+            * Dejar que susurre cualquier cosa en tu oído.\n\n
+
+        2. <u>Si comienza a susurrar algo a tu oído:</u> <b>Despierta INMEDIATAMENTE.</b> Recomendamos
+        sacudir tu mano derecha en el sueño, no obstante, si tienes experiencia en sueños lúcidos,
+        puedes usar cualquier metodo que te funcione para despertar.\n\n
+
+    <b>EL DESPERTAR:\n</b>
+        1. Al despertar, examina las esquinas de tu habitación. ¿Ves alguna sombra merodeando en alguna
+        de ellas? ¿Alguna sombra que no debería estar ahí?\n\n
+
+        2. ¿No? Entonces estás a salvo.\n\n
+
+        3. No vuelvas a intentar este ritual de nuevo.\n\n
+
+    <b>Notas adicionales:\n</b>
+        Es recomendable que todos los jugadores desarrollen habilidades en los sueños lúcidos antes
+        de realizar este ritual. Busca en Google, hay muchísimos textos que pueden ayudarte a
+        conseguirlo.\n\n
+
+    <b>Si ves una sombra en la habitación tras haber despertado:\n</b>
+        Enciende las luces inmediatamente. No te permitas estar de nuevo solo en la oscuridad. Nunca
+        más.\n\n
+
+    <b>Si no eres capaz de despertarte por ti mismo:\n</b>
+        Lo sentimos. Lo sentimos de veras.\n\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 14____________________________________-->
+
+
+    <string name="Game14Name"><b>Las Cuatro Esquinas</b></string>
+
+    <string name="Game14Players"><b><u>JUGADORES</u></b>\n*Cuatro (4) principales.\n</string>
+
+    <string name="Game14Requi"><b><u>REQUISITOS\n</u></b>
+        * Una habitación vacía. La habitación debe tener cuatro esquinas - ni más, ni menos.\n\n
+
+    </string>
+
+    <string name="Game14Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+
+    <b>PRELUDIO:\n</b>
+        1. Limpia el edificio en el que se encuentra la habitación donde vais a jugar. No debe haber
+        ninguna persona adicional dentro del mismo; así como mascotas. Los únicos entes vivos presentes
+        en el edificio deben ser los cuatro principales.\n\n
+
+        2. Apaga las luces en cada habitación del edificio excepto la del cuarto en el que se va a
+        jugar.\n\n
+
+        3. Entra en la habitación donde va a transcurrir el juego. Tras entrar, di tu nombre en voz
+        alta tres veces.\n\n
+
+        4. Designa a un principal como el Hablante. A partir de este punto en adelante, nadie más
+        aparte del Hablante debe hablar.\n\n
+
+        5. Cierra la puerta de la habitación. Los cuatro principales deben estar ahora mismo dentro
+        de la habitación con la puerta bien cerrada. No hables.\n\n
+
+        6. Apaga las luces. No hables.\n\n
+
+    <b>EL EVENTO PRINCIPAL:\n</b>
+        1. Cada principal, incluyendo el Hablante, debe escoger una esquina de la habitación. Ninguna
+        esquina debe estar ocupada por más de un principal. No hables.\n\n
+
+        2. Cada principal debe posicionarse en la esquina, de pié y mirando la pared. Las espaldas
+        de los principales deben mirar al centro de la habitación. No hables.\n\n
+
+        3. Una vez todos los principales estén en posición, el Hablante debe contar hasta tres. Ningún
+        otro participante debe hablar.\n\n
+
+        4. Una vez cuente hasta tres, todos los principales deben rotar en sentido de las agujas
+        del reloj hacia la siguiente esquina. No te des la vuelta; las espaldas de los principales
+        deben seguir mirando al centro de la habitación. No hables.\n\n
+
+        5. Una vez todos los principales han completado la rotación, repite el Paso 4 del Evento
+        Principal. Continúa repitiendo dicho paso hasta que sea el momento de promulgar el
+        procedimiento de finalización.\n\n
+
+        6. <b>Si, en algún momento, desaparece un principal:</b>\n
+            * El Hablante debe indicar a los principales restantes ejecutar el procedimiento de
+            emergencia.\n
+            * El procedimiento de emergencia es como sigue: Cada principal debe decir su nombre hacia
+            atrás tres veces, darse la vuelta y presionar su espalda contra la pared. El principal
+            que se encuentre más cerca del interruptor de la luz debe encenderlo inmediatamente.
+            El principal previamente desaparecido debería reaparecer de inmediato una vez se
+            enciendan las luces.\n
+            * No hables.\n\n
+
+        7. <b>Si, tras haber ejecutado el procedimiento de emergencia, se puede osbservar una figura
+            adicional en la habitación:</b>\n
+            * El Hablante debe indicar a los principales que ejecuten el procedimiento de finalización.
+            <b>NO HABLES, bajo NINGUNA circunstancia, a la figura adicional.</b>\n\n
+
+    <b>EL PROCEDIMIENTO DE FINALIZACIÓN:\n</b>
+        1. Los cuatro principales deben reunirse en el interruptor de luz, idealmente detrás de la
+        figura adicional.\n\n
+
+        2. Cada principal debe decir su nombre al revés tres veces.\n\n
+
+        3. Enciende las luces. Espera lo mejor.\n\n
+
+        4. Una vez todos hayáis hecho esto, abrid la puerta y salid de la habitación. Concede algo
+        de tiempo antes de intentar entrar de nuevo. Y… procura no estar solo ahí con las luces
+        apagadas a partír de ahora.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        Si en algún punto durante el proceso de rotación, un principal choca con otro, enciende las
+        luces y espera. Puedes intentarlo de nuevo en unos momentos. No hables.\n\n
+
+        Es recomendable que los principales desarrollen una señal predeterminada con anterioridad
+        que no involucre hablar para indicar cuando un principal se ha desvanecido. Un método sugerido
+         es asignar a cada principal un número antes de comenzar el juego; entonces, tras cada
+        rotación, cada principal <i>golpea la pared</i> su número de veces correspondiente en sucesión.
+        Después de que todos los principales han determinado que están presentes, el Hablante prosigue
+        entonces con la siguiente rotación. Si se pierde una secuencia de golpes, sin embargo, el
+        Hablante debería aplaudir fuerte una vez para advertir a los principales que comiencen con el
+        procedimiento de finalización.\n\n
+
+        Si cualquier otro que no sea el Hablante habla, os encontraréis en terrible peligro. No lo
+        hagáis.\n\n
+
+    <b>Acerca del Procedimiento de Finalización:\n</b>
+        Los cuatro principales DEBEN realizar el procedimiento de finalización. Aunque no es frecuente
+        que esto ocurra, si el cuarto principal desaparece, pero no reaparece tras haber encendido
+        las luces…\n\n
+
+        …Esta solo… y a su suerte.\n\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 15____________________________________-->
+
+
+    <string name="Game15Name"><b>Una Radio Pequeña</b></string>
+
+    <string name="Game15Players"><b><u>PARTICIPANTES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game15Requi"><b><u>REQUISITOS\n</u></b>
+        * Un teléfono móvil.\n
+        * Una localización exterior.\n\n
+
+    </string>
+
+    <string name="Game15Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+
+    <b>LA INVOCACIÓN:\n</b>
+        1. Espera hasta el 30 de Octubre.\n\n
+
+        2. Comienza a las 11:59pm.\n\n
+
+        3. Ve afuera.\n\n
+
+        4. Usando tus manos, dibuja un círculo en la tierra.\n\n
+
+        5. Pon tu móvil en modo vibración. Colócalo en medio del círculo.\n\n
+
+        6. Mantén los ojos en el teléfono. No cierres los ojos. No apartes la mirada de el.\n\n
+
+        7. Continúa observando el teléfono hasta las 12:15am.\n
+            * <b>Si no ocurre nada:</b> El ritual ha fallado. No procedas.\n
+            * <b>Si el teléfono suena:</b> Puedes proceder. No obstante, <b>NO CONTESTES al teléfono.</b>
+            Simplemente espera.\n\n
+
+        8. Sigue esperando.\n
+            * <b>Si nada ocurre:</b> El ritual ha fallado. No procedas.\n
+            * <b>Si recibes un mensaje de texto:</b> Puedes proceder. Lee el mensaje; debería contener
+            un número de teléfono.\n\n
+
+        9. Pon tu teléfono en modo altavoz y llama a ese número.\n
+            * <b>Si nadie contesta;</b> El ritual ha fallado. No procedas.\n
+            * <b>Si contestan a la llamada:</b> Puedes proceder. Escucha. Si te pregunta por tu
+            dirección física, dísela a quien te esté preguntando.\n\n
+
+        10.	Espera dos noches. Haz tu vida normal mientras tanto. Trata de no distraerte.\n\n
+
+    <b>EL REGALO:\n</b>
+        1. Al finalizar el periodo de espera, asegúrate de estar lo suficientemente descansado como
+        para permanecer despierto hasta medianoche.\n\n
+
+        2. Cuando el reloj marque las 11:59pm, escucha.\n
+            * <b>Si no oyes nada:</b> El ritual ha fallado. No procedas.\n
+            * <b>Si oyes que alguien llama a la puerta:</b> Contesta y abre. No encontrarás a nadie
+            al otro lado, así que no trates de buscarlo; sin embargo, abrá un paquete esperandote en
+            el recibidor. Llévalo dentro de casa.\n\n
+
+        3. Abre el paquete. Saca el contenido: Baterías y una pequeña radio. Coloca las baterías en
+        la radio.\n\n
+
+        4. Espera hasta las 12:15am, entonces enciende la radio y coloca la frecuencia 11.1 AM.\n\n
+
+        5. Escucha.\n\n
+
+        6. Sigue escuchando.\n\n
+
+        7. No pares de escuchar.\n\n
+
+        8. A las 12:25am, comenzará a sonar una canción. Escúchala muy atentamente y completa.\n\n
+
+        9. Durante el próximo año, mantén la radio encendida. Puede que a veces no la eschuches, pero
+        no importa. Mientras esté encendida y reproduciendose, experimentarás una cantidad ingente
+        de buena suerte. Tendrás éxito en cualquier cosa que hagas, no importa lo grande o pequeño
+        que sea.\n\n
+
+    <b>EL PRECIO:\n</b>
+        1. Un día, escucharás un sonido de inicio, alarmante - algo que podrias describir como un pop,
+        o quizás un pistoletazo. Es el sonido de las baterías de la radio muriendo.\n\n
+
+        2. Cuando oigas ese sonido, comienza a correr.\n\n
+
+    <b>Acerca del precio:\n</b>
+        Una vez comiences a correr, no pares.\n\n
+
+        No existen garantías de que consigas otra cosa más que retrasar lo inevitable, pero debe hacerte
+        sentir mejor a la larga. Como si estuvieras haciendo algo que puede ayudar - incluso si
+        no lo hace.n\n
+
+        Después de todo, no puedes conseguir lo bueno sin lo malo…\n\n
+
+        …Y todo nos alcanza con el tiempo.\n\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 16____________________________________-->
+
+
+    <string name="Game16Name"><b>Canal Infinity</b></string>
+
+    <string name="Game16Players"><b><u>JUGADORES</u></b>\n*Un principal.\n*Al menos un compañero\n</string>
+
+    <string name="Game16Requi"><b><u>REQUISITOS\n</u></b>
+        * Una habitación tranquila con puerta.\n
+        * Una televisión - cuanto más vieja, mejor. Lo ideal sería una analógica.\n
+        * Un mando a distancia - No necesariamente el que viene con el televisor.\n
+        * Un artículo de mucha siginificancia personal para ti.\n
+        * Tu libro favorito.\n
+        * Una llave - cualquier llave.\n
+        * Un teléfono móvil.\n
+        * Un arma - un martillo es una buena opción.\n\n
+
+
+    </string>
+
+    <string name="Game16Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+
+    <b>PRELUDIO:\n</b>
+        1. Prepara la televisión en la habitación tranquila.\n\n
+
+        2. Enciende la televisión. Sintoniza un canal que no reciba - estática si la televisión
+        es analógica, o en negro o en la pantalla de "sin señal" si usas una digital. Coloca
+        el mando a distancia cerca.\n\n
+
+        3. Deja la habitación. No entres en ella durante tres horas. Si vives con otras personas,
+        asegúrate que no entran en la habitación.\n\n
+
+        4. Mientras estás esperando que pasen las tres horas, recoge los siguientes objetos: El
+        objeto de mucho valor para ti, el libro, la llave, el teléfono móvil y el arma. Llama a
+        tu compañero y dile que venga donde estás. También puedes invitar a algún otro amigo
+        o persona querida si lo deseas. Infórmales de todo lo que va a ocurrir.\n\n
+
+    <b>BUSCANDO EL CANAL:\n</b>
+        1. Reúnete con tu(s) compañero(s) fuera de la habitación tranquila.Con los objetos en tu
+        mano, entra en la habitación, dejando a tu(s) compañero(s) fuera. Cierra la puerta tras de
+        ti.\n\n
+
+        2. Colócate enfrente del televisor. Mantén los ojos en la pantalla. Quédate ahí hasta que
+        comineces a sentirte… diferente. La desorientación podría ser una buena manera de describirlo,
+        pero la experiencia podría no ser la misma para todo el mundo.\n\n
+
+        3. Cuando hayas alcanzado el estado mental correcto, llama a tu(s) compañero(s) para que
+        entren a la habitación.\n\n
+
+        4. Selecciona al compañero que signifique más para ti. Dale el objeto de más significancia
+        para ti a el.\n\n
+
+        5. Manda a tu(s) compañero(s) fuera de la habitación. Instrúyeles de que no vuelvan a entrar
+        hasta que tú mismo no abras la puerta - independientemente de lo que escuchen o no
+        proveniente de dentro de la habitación.\n\n
+
+        6. Cierra la puerta.\n\n
+
+        7. Aparta la mirada del televisor. Escucha atentamente.\n
+            * <b>Si solo oyes silencio:</b> No procedas.\n
+            * <b>Si oyes un sonido:</b> Coge el mando a distancia y gírate para mirar al televisor.
+            Procede con el paso 8.\n\n
+
+        8. La pantalla mostrará una pregunta de Si o No. Respóndela con el mando a distancia:
+        Presiona el botón de \“Subir Canal\” para responder Si, y el de \“Bajar Canal\” para el No.
+        Responde sinceramente.\n\n
+
+        9. Haz esto tantas veces como preguntas aparezcan en pantalla.\n\n
+
+        10.	Al finalizar las pregutnas, una de las siguientes cosas puede ocurrir:\n
+            * <b>Si aparece tu programa de televisión favorito en pantalla:</b> Míralo. Puede ser
+        difícil, pero no apartes la mirada, no importa lo que veas. procede a Viendo el Canal: Paso 1.\n
+            * <b>Si aparece la imagen de la persona o cosa que más odias en el mundo en pantalla:</b>
+            Toma el arma. Destruye la pantalla de la televisión. Procede con Viendo el Canal: Paso 1.\n
+        * <b>Si miras alrededor y sientes que algo está... apagado o fuera de lugar:</b> \n\n
+
+    <u>Subpasos\n</u>
+
+                1. Toma el teléfono móvil, la llave, y el libro; deberán estar disponibles para ti
+                aquí. Ahora sal de tu casa.\n\n
+
+                2. Encuentra el edificio público más cercano. Abre la puerta con la llave. Entra.\n\n
+
+                3. En el interior del edificio, encuentra una habitación con una sola forma de entrar
+                y salir. Entra y cierra la puerta tras de ti. Siéntate. Lee tu libro.\n
+                    * <b>Si no oyes nada:</b> No procedas.\n
+                    * <b>Si oyes pasos:</b> Espera hasta que se desvanezca fuera del rango auditivo.
+                    Ahora cuenta, en voz alta, hasta 250. Procede con el Subpaso 4. \n\n
+
+                4. Escucha. \n
+                    * <b>Si escuchas tres golpes en la puerta:</b> Ábrela.\n
+                    * <b>Si escuchas cuatro golpes en la puerta:</b> Repite las palabras “\Te lo prohibo\”
+                    dos veces. Entonces abre la puerta.\n\n
+
+                5. Si abres la puerta y… \n
+                    * <b>…no hay nadie ahí:</b> No procedas.\n
+                    * <b>…hay una estatua de una persona que amas afuera:</b> Destruye la estatua.
+                    procede con el Subpaso 6.\n\n
+
+                6. Sal del edificio.\n\n
+
+                7. Mira la luna. \n
+                    * <b>Si ves una media luna rosa:</b> Saca tu teléfono móvil. Llama a tu tercer
+                    contacto más reciente de tu registro de llamadas. Procede con Viendo el Canal:
+                    Paso 1.\n
+                    * <b>Si ves una luna llena rosa:</b> Saca tu teléfono móvil. Llama a un numero
+                    aleatorio. Después de que la otra persona haya descolgado el teléfono, muerde
+                    tu lengua de inmediato. Procede con Viendo el Canal: Paso 1.\n
+                    * <b><u>Si ves una media luna verde:</u></b> Quítate la ropa. Corre a casa. No
+                    mires atrás. Procede con Viendo el Canal: Paso 1.\n
+                    * <b>Si ves una luna llena verde:</b> Serás incapaz de proceder.\n\n
+
+    <b>VIENDO EL CANAL:\n</b>
+        1. Tras completar cualquiera de los tres escenarios posibles, alcanzarás el Canal Infinity.
+        Ahora puedes hacer cualquiera de las siguientes opciones: \n
+            * <b>Presiona el botón de la función \“Guía\” de tu mando a distancia.</b> Selecciona
+            el programa que creas que puede responder a tu pregunta más urgente. Míralo con atención.\n
+            * <b>Sigue observando la estática o la pantalla de \“Sin Señal\”.</b> Presta mucha
+            atención por si algo aparece. Si lo miras de la forma correcta, también responderá a tu
+            pregunta más urgente.\n
+            * <b>Cualquier otra cosa.</b> Pues eso, otra cosa. Tu decides.\n\n
+
+    <b>ACABANDO EL SHOW:\n</b>
+        1. Apaga el televisor.\n\n
+
+        2. Deja la habitación.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        Este juego puede realizarse solamente con una habitación, la televisión y el mando a distancia,
+        pero será bastante más difícil sin los otros objetos. Si escoges jugar de esta manera, debes
+        hacer los siguientes cambios:\n
+            * En vez de dar el objeto de significancia personal a tu compañero, abrázalo y susurra
+            un secreto en su oreja (a tu compañero).\n
+            * En vez de desbloquear la puerta al edificio con la llave, escala hasta una ventana.\n
+            * En vez de leer el libro, simplemente espera.\n
+            * En vez de usar el arma para destruir la pantalla de la televisión, destrúyela de
+            cualquier otra manera - patéala, vuelcala, etc.\n\n
+
+        El número de preguntas que pueden aparecer durante la fase de las preguntas puede ser tan
+        bajo como 3, o tan alto como 26. No importa cuantas preguntas aparezcan, lo más importante
+        es responder honestamente. Fallar en esto hará que el juego termine.\n\n
+
+        El número y la variedad de programas de televisión que aparecerán como opciones en la
+        \“Guía\” del Canal Infinity dependerá enteramente de a quien hayas escogido como compañero
+        o compañeros. Considéralo seriamente. Hay seguridad en los números.\n\n
+
+        Solamente puedes ver el Canal Infinity un máximo de cuatro veces durante el transcurso de tu
+        vida. Escoge esos momentos sabiamente.\n\n
+
+        No hables de lo que has aprendido tras ver el Canal Infinity. A nadie. Nunca.\n\n
+
+    <b>Referente a la luna llena verde:\n</b>
+        Los escritos advierten de esta luna como muy mal presagio, pues nadie regresa tras verla.
+        Si ves una…\n\n
+        …lo sentimos de veras.\n\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 17____________________________________-->
+
+
+    <string name="Game17Name"><b>El Infierno de Tomino</b></string>
+
+    <string name="Game17Players"><b><u>PARTICIPANTES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game17Requi"><b><u>REQUISITOS\n</u></b>
+        * El Poema \"Tomino´s Hell\"
+
+
+    </string>
+
+    <string name="Game17Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    1. Recita el poema en voz alta, en Japonés si es posible. La traducción al Inglés más usada es esta:\n\n
+
+    <i>Elder sister vomits blood,\n
+        younger sister’s breathing fire\n
+        while sweet little Tomino\n
+        just spits up the jewels.\n\n
+
+        All alone does Tomino\n
+        go falling into that hell,\n
+        a hell of utter darkness,\n
+        without even flowers.\n\n
+
+        Is Tomino’s big sister\n
+        the one who whips him?\n
+        The purpose of the scourging\n
+        hangs dark in his mind.\n\n
+
+        Lashing and thrashing him, ah!\n
+        But never quite shattering.\n
+        One sure path to Avici,\n
+        the eternal hell.\n\n
+
+        Into that blackest of hells\n
+        guide him now, I pray-\n
+        to the golden sheep,\n
+        to the nightingale.\n\n
+
+        How much did he put\n
+        in that leather pouch\n
+        to prepare for his trek to\n
+        the eternal hell?\n\n
+
+        Spring is coming\n
+        to the valley, to the wood,\n
+        to the spiraling chasms\n
+        of the blackest hell.\n\n
+
+        The nightingale in her cage,\n
+        the sheep aboard the wagon,\n
+        and tears well up in the eyes\n
+        of sweet little Tomino.\n\n
+
+        Sing, o nightingale,\n
+        in the vast, misty forest-\n
+        he screams he only misses\n
+        his little sister.\n\n
+
+        His wailing desperation\n
+        echoes throughout hell-\n
+        a fox peony\n
+        opens its golden petals.\n\n
+
+        Down past the seven mountains\n
+        and seven rivers of hell-\n
+        the solitary journey\n
+        of sweet little Tomino.\n\n
+
+        If in this hell they be found,\n
+        may they then come to me, please,\n
+        those sharp spikes of punishment\n
+        from Needle Mountain.\n\n
+
+        Not just on some empty whim\n
+        Is flesh pierced with blood-red pins:\n
+        they serve as hellish signposts\n
+        for sweet little Tomino.\n\n</i>
+
+    <b>Notas Adicionales:\n</b>
+    <b>No recomendamos EN ABSOLUTO recitar el poema en ninguna de sus formas.</b> Terribles tragedias
+    tienden a perseguir el paso a los suficientemente necios e imprudentes como para hacerlo - hasta
+    que no queden más pasos que perseguir.\n\n
+
+    Aquí está la versión Japonesa del poema original:\n\n
+
+    <i>トミノの地獄\n
+        Tomino no Jigoku\n\n
+
+        姉は血を吐く、妹（いもと）は火吐く、\n
+        ane wa chi wo haku, imoto wa hihaku,\n\n
+
+        可愛いトミノは 宝玉（たま）を吐く。\n
+        kawaii tomino wa tama wo haku\n\n
+
+        ひとり地獄に落ちゆくトミノ、\n
+        hitori jigoku ni ochiyuku tomino,\n\n
+
+        地獄くらやみ花も無き。\n
+        jigoku kurayami hana mo naki.\n\n
+
+        鞭で叩くはトミノの姉か、\n
+        muchi de tataku wa tomino no ane ka,\n\n
+
+        鞭の朱総（しゅぶさ）が 気にかかる。\n
+        muchi no shuso ga ki ni kakaru.\n\n
+
+        叩けや叩きやれ叩かずとても、\n
+        tatake yatataki yare tatakazu totemo,\n\n
+
+        無間地獄はひとつみち。\n
+        mugen jigoku wa hitotsu michi.\n\n
+
+        暗い地獄へ案内（あない）をたのむ、\n
+        kurai jigoku e anai wo tanomu,\n\n
+
+        金の羊に、鶯に。\n
+        kane no hitsu ni, uguisu ni.\n\n
+
+        皮の嚢（ふくろ）にやいくらほど入れよ、\n
+        kawa no fukuro ni yaikura hodoireyo,\n\n
+
+        無間地獄の旅支度。\n
+        mugen jigoku no tabishitaku.\n\n
+
+        春が 来て候（そろ）林に谿（たに）に、\n
+        haru ga kitesoru hayashi ni tani ni,\n\n
+
+        暗い地獄谷七曲り。\n
+        kurai jigoku tanina namagari.\n\n
+
+        籠にや鶯、車にや羊、\n
+        kagoni yauguisu, kuruma ni yahitsuji,\n\n
+
+        可愛いトミノの眼にや涙。\n
+        kawaii tomino no me niya namida.\n\n
+
+        啼けよ、鶯、林の雨に\n
+        nakeyo, uguisu, hayashi no ame ni\n\n
+
+        妹恋しと 声かぎり。\n
+        imouto koishi to koe ga giri.\n\n
+
+        啼けば反響（こだま）が地獄にひびき、\n
+        nakeba kodama ga jigoku ni hibiki,\n\n
+
+        狐牡丹の花がさく。\n
+        kitsunebotan no hana ga saku.\n\n
+
+        地獄七山七谿めぐる、\n
+        jigoku nanayama nanatani meguru,\n\n
+
+        可愛いトミノのひとり旅。\n
+        kawaii tomino no hitoritabi.\n\n
+
+        地獄ござらばもて 来てたもれ、\n
+        jigoku gozaraba mote kite tamore,\n\n
+
+        針の御山（おやま）の留針（とめはり）を。\n
+        hari no oyama no tomebari wo.\n\n
+
+        赤い留針だてにはささぬ、\n
+        akai tomehari date niwa sasanu,\n\n
+
+        可愛いトミノのめじるしに。\n
+        kawaii tomino no mejirushi ni.\n\n\n</i>
+
+    Úsalo bajo tu propia cuenta y riesgo.\n\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 18____________________________________-->
+
+
+    <string name="Game18Name"><b>El Hombre de Los Campos</b></string>
+
+    <string name="Game18Players"><b><u>PARTICIPANTES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game18Requi"><b><u>REQUISITOS\n</u></b>
+        * Una casa con un gran jardín trasero o patio interior. Dentro de la casa debería haber
+        al menos una habitación que solo tenga una puerta. Idealmente esta habitación debería estar
+        vacía, e idealmente, la puerta deebería tener pestillo.\n
+        * Una fuente de iluminación no eléctrica. Una vela o farol funcionan bien, así como un buen
+        suministro de cerillas o mechero.\n
+        * Un crucifijo.\n
+        * Un reloj analógico. No uses un teléfono móvil. No funcionará.\n
+
+    </string>
+
+    <string name="Game18Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>LA INVITACIÓN:\n</b>
+        1. Comienza tras el ocaso, pero antes de la medianoche. Cuánto tiempo dejar entre uno u otro
+        es decisión tuya, pero no es recomendable que comiences a menos de una hora de la medianoche.
+        <b>Ver también: Notas Adicionales.</b>\n\n
+
+        2. Desaloja la casa y el patio trasero o interior de otra gente. Asegúrate de que llevas el
+        crucifijo encima.\n\n
+
+        3. Enciende tu vela o fuente de luz.\n\n
+
+        4. Entra en el patio trasero o interior y gírate de manera que mires hacia tu casa. Repite la
+        siguiente frase siete veces: \“¿Pero quien espantará a los cuervos?\”\n\n
+
+        5. Tras la repetición número 7, escucha atentamente:\n
+            * <u>Si no oyes nada:</u> La invocación ha fallado; no procedas. Aunque no se conocen
+            consecuencias negativas por simplemente volver a casa, es recomendable abandonar las
+            instalaciones de inmediato. No vuelvas hasta después de las 6am.\n
+            * <u>Si oyes una voz detrás de ti (o quizás dentro de tu cabeza):</u> La invocación
+            ha sido un éxito; puedes proceder. La voz dirá, \“Ese no es tu mayor problema.\”\n
+            Presta atención a su advertencia.\n\n
+
+        6. Vuelve a tu casa y cierra la puerta tras de ti. <b>No mires atrás.</b>\n\n
+
+    <b>EL EVENTO PRINCIPAL:\n</b>
+        1. Ve a la habitación de una sola puerta. Lo ideal es que no tenga ningún objeto, pero si no
+        es posible, cierra cualquier cosa que pueda ser abierta - cajones, armarios, ventanas,
+        puertas, cajas, contenedores, bolsas, <i>cualquier cosa</i>. <b>No te dejes nada. Si es
+        posible abrirlo, y está abierto, DEBES CERRARLO. </b> Esta será tu habitación segura.\n\n
+
+        2. Deja el crucifijo en la habitación segura. Continúa cargando con tu vela o linterna.\n\n
+
+        3. Sal de la habitación segura.\n\n
+
+        4. Todo lo que hay en tu casa que sea capaz de abrirse podrá ser abierto (aunque suene
+        redundante). Tu tarea es cerrarlo todo - <i>TODO</i> - antes de que el reloj marque las 12.\n\n
+
+        5. <u>Si ves un hombre con la piel pálida en tu visión periférica:</u> No lo mires. No hagas
+        contacto visual con él. De todas formas, no hay necesidad de temerle. Simplemente haz tu
+        tarea, cerrarlo todo. El no es el Hombre de los Campos.\n\n
+
+        6. <b>No mires en el patio trasero.</b>\n\n
+
+        7. <b>No mires en el patio trasero.</b>\n\n
+
+        8. <b>No mires en el patio trasero.</b>\n\n
+
+        9. <u>Si miras en el patio trasero:</u> <b>Ve inmediatamente a tu habitación segura</b> y
+        cierra con pestillo la puerta. Encuentra tu crucifijo y sujétalo firmemente. Reza por que no
+        hayas dejado nada que se pueda abrir en la habitación abierto - absolutamente nada.
+        <b>NO ABRAS LA PUERTA antes de las 6am</b>, no importa lo que escuches - o no escuches - fuera.\n\n
+
+    <b>EL CIERRE:\n</b>
+        1. Tras haber cerrado todo en tu casa - y estes <i>seguro</i> de que has cerrado todo lo
+        que hay en tu casa - ve a la cama y cierra una última cosa: Tus ojos.\n\n
+
+        2. Duerme, si puedes. No abras tus ojos.\n\n
+
+        3. Si despiertas por la mañana, enhorabuena - has ganado.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        * Aunque cualquier casa con un patio o jardín trasero será suficiente como ubicación, es
+        recomendable usar una casa aislada en el país con un campo adecuado en la parte posterior.
+        Esta ubicación produce mejores resultados.\n\n
+
+        * Aunque puedes comenzar el ritual en cualquier momento entre la puesta de sol y la
+        medianoche, no existe ningún intento realizado que haya tenido éxito antes de las 9pm.
+        Además, ningún intento realizado antes de una hora para la medianoche ha tenido éxito, por
+        diversas razones. <b>Ver también: La Condición Ganadora.</b>\n\n
+
+    <b>La Condición Ganadora:\n</b>
+        Si completas de forma satisfactoria el ritual, estarás completamente a salvo durante un año
+        calendario; no obstante, <i>de qué</i> estarás a salvo dependerá de cuando comenzaste
+        el ritual.\n\n
+
+            * <b>Si comenzaste tres horas antes de la medianoche:</b> Tu seguridad es física. No
+            sufrirás ningún tipo de enfermedad o lesión; permanecerás en perfecta salud durante un
+            año calendario.\n\n
+
+            * <b>Si comenzaste dos horas antes de la medianoche:</b> Tu seguridad es física y
+            financiera. permanecerás en perfecta salud, y nunca necesitarás dinero durante un año
+            calendario.\n\n
+
+            * <b>Si comenzaste una hora antes de la medianoche:</b> Tu seguridad es completa y total.
+            Tus acciones no tendrán consecuencias negativas de ninguna manera para ti durante un año
+            calendario.\n\n
+
+        Es poco probable que puedas completar el ritual satisfactoriamente en una hora.\n\n
+
+    <b>Acerca del Hombre Pálido:\n</b>
+        No es el Hombre de Los Campos.\n\n
+
+        Es más como un árbitro.\n\n
+
+    <b>Acerca del patio o trasero o interior:\n</b>
+        Si miras en el patio trasero, verás un espantapájaros que no habías visto antes. Digo
+        \“espantapájaros,\” por supuesto, pero \“espantapájaros\” es un término vago. Es mucho más
+        algo de lo que cualquier otro espantapájaros debería ser, además de que le faltará la misma
+        pieza anatómica que cierto jinete que podría nombrar.\n\n
+
+        Si ves al espantapájaros, el también te verá. Y cuando te vea, comenzará a bajar de su poste.\n\n
+
+        Este es el Hombre de Los Campos.\n\n
+
+        Desde el momento en el que dirija su mirada hacia ti, no tendrás más de 60 segundos para
+        alcanzar tu habitación segura y cerrar la puerta con cerrojo. <b>No abras, bajo ninguna
+        circunstancia, la puerta antes de las 6am.</b> Si lo haces, tomará algo tuyo. Algo que
+        necesitas. Algo sin lo que no puedes… <i>seguir</i> adelante.\n\n
+
+    <b>Una Nota Final:\n</b>
+        Si te ves obligado a huir de tu habitación segura, más vale que no dejes nada allí abierto.\n\n
+
+        Si lo hiciste…\n\n
+
+        …aún será capaz de entrar.\n
+
+
+    </string>
+
+
+
+    <!--__________________________ JUEGO 19____________________________________-->
+
+
+
+    <string name="Game19Name"><b>La Cama del Pesar</b></string>
+
+    <string name="Game19Players"><b><u>JUGADORES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game19Requi"><b><u>REQUISITOS\n</u></b>
+        * Un principal.\n
+
+
+    </string>
+
+    <string name="Game19Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+        1. Encuentra una casa abandonada. Entra en ella, ten en cuenta no obstante que lo haces por
+        tu propia cuenta y riesgo - tanto por el juego, como por romper la ley al entrar. <b>No es
+        recomendable o tolerable que entres de forma ilegal en un edificio para realizar este juego.</b>
+        De nuevo, hazlo bajo tu propia cuenta y riesgo.\n\n
+
+        2. Busca una habitación con una puerta roja. Si intentas abrirla, debería parecer que está
+        cerrada con pestillo. <b>Nota</b>: Si no encuentras una habitación con una puerta roja, o encuentras una
+        puerta roja que no está cerrada con pestillo, vete. Esta casa no es para ti.\n\n
+
+        3. Llama dos veces a la puerta, e intenta abrirla de nuevo.\n
+            * <b>Si permanece cerrada:</b> No procedas. Abandona la casa y no vuelvas.\n
+            * <b>Si se abre:</b> Puedes entrar. Encontraras que es una habitación sin ventanas, y el
+            único objeto existente será una cama. Ésta se encontrará en el centro de la habitación,
+            y estará hecha con sábanas rojas. Procede con el Paso 4.\n\n
+
+        4. En este punto, debes tomar una decisión: Abandonar la habitación; o, puedes permanecer
+        cerca de la puerta roja que se encuentra tras de ti.\n
+            * <b>Si escoges salir de la habitación:</b> Puedes hacerlo de forma segura. No
+            experimentarás ningún efecto nocivo, siempre y cuando no regreses a la casa. Nunca más.\n
+            * <b>Si escoges permanecer junto a la puerta roja:</b> Debes cruzar hasta la cama y
+            acostarte sobre ella. No te metas entre las sábanas; en vez de eso, deja reposar a tu
+            cuerpo encima de ellas. Procede con el paso 5.\n\n
+
+        5. Cierra tus ojos y quédate quieto. Puede que experimentes alguna cosa o todas entre las
+        siguientes: El sonido de un llanto; un fuerte golpe en la puerta; una sacudida de la cama.
+        <b>No importa lo que pase, no te muevas.</b>\n\n
+
+        6. Si has completado el paso 5 correctamente, la habitación eventualmente se volverá
+        silenciosa y puede que una voz susurre desde la oscuridad tres palabras, y solo tres
+        palabras: \“Ya está hecho.\”\n\n
+
+        7. En el momento en el que oigas esas palabras, abre tus ojos, incorpórate en la cama, y
+        abandona la habitación. <b>Cierra la puerta tras de ti. No mires atrás. No hables con nada
+        ni con nadie.</b>\n\n
+
+        8. Abandona la casa. <b>No mires atrás. No hables con nada ni con nadie.</b>\n\n
+
+        9. Ve a tu hogar. <b>No mires atrás. No hables con nada ni con nadie</b>\n\n
+
+        10.	En el momento en el que llegues a casa, ve a la cama y duérmete.\n\n
+
+        11.	Si has tenido éxito completando el juego, cualquier duda, aflicción, o tristeza que
+        pudieras estar experimentando se desvanecerán tras despertar. Permanecerás sin preocupaciones
+        durante siete días. Enhorabuena.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        Si fallas a la hora de completar cualquiera de los pasos del juego puede desembocar en una
+        condición de fallo total. En este caso, tu dolor no se desvanecerá; más bien, irá en aumento
+        diez veces más por cada día que pase hasta que completes todos los pasos correctamente.
+        Tampoco vale cualquier edificio abandonado, debe haber estado habitada anteriormente, de
+        cualquier otra manera, no funcionará.\n\n
+
+    <b>Pero Ten Cuidado:\n</b>
+        Puede que no te hayas percatado de que has fallado hasta que es demasiado tarde. Y si
+        necesitas volver a la habitación de la puerta roja para completar los pasos en los que
+        fallaste…\n\n
+
+        …Bueno, puede que no se encuentre donde la dejaste.\n\n
+
+    </string>
+
+    <!--__________________________ JUEGO 20____________________________________-->
+
+
+
+    <string name="Game20Name"><b>La Dama de Picas</b></string>
+
+    <string name="Game20Players"><b><u>PARTICIPANTES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game20Requi"><b><u>REQUISITOS\n</u></b>
+        * Una vela.\n
+        * Cerillas o un encendedor.\n
+        * Lápiz de labios, preferiblemente rojo, aunque otros colores pueden ser válidos.\n
+        * Una habitación tranquila y oscura.\n
+        * Un espejo. Un espejo que sea un accesorio de un cuarto también es válido (por ejemplo, un
+        espejo de baño).\n
+        * Un acarta de la Dama de Picas, extraída de un mazo de cartas.\n\n
+
+    </string>
+
+    <string name="Game20Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>LA INVOCACIÓN:\n</b>
+        1. Comienza a medianoche.\n\n
+
+        2. Entra en la habitación elegida (oscura y tranquila). Asegúrate de que todas las luces están
+        apagadas.\n\n
+
+        3. Coloca la vela enfrente del espejo y enciéndela con las cerillas o el mechero.\n\n
+
+        4. Usando el lápiz labial, escribe \“Dama de Picas\” en el espejo. Sujeta entonces la carta
+        de la Dama de Picas en tu mano de manera que se vea reflejada en el espejo su parte frontal.\n\n
+
+        5. Cierra los ojos. Vacía tu mente. Relájate, tanto como seas capaz. Repite entonces las
+        palabras \“Dama de Picas, aparece\” en voz alta siete veces.\n\n
+
+        6. Mantén tus ojos cerrados e invoca en tu mente la imagen de la Dama de Picas. Irá vestida
+        con colores negros, ojos a juego, y aunque su sonrisa puede derretir incluso los corazones
+        más fríos, su rostro se presentará destrozado y lleno de cicatrices. No entres en pánico
+        si escuchas la voz o la risa de una mujer, o el eco de unos pasos cercanos; esos sonidos
+        indican que la invocación ha sido un éxito.\n\n
+
+        7. Abre tus ojos.\n\n
+
+    <b>EL DESEO:\n</b>
+        1. Si, una vez abras los ojos, ocurre algo de lo siguiente, <b>NO procedas:</b>\n
+            * La vela se ha apagado;\n
+            * La carta mira hacia ti;\n
+            * La carta ya no está;\n
+            * Ves una mujer en el espejo presionando el espejo con sus manos.\n\n
+
+        2. En caso de que cualquiera de estas cosas pasen, inmediatamente ejecuta el Final apropiado
+        para tu situación como se indica más abajo. Si, no obstante, abres los ojos y ves a una
+        mujer en el espejo con sus manos a sus lados, puedes proceder.\n\n
+
+        3. Expón tu deseo a la mujer.\n\n
+
+        4. No importa lo que pase a continuación, <b>NO ROMPAS el contacto visual con ella.</b> Si
+        lo haces, inmediatamente ejecuta el Final adecuado para esa situación como se describe
+        más abajo.\n\n
+
+        5. Si decide concederte el deseo, te sonreirá y dirá, \“Si.\”\n\n
+
+    <b>EL FINAL:\n</b>
+        1. <b>Si el ritual ha tenido éxito:</b> Dí las palabras, \“Dama de Picas, desaparece.\”
+        Limpia entonces su nombre del espejo, sopla para apagar la vela y enciende las luces. Quema
+        la carta de la Dama de Picas hasta que sea cenizas lo antes posible. Tu deseo debería
+        hacerse realidad en breve.\n\n
+
+        2. <b>Si el ritual no ha tenido éxito:</b> Procede según la situación.\n\n
+
+            * <b>Si abres los ojos y la vela se ha apagado:</b> Enciéndela lo más rápido posible, dí
+            las palabras, \“Dama de Picas, desaparece,\” borra su nombre del espejo, apaga la vela
+             y enciende las luces. Quema la carta de la Dama de Picas inmediatamente.\n\n
+
+            * <b>Si abres los ojos y la carta mira hacia ti, en vez de al espejo:</b> Rompe la
+            carta por la mitad, di las palabras, \“Dama de Picas, desaparece,\” borra su nombre del
+            espejo, apaga la vela y enciende las luces. Quema los trozos de carta de la Dama de
+            Picas inmediatamente.\n\n
+
+            * <b>Si abres los ojos y la carta ya no está:</b> Rompe el cristal, enciende las luces,
+            e intenta encontrar la carta por la habitación. Si la encuentras, quémala. Si no,
+            desocupa la habitación de manera inmediata.\n\n
+
+            * <b>Si abres los ojos y las manos de la mujer están presionando contra el espejo:</b>
+            Rompe el espejo inmediatamente. Abandona las instalaciones de inmediato y quema la
+            carta.\n\n
+
+            * <b>Si fallas al mantener el contacto visual con ella:</b> Rompe el espejo de manera
+            inmediata. Abandona las instalaciones de inmediato y quema la carta.\n\n
+
+            * <b>Si ella rechaza concederte el deseo:</b> Rompe el espejo. Apaga la vela. Quema la
+            carta. Espera tener suerte.\n\n
+
+        3.	No intentes el ritual de nuevo. Nunca.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        Si abres los ojos durante la Invocación y todo está normal, salvo que el espejo esté vacío,
+        haya ausencia de voces, risas o pasos, el ritual ha fallado. No hay consecuencias negativas
+        por fallar en el ritual de esta manera; no obstante, aún es una buena idea repetir las
+        palabras, \“Dama de Picas, desaparece,\” limpia el espejo, apaga la vela y enciende las
+        luces. Quema la carta lo antes posible para tu conveniencia.\n\n
+
+        No inentes acabar el juego entre la declaración de tu deseo y la respuesta de la mujer. No
+        le gusta ser interrumpida.\n\n
+
+        La Dama de Picas tiene la costumbre de quedarse. Incluso si el ritual tuvo éxito, todo tiene
+        un precio.\n\n
+
+    <b>Hora de una Historia:\n</b>
+        Hace ya bastante tiempo, una joven mujer se mudó a una pequeña aldea de Europa del Este desde
+        algún lugar del que nadie ha oído hablar. Extraordinariamente bella, recibía continuamente
+        bastante atención por parte de los hombres de la aldea; se decía que su sonrisa podía derretir
+        el corazón de cualquiera a quien se la otorgara. Vestía completamente de negro, ganándose
+        el sobrenombre de la Dama de Picas, gracias a su semejanza a la carta del mismo nombre.\n\n
+
+        Pero su belleza fue también su ruina. Los hermanos se enfrentaban a los hermanos, los padres
+        contra los hijos, los amigos contra los amigos de toda la vida, todo para ganar, una sola
+        cosa, la sonrisa de ella. Las mujeres se volvieron contra ella también, culpándola por
+        apoderarse de la atención de sus maridos y parejas. En un esfuerzo para salvar su aldea, los
+        mayores de la aldea decidieron que solamente había una solución: Ella debía ser eliminada
+        de la ecuación.\n\n
+
+        Una turba enfurecida descendió hasta su casa y la hallaron cepillandose el pelo delante de
+        un espejo. La turba la golpeó salvajemente, rasgando su precioso rostro y volviéndolo jirones.
+        La dejaron morir, sola, con su espejo - y su propio rostro devastado - por compañía.\n\n
+
+        Durante tres agónicos días lloró, sus llantos resonaban en toda la aldea, hasta que se hizo
+        el silencio. Pero con su último aliento, maldijo a cualquiera que pronunciara su nombre
+        enfrente del espejo. Si eres amable, hará tu más profundo deseo realidad… pero no querrás
+        saber qué pasará si eres maleducado.\n\n
+
+    <b>Y Hagas lo que Hagas:\n</b>
+        No la dejes salir del espejo.\n\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 21____________________________________-->
+
+
+    <string name="Game21Name"><b>El Ritual del Desconocido</b></string>
+
+    <string name="Game21Players"><b><u>PARTICIPANTES</u></b>\n*Un principal.\n</string>
+
+    <string name="Game21Requi"><b><u>REQUISITOS\n</u></b>
+        * Una puerta, idealmente fabricada en madera. Esta debe tener un pestillo, pero no debe tener
+        ventanas o mirillas.\n
+        * Una vela blanca.\n
+        * Una vela negra.\n
+        * Un encendedor o cerillas.\n
+        * Un regalo. El regalo NO debe ser un objeto de poder; al contrario, debe ser esencialmente
+        lo opuesto a un objeto de poder - algo que no tenga conexión a ti de ninguna manera. Lo ideal
+        sería comprar o adquirir el regalo el mismo día en el que quieras realizar el ritual. Se recomienda
+        un dulce o caramelo de algún tipo.\n
+        * Una herramienta de escritura. Se recomienda tiza.\n
+        * La fotografía de una persona que encaje con estas especificaciones:\n
+            -Debes haber tomado la foto tú mism@.\n
+            -La fotografía debe ser lo más reciente posible.\n
+            -La fotografía no debe representar a nadie de tu familia inmediata.\n\n
+
+    </string>
+
+    <string name="Game21Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>LA INVITACIÓN:\n</b>
+        1. Comienza tras el anochecer. Puedes empezar a cualquier hora una vez el sol haya desaparecido;
+        no obstante, para maximizar los resultados, se recomienda que comiences lo más cerca posible
+        a la medianoche.\n\n
+
+        2. Asegúrate de que estás solo en la localización que has escogido. Cierra cualquier ventana,
+        corre cualquier cortina que haya, cubre también los espejos (si los hay) y apaga las luces.
+        Lleva encima la fotografía, no la dejes.\n\n
+
+        3. Cierra la puerta. Con tu herramienta de escritura, escribe la palabra "Desconocido" en ella.\n\n
+
+        4. Coloca las dos velas a ambos lados de la puerta (qué color se coloca en qué lado no es
+        importante). Enciende las velas usando las cerillas o el encendedor.\n\n
+
+        5. Coloca tu regalo enfrente de la puerta. Si la puerta se abre hacia ti, asegúrate de que
+        el regalo está lo suficientemente lejos la puerta para que no toque o sea golpeado
+        por esta cuando sea abierta.\n\n
+
+        6. Llama a la puerta tres veces.\n\n
+
+        7. Espera.\n
+            <b>* Si oyes solamente silencio:</b> No procedas. Borra la palabra de la puerta, cierra el
+            pestillo, y apaga las velas. Espera hasta el amanecer. Una vez haya salido el sol, puedes
+            desbloquear la puerta y abrirla.\n
+            <b>* Si escuchas tres golpes que provienen del otro lado de la puerta:</b> Puedes proceder.
+            Abre ligeramente la puerta - no más de tres o cuatro centímetros - pero no mires afuera.
+            Una vez abierta la puerta, date la vuelta y da la espalda a la puerta y al regalo.\n\n
+
+    <b>EL INTERCAMBIO DE REGALOS:\n</b>
+        1. Tras de ti, la puerta se abrirá completamente. Sentirás una presencia; esto indica que el
+        Desconocido ha llegado. <b>NO te des la vuelta. NO mires al Desconocido.</b>\n
+            * <b>Si el Desconocido no aprueba tu regalo:</b> No procedas. No te des la vuelta.
+            No mires al Desconocido. Discúlpate. Permanece donde estás hasta el amanecer.\n
+            * <b>Si, por cualquier motivo, no deseas continuar en este momento:</b> Discúlpate y de
+            forma amable pídele que se marche. La puerta se cerrará, momento en el que deberás darte
+            la vuelta, borrar la palabra de la puerta, cerrarla con pestillo, y apagar las velas.
+            Espera hasta el amanecer. <b>NO desbloquees la puerta hasta que el sol haya salido.</b>\n
+            * <b>Si el Desconocido aprueba tu regalo:</b> Te preguntará tu nombre. Mira la fotografía
+            y di en voz alta el nombre de la persona que aparece en ella.\n\n
+
+        2. Espera.\n\n
+
+        3. Oirás la puerta cerrarse, y la presencia del Desconocido se irá progresivamente. Una vez
+        ocurran ambas cosas, date la vuelta; tu regalo no debería estar presente. Borra la palabra
+        de la puerta, cierra la puerta con el pestillo y apaga las velas. Espera hasta el amanecer.
+        <b>NO desbloquees la puerta hasta que el sol haya salido.</b>\n\n
+
+        4. Tan pronto como sea posible, quema la fotografía hasta que solo queden cenizas.
+        <b>NO DESCUIDES este paso.</b>\n\n
+
+    <b>LOS RESULTADOS:\n</b>
+        1. Echa un ojo a los obituarios durante los siguientes tres días. Si ves en ellos el nombre
+        que diste al Desconocido, puedes considerar el ritual como exitoso - si es que se puede
+        considerar exitoso a cualquier ritual de este tipo.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        Mientras no te des la vuelta o mires al Desconocido, no necesitas temerle; es tu invitado
+        y como tal, no te hará daño. No obstante, si el Desconocido no aprueba tu regalo o si elegiste
+        abortar el ritual después de que el Desconocido llegase, no es recomendable que intentes el
+        ritual de nuevo en el futuro - nunca. El Desconocido estará bastante ofendido contigo.\n\n
+
+        Después de que el Desconocido llegue, <b>es imperativo que no te gires o lo mires.</b>
+        Las consecuencias de hacerlo pueden variar de una persona a otra, pero en el mejor de los
+        casos, el Desconocido nunca se irá.\n\n
+
+        No te gustaría saber qué ocurriría en el peor de ellos.\n\n
+
+    <b>En lo concerniente a la Fotografía:\n</b>
+        <b>NO OLVIDES quemarla. </b>Si la fotografía NO ha sido destruída por el fuego al momento de
+        que la víctima haya expirado… bueno, digamos que no estarás en condiciones de leer los
+        obituarios.
+
+    </string>
+
+
+
+    <!--__________________________ JUEGO 22____________________________________-->
+
+
+    <string name="Game22Name"><b>El Simio</b></string>
+
+    <string name="Game22Players"><b><u>JUGADORES</u></b>\n*Al menos dos jugadores. Tus compañer@(s)
+        deben ser gente en la que confías más allá de toda duda.\n</string>
+
+    <string name="Game22Requi"><b><u>REQUISITOS\n</u></b>
+    * Un bosque lo suficientemente lejos de la civilización como puedas encontrar o manejar.\n
+    * Suministros de supervivencia. Traed los suficientes como para aguantar un período de 24 horas.\n
+
+    </string>
+
+    <string name="Game22Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>EL RETO:\n</b>
+        1. Comienza entrando en el bosque antes del amanecer con tus compañer@(s).\n\n
+
+        2. Forma un círculo con tu(s) compañer@(s) uniendo vuestras manos. Decid en voz alta, "¡Somos
+        aliados! ¡Deseamos jugar con un oponente digno! ¿No nos enfrentará ningún desafío?"\n\n
+
+        3. Cuando oigáis un crash viniendo de algún lugar del bosque, corred - junt@s. <b>NO os
+        separéis del grupo. NO dejéis a nadie atrás.</b>\n\n
+
+    <b>LA CAZA:\n</b>
+        1. Tu y tu(s) compañer@(s) sois ahora la Manada. Durante las próximas 24 horas - una noche y
+        día completos - la Manada será cazada por el Simio.\n\n
+
+        2. Sobrevivid como sea necesario, pero <b>NO os separéis, NO hieras a tu(s) compañer@(s) y
+            NO imploréis compasión.</b>\n\n
+
+    <b>EL PREMIO:\n</b>
+        1. Cuando se cumplan las 24 horas, abandonad el bosque inmediatamente.\n\n
+
+        2. Cuando salgáis del bosque, se os acercará un guardabosques, que te preguntará,
+        "eres dign@?"\n
+            * <b>Si respondes "Si":</b> NO recomendamos escoger esa respuesta.\n
+            * <b>Si respondes "No":</b> NO recomendamos escoger esa respuesta.\n
+            * <b>Si respondes "¿Lo soy?":</b> El guardabosques te dará una caja. Tómala, pero no la
+            abras o mires adentro (aún).\n\n
+
+        3. Abandonad el área.\n\n
+
+        4. Cuando estés en suelo familiar para ti, abre la caja para recibir tu premio. Encontrarás
+        uno o dos artículos en el interior: Un objeto de valor, monetario o personal, que tu o tus
+        compañer@(s) habéis perdido previamente; o una hoja de papel con algo escrito en ella. En el
+        caso de haber recibido la hoja de papel, puedes escoger leerla o no; de cualquier manera, se
+        recomienda precaución cuando hagas tu elección.\n\n
+
+    <b>Tips de Supervivencia:\n</b>
+        <b>Manteneos junt@s.</b> Como verdadero cazador, el Simio es un maestro a la hora de aislar
+        a los miembros de la manada y apartarlos uno a uno. Vale la pena repetirlo: No os separéis,
+        y NO dejéis a nadie atrás.\n\n
+
+        Si escuchas al Simio tras de ti, <b>NO te des la vuelta y NO lo mires.</b> Hacerlo puede
+        provocar pérdidas de memoria o parálisis (o algo peor).\n\n
+
+        <b>NO intentéis dejar el bosque antes de que acabe la caza.</b> El Simio no está confinado
+        en el bosque, ya sabes - y no querréis llevarlo a casa con vosotr@s.\n\n
+
+    <b>Sobre la Hoja de Papel:\n</b>
+        Escrita en ella habrá un secreto - Pero piensa muy bien si quieres leerlo. No todos los secretos
+        deberían ser compartidos, y lo aprendido, no se puede desaprender.\n\n
+
+        Buena Suerte.
+
+
+    </string>
+
+
+
+    <!--__________________________ JUEGO 23____________________________________-->
+
+
+    <string name="Game23Name"><b>El Hombre de la Aldaba</b></string>
+
+    <string name="Game23Players"><b><u>JUGADORES</u></b>\n*Un Principal\n</string>
+
+    <string name="Game23Requi"><b><u>REQUISITOS\n</u></b>
+        * Tres velas rojas. Deberían poder sostenerse por sí solas; Tres velas en candelabros también
+        deberían funcionar, al igual que velas del té o velas de pilar.\n
+        * Un encendedor o cerillas.\n
+        * Arena del desierto.\n
+        * Una bolsa de arpillera.\n
+        * Una puerta con una aldaba.\n
+        * Una habitación oscura y silenciosa.\n
+        * Una pregunta.\n\n
+
+    </string>
+
+    <string name="Game23Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+        1. Prepara la habitación: Echa las cortinas, asegúrate de que no entra luz del exterior;
+        apaga las luces; coloca la aldaba en el exterior de tu puerta, si es necesario; y saca de
+        la habitación a cualquier otra persona que haya allí.\n\n
+
+        2. Comienza el ritual en el mismo momento que un eclipse lunar durante la estación de
+        Primavera.\n\n
+
+        3. Coloca las velas en formación triangular dentro de la habitación y enciende una a una.\n\n
+
+        4. Crea un círculo a tu alrededor con la arena y siéntate dentro. Coloca la bolsa de arpillera
+        sobre tu cabeza.\n\n
+
+        5. Comienza recitando la frase: “Te nunc esse scientiam.” <b>(Mira la nota más abajo.)</b>\n\n
+
+        6. Continúa recitando la frase hasta que oigas un golpe en las paredes de la habitación. Cesa
+        de recitar tan pronto como comiencen los golpes.\n
+            * Si no has oído un golpe, <b>no procedas.</b> El Hombre de la Aldaba no desea aparecer
+            y no hay que forzar al Hombre de la Aldaba a hacerlo si no quiere. Apaga las velas,
+            limpia la arena y abandona la habitación. La ruta de acción más segura es dejar tu casa
+            hasta las seis de la madrugada.\n\n
+
+        7. Tras dejar de recitar, deberías escuchar el sonido de la aldaba en el exterior de la
+        puerta. Invita al Hombre de la Aldaba a tu habitación.\n\n
+
+        8. Haz tu pregunta. <b>Solamente debes hacer una pregunta,</b> así que haz que merezca la
+        pena.\n\n
+
+        9. Después de que el Hombre de la Aldaba responda a tu pregunta, dale las gracias y espera
+        a que se marche. Una vez se haya ido, apaga las velas y limpia la arena.\n\n
+
+        10. Si el Hombre de la Aldaba no desea irse…\n\n
+
+        …Estás a tu propia suerte.\n\n
+
+    <b>Una Nota Acerca del Canto:\n</b>
+        Para empezar, me parece algo sospechoso. Mi latín está un poco oxidado, pero aun así, no estoy
+        muy seguro de que sea preciso. La idea parece ser invocar al Hombre de la Aldaba para otorgarte
+        conocimiento, pero me parece que sería mejor usar la forma formal de “tú” como señal de respeto,
+        mejor que la informal. Además, las instrucciones originales usan “scientism” en vez de
+        “scientiam”, lo que asumo como un error ortográfico o errata. Finalmente, no parece haber nada
+        que respalde que el Hombre de la Aldaba sea una creación Romana; ¿quizás buscamos un Latín de
+        Iglesia? No estoy seguro. Sea cual sea el caso, ten en cuenta que el ritual depende de que
+        este canto sea preciso - pero no estoy convencido de que el canto incluido en las instrucciones
+        originales actualmente sea preciso. Como tal, es posible que desees continuar con precaución.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        No seas grosero con el Hombre de la Aldaba. No se toma de forma amable las groserías.\n\n
+
+    <b>Acerca de tu Pregunta:\n</b>
+        Antes de que la formules… asegúrate de que realmente deseas saber la respuesta. Una vez que
+        el Hombre de la Aldaba ha hablado, no hay manera de desaprender lo que te ha dicho.
+
+    </string>
+
+
+
+    <!--__________________________ JUEGO 24____________________________________-->
+
+
+    <string name="Game24Name"><b>El Hombre Cuervo</b></string>
+
+    <string name="Game24Players"><b><u>PARTICIPANTES</u></b>\n*Un Principal\n</string>
+
+    <string name="Game24Requi"><b><u>REQUISITOS\n</u></b>
+        * Una habitación tranquila y oscura. Es recomendable que el ritual se lleve a cabo en un entorno
+        no urbano, ya que cualquier polución lumínica puede causar desafortunados e
+        involuntarios resultados.\n
+        * Sal.\n
+        * Cinco velas.\n
+        * Cerillas o un encendedor.\n
+        * Un objeto afilado capaz de extraer sangre, como una aguja o cuchillo.\n
+        * Un apagavelas (opcional).\n
+        * Un talisman u objeto de protección.\n
+
+    </string>
+
+    <string name="Game24Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>LA INVOCACIÓN:\n</b>
+        1. Comienza de noche, idealmente en una noche nublada sin luna.\n\n
+
+        2. Prepara la habitación: Corre las cortinas, asegurándote que ninguna luz entra desde el
+        exterior, y apaga todas las lámparas y otras fuentes de luz. Mantén tu objeto de protección
+        contigo todo el tiempo.\n\n
+
+        3. Dibuja un círculo con la sal. <b>NO te metas dentro del círculo.</b>\n\n
+
+        4. Alinea las cinco velas frente a ti.\n\n
+
+        5. Usando las cerillas o el encendedor, enciende las primeras cuatro velas en secuencia.
+        Mientras las enciendes, recita el siguiente encantamiento (encendiendo una vela por línea):
+        <i>"En esta noche oscura, Llamo al Hombre Cuervo, Aparece frente a mí aquí y ahora, Y realiza mi deseo"</i>\n\n
+
+        6. Usando el objeto afilado, perfora tu dedo hasta que sangre. Toca la quinta vela con tu
+        sangre y recita, "La llama es mi faro, la sangre mi sacrificio".\n\n
+
+        7. Enciende la quinta vela.\n\n
+
+    <b>EL EVENTO PRINCIPAL:\n</b>
+        1. Después de haber encendido la quinta vela, el Hombre Cuervo hará notar su presencia, aun
+        así, estará confinado en el interior del círculo de sal. Deberías ser capaz de verlo; no
+        obstante, es más probable que permanezca invisible.\n\n
+
+        2. Ahora debes preguntar lo que quieras obtener de él. Si buscas información, el te la
+        proveerá. Si necesitas a un sirviente, el completará cualquier tarea que lo mandes a hacer.
+        Trátalo de forma respetuosa, y no sobrepases tus límites.\n\n
+
+    <b>LIBERANDO AL HOMBRE CUERVO:\n</b>
+        1. Una vez hayas preguntado todo lo que deseas, da las gracias al Hombre Cuervo. Dale las
+        gracias por venir; Dale las gracias por responder; Dale las gracias por concederte tus
+        peticiones. <b>No te saltes este paso.</b>\n\n
+
+        2. Apaga las velas una a una. Conforme las vas apagando, pronuncia las siguientes palabras
+        (apagando una vela por cada palabra pronunciada): "Yo te libero ahora, Hombre Cuervo."
+        <b>NO SOPLES las velas.</b> En vez de eso, usa el apagavelas o apagalas con la punta de tus
+        dedos.\n\n
+
+        3. Limpia la sal, pero no la deseches. En vez de eso, colócalas afuera de cualquier puerta que
+        conduzca a tu hogar.\n\n
+
+        4. Mantén tu objeto de protección cerca durante los próximos días. No vayas a ningún sitio sin
+        el, dejarlo olvidado puede invitar al Hombre Cuervo a <i>llamarte</i> para servirle… y no querrás
+        hacer todo lo que te mande. Créenos.\n\n
+
+    <b><u>VERSIÓN PARA TRES PERSONAS:\n\n</u></b>
+    <b><u>PARTICIPANTES:\n</u></b>
+        * Al menos tres participantes. Uno debe ser una chica virgen (la "Ofrenda") y otro debe ser
+        masculino (el "Encantador"). El tercero debe funcionar como el "Testigo," al igual que cualquier
+        otro participante adicional.\n\n
+
+    <b><u>REQUISITOS:\n</u></b>
+        * Una habitación tranquila y oscura. De nuevo, es recomendable que este ritual sea ejecutado
+        en un entorno no urbano para evitar la polución lumínica.\n
+        * Una llama ardiente estacionaria. Puede usarse una vela; no obstante, un encendedor tipo Zippo
+        - uno que permanezca encendido - debería ser suficiente. Si usas una vela, trae también lo
+        necesario para encenderla.\n
+        * Suficientes piedras como para crear un gran círculo cerrado.\n
+        * Un objeto afilado capaz de extraer sangre.\n
+        * Un pequeño trozo de papel o tela.\n
+        * Tres preguntas.\n\n
+
+    <b><u>INSTRUCCIONES:\n</u></b>
+    <b>LA INVOCACIÓN:\n</b>
+        1. Comienza de noche, idealmente en una noche nublada sin luna.\n\n
+
+        2. Prepara la habitación: Corre las cortinas, asegurándote que ninguna luz entra desde el
+        exterior, y apaga todas las lámparas y otras fuentes de luz. Quita cualquier mascota, animal
+        o humanos no participantes del área.\n\n
+
+        3. Crea un gran anillo con las piedras. Cada piedra debe tocar la que está a cada lado,
+        asegurando así que el círculo no esté roto. La Ofrenda y el Testigo deben permanecer en el
+        perímetro del círculo; los demás Testigos deben permanecer fuera de el. El Encantador debería
+        traer consigo la llama (además de lo que necesite para encenderla, en el caso de que use
+        una vela), y el objeto afilado; La Ofrenda debe traer el trozo de papel o tela. Si va a
+        usarse una vela, la Ofrenda también debería tener cerillas o un encendedor con ella.\n\n
+
+        4. Enciende la llama y colócala en el centro del círculo. Tras encenderla, el Encantador y
+        la Ofrenda deben acercarse y colocarse uno frente al otro sobre la llama. <b>NO PERMITAS que
+            el Encantador y la Ofrenda se toquen el uno al otro.</b>\n\n
+
+        5. Usando el objeto afilado, el Encantador debe extraer sangre de la Ofrenda. Es recomendable
+         que sea perforando o cortando un dedo. Como se estipuló anteriormente, <b> el Encantador y
+            la Ofrenda no deben tocar carne con carne;</b> no obstante, es posible para el Encantador
+        realizar el corte sin tocar a la Ofrenda.\n\n
+
+        6. La Ofrenda debe depositar una gota de su sanbre en el trozo de papel o ropa antes de dársela
+        al Encantador. De nuevo, <b>el Encantador y la Ofrenda no deben bajo ninguna circunstancia
+            tocarse durante el proceso.</b>\n\n
+
+        7. La Ofrenda debe volver al perímetro interior del círculo.\n\n
+
+        8. El Encantador debe quemar el papel o tela sobre la llama. Tras hacer esto, todos los
+        participantes deben cerrar sus ojos. <b>NO ABRÁIS los ojos a menos que se especifique hacerlo
+            durante cualquier punto del ritual.</b>\n\n
+
+        9. El Encantador debe recitar las siguientes palabras: <i>“Te invocamos, Hombre Cuervo, para
+            honrarnos con tu suprema presencia, venimos a ofrecerte como ofrenda esta chica virgen,
+            para tomarla como tuya y la uses como desees. Muéstrame tu forma para que pueda ofrecerte
+            este regalo."</i>\n\n
+
+        10. El Encantador debe repetir estas palabras hasta que caiga el silencio completo y absoluto.
+         Cuando no se oiga ningún otro sonido, el Encantador debe abrir sus ojos, apagar la llama, y
+         volver al perímetro interior del círculo. <b>SOLAMENTE el Encantador puede abrir sus ojos.
+            Todos los otros participantes deben permanecer con sus ojos cerrados.</b>\n\n
+
+        11. Si se hace de forma correcta, el Hombre Cuervo aparecerá dentro del círculo.\n\n
+
+    <b>EL EVENTO PRINCIPAL:\n</b>
+        1. El Encantador puede preguntar al Hombre Cuervo si está dispuesto a responder cualquier
+        pregunta.\n\n
+
+        2. <b>Si el Hombre Cuervo rechaza:</b> Procede inmediatamente a "Finalizando el Ritual."\n\n
+
+        3. <b>Si el Hombre Cuervo accede:</b> El Encantador puede realizar las tres preguntas que
+        ha preparado. Date cuenta de las respuestas del Hombre Cuervo, pues el conocimiento que
+        contienen será de mucho valor.\n\n
+
+        4. <b>NO HAGAS ENFADAR, provocar, irrespetar o irritar al Hombre Cuervo.</b>\n\n
+
+    <b>Finalizando el Ritual:\n</b>
+        1. Para liberar al Hombre Cuervo, todos los participantes deben abrir sus ojos y decir,
+        "¡Déjanos, Hombre Cuervo!"\n\n
+
+        2. La Ofrenda debe entonces apresurarse y re-encender la llama. Esto hará desvanecerse al
+        Hombre Cuervo al lugar del que procede.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        * Las respuestas del Hombre Cuervo pueden ser vagas o enigmáticas, pero siempre serán correctas.\n\n
+
+        * Durante la versión de tres participantes, no es recomendable que el Encantador pregunte al
+        Hombre Cuervo más de tres preguntas.\n\n
+
+        * La versión de tres participantes de este ritual es bastante más peligrosa que la de un solo
+        participante. Por esta razón, la versión para tres participantes NO debe intentarse más de
+        una vez. Nunca.\n\n
+
+    <b>Si la Ofrenda falla al Re-encender la Llama:\n</b>
+        Aquellos que se encuentren dentro del círculo de piedras pueden desvanecerse. No está claro lo
+        que les ocurre o donde van a parar; sin embargo, si uno le hace esa pregunta al Hombre Cuervo,
+        el responderá solamente esto:\n\n
+
+        "Desearías no saberlo."\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 25____________________________________-->
+
+
+    <string name="Game25Name"><b>El Juego del Tahúr</b></string>
+
+    <string name="Game25Players"><b><u>JUGADORES</u></b>\n*Un Principal\n</string>
+
+    <string name="Game25Requi"><b><u>REQUISITOS\n</u></b>
+        * Un mazo de cartas de juego.\n
+        * Una habitación tranquila.\n
+        * Una mesa.\n
+        * Dos sillas.\n
+
+    </string>
+
+    <string name="Game25Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+        1. Comienza en el momento que sientas la necesidad.\n\n
+
+        2. Toma tu mazo de cartas, ve a la habitación tranquila y siéntate a la mesa. Deberías estar
+        sentado mirando hacia la segunda silla al otro lado de la mesa.\n\n
+
+        3. Baraja las cartas. Barajalas a fondo, y mézclalas bien. No intentes marcar o apilar el mazo;
+        las trampas no serán toleradas.\n\n
+
+        4. Escoge el juego y reparte una mano.\n\n
+
+        5. Comienza el juego mirando hacia la segunda silla y diciendo las palabras, "Vamos a jugar."
+        Puede que sientas escalofríos; si es así, no te preocupes. Sin embargo, si no es así, <b>no procedas.</b>\n\n
+
+        6. Reparte al Tahúr su mano; y juega tu primer movimiento. Cuando sea el turno del Tahúr, debes
+        ayudarlo colocando sus cartas boca a bajo de forma aleatoria desde su mano. <b>NO MIRES su mano
+        antes de que estén sobre la mesa.</b> De nuevo, las trampas no serán toleradas.\n\n
+
+        7. Juega la partida hasta su conclusión, alternando los turnos de la forma requerida.\n
+        * <b>Si ganas:</b> Toma la carta superior del mazo y pasa su borde sobre el dedo índice de
+        tu mano derecha. Si sangras, esa mano de ahora en adelante tendrá el poder de ganar cualquier
+        apuesta, ya sea lanzando dados o robando cartas. Úsalo sabiamente y de forma escasa.\n
+        * <b>Si el Tahúr gana:</b> Querrá su premio - y antes de que lo preguntes, no, no hay nada
+        que pueda disuadirle de tomarlo.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        Cualquier juego servirá, aunque es aconsejable el Blackjack. De hecho, cabe señalar que
+        los juegos cuyos resultados dependen únicamente de la suerte es una mala decisión.\n\n
+
+        Si es posible, usa un mazo de cartas nuevo a estrenar, sin abrir; el Tahúr es desconfiado,
+        y no mirará con buenos ojos una baraja de cartas vieja o muy usada.\n\n
+
+        Si el Tahúr gana, no se apresurará en reclamar su premio; ni será de forma limpia. Solo
+        deberás culparte a ti mismo. Después de todo, fuiste tú quien decidió tentar al destino.\n\n
+
+    <b>Unas Palabras de Advertencia:\n</b>
+        Ciertamente NO RECOMENDAMOS que juegues a este juego.\n\n
+
+        Hay una razón por la cual existen muy pocas personas con una mano de la suerte en este mundo.
+
+    </string>
+
+
+    <!--__________________________ JUEGO 26____________________________________-->
+
+
+    <string name="Game26Name"><b>Las Puertas de tu Mente</b></string>
+
+    <string name="Game26Players"><b><u>JUGADORES</u></b>\n* Un Principal\n* Un Compañero\n</string>
+
+    <string name="Game26Requi"><b><u>REQUISITOS\n</u></b>
+        * Una habitación tranquila.\n
+        * Unas cuantas velas.\n
+        * Cerillas o un encendedor.\n
+        * Un reloj despertador.\n
+        * Una almohada (opcional).\n
+        * Un dispositivo de grabación (opcional).\n\n
+
+
+    </string>
+
+    <string name="Game26Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>PRELUDIO:\n</b>
+        1. Comienza cuando te sientas totalmente relajado.\n\n
+
+        2. Encuentra una habitación tranquila, apaga las luces, y coloca las velas. Usa las cerillas
+        o el encendedor, siendo consciente de los riesgos incendio mientras lo haces. Si quieres
+        grabar tu experiencia, escoge tu dispositivo de grabación y comienza a grabar.\n\n
+
+        3. Pon el reloj despertador para dentro de una hora desde el momento que comiences.\n\n
+
+        4. Tu compañero debe sentarse en el suelo; en tu caso debes acostarte con tu cabeza sobre
+        el regazo de tu compañero, boca arriba. Puedes usar una almohada si lo deseas. Cierra tus ojos.\n\n
+
+        5. Tu compañero debe frotar tus sienes de forma lenta y circular. El tempo debe ser constante,
+        y el sentimiento en general relajado. Mantén tus ojos cerrados.\n\n
+
+        6. Tu compañero funcionará como un guía durante el siguiente trozo a continuación. Entonces
+        debe recitarte las siguientes palabras: <i>“Estás en un extremo de un corredor muy largo. Hay
+        numerosas puertas en ambos lados del corredor, ocupando toda su longitud. Quiero que explores
+        estas puertas y las habitaciones tras ellas. Descríbeme lo que puedes ver, oír, tocar y
+        sentir con gran detalle."\n\n</i>
+
+    <b>LA EXPLORACIÓN:\n</b>
+        1. En este punto, deberías encontrarte en el corredor. Atraviesalo, explorando las puertas
+        que se encuentran en él así como las habitaciones que hay detrás de ellas; conforme lo hagas,
+        describe cada cosa que encuentres. No hay reglas sobre como explorar el corredor y sus puertas
+        de mejor o peor forma; sin embargo, puedes encontrar estos pequeños consejos útiles:\n
+            * Presta mucha atención a ti mismo y a tu alrededor. ¿Qué llevas puesto? ¿Qué hay en tus
+            bolsillos? ¿Tienes algo significativo sobre tu persona? Cualquier cosa que encuentres,
+            podría ser útil.\n
+            * Echa un buen vistazo (y siente, etc…) cada puerta antes de entrar ahí. ¿De qué color es?
+            ¿Qué tamaño y forma tiene? ¿Cómo es el pomo de la puerta? ¿El pomo está a una temperatura
+            inusual? Estos detalles y otros pueden darte pistas de lo que hay detrás de las mismas.\n
+            * No tienes que abrir todas y cada una de las puertas. Confía en tus instintos: Si sientes
+            que no sería bueno abrir esa puerta… no la abras.\n\n
+
+    <b>LA VUELTA:\n</b>
+        1. Cuando suene la alarma, tu compañero debe guiarte de vuelta al mundo real. Las palabras
+        exactas que debe pronunciar para ello son cosa de tu compañero, pero en todos los casos, el
+        corredor debe alejarse y las puertas que han sido abiertas deben quedarse cerradas al final.\n\n
+
+        2. Una vez hayas vuelto, apaga las velas y apaga el dispositivo de grabación (si estás usando
+        alguno). Puedes escuchar la grabación en tu tiempo libreo; o, puedes escoger no escucharla jamás
+        en absoluto. Es tu decisión.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        * Este juego puede ser jugado tantas veces como desees. Tras haberlo jugado varias veces,
+        no necesitarás el reloj despertador; tu compañero debe ser capaz de determinar cuándo estas
+        listo para volver de nuevo.\n\n
+
+        * Si entras en una habitación llena de relojes, NO TOQUES ninguno y deja la habitación
+        inmediatamente.\n\n
+
+        * Si te encuentras con una mujer mayor, NO le hables y deja la habitación de forma inmediata.\n\n
+
+        * Si encuentras un hombre con un traje - particularmente si inspira inquietud o temor -
+        descríbelo inmediatamente a tu compañero. Tu compañero entonces debe acabar la sesión,
+        independientemente de que haya sonado o no la alarma. Si tu compañero no es capaz de finalizar
+        la sesión, NO HABLES con el y deja la habitación inmediatamente.\n\n
+
+        * Algunas puertas pueden estar cerradas, bloqueadas o con alguna barrera. Rebusca en tu
+        persona por si llevas la llave o cualquier otro objeto que pueda valerte; si no es así, no
+        te preocupes - quizás simplemente no estás preparado para lidiar con lo que hay al otro lado
+        aún. Deja la puerta cerrada y continúa.\n\n
+
+        * No es extraño en absoluto que alguno de los personajes que te puedas encontrar en algunas
+        habitaciones específicas te encierren en una de ellas. Una jugadora relató una vez en la que
+        su compañera - en este caso, su hermana - necesitó zarandearla violentamente para poder
+        devolverla a la realidad. En cualquier caso, mantén la calma. No te agobies.\n\n
+
+    <b>Una pequeña Advertencia:\n</b>
+        Ve con cuidado. Tu mente no siempre es tu amiga.
+
+    </string>
+
+    <!--__________________________ JUEGO 27____________________________________-->
+
+
+
+    <!--__________________________ JUEGO 28____________________________________-->
+    <!--__________________________ JUEGO 29____________________________________-->
+    <!--__________________________ JUEGO 30____________________________________-->
+    <!--__________________________ JUEGO 31____________________________________-->
+    <!--__________________________ JUEGO 32____________________________________-->
+    <!--__________________________ JUEGO 33____________________________________-->
+    <!--__________________________ JUEGO 34____________________________________-->
+    <!--__________________________ JUEGO 35____________________________________-->
+    <!--__________________________ JUEGO 36____________________________________-->
+    <!--__________________________ JUEGO 37____________________________________-->
+    <!--__________________________ JUEGO 38____________________________________-->
+    <!--__________________________ JUEGO 39____________________________________-->
+    <!--__________________________ JUEGO 40____________________________________-->
+
+
+</resources>

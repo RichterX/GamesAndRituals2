@@ -1,0 +1,2652 @@
+<resources>
+
+    <!-- TEXTOS GENERALES DE LA APP -->
+
+    <string name="app_name">Games &amp; Rituals</string>
+    <string name="destiny_Text">Choose a Chapter…</string>
+    <string name="logo">logo</string>
+    <string name="AcesingChapter">Accessing Chapter </string>
+    <string name="PauseMusic">Music Paused </string>
+    <string name="PlayMusic">Playing Music </string>
+    <string name="privacy_policy">
+        <a href="https://framedmemories.es/politica-de-privacidad/">Privacy Policy</a>
+    </string>
+
+
+    <!-- TEXTO DE LA PÁGINA INFO-->
+
+    <string name="notas"><i><b>Important Notes</b></i></string>
+
+    <string name="note0"> </string>
+    <string name="note1b">This is a compendium of games and rituals taken from all of the internet.
+    All the stuff can be consulted in several webpages and are completely free.\n\n
+        We have gathered all of them here for you. Also, we´ve translated them in various languages.
+    However, if you think something shouldn´t be here, please, send me an email to:
+        <b>software@framedmemories.es</b>. \nWe will be pleased to assist you.</string>
+    <string name="note1">Humans love horror and rugged situations. It´s a natural feeling.
+        We love to play. Like most people. But, be careful. This rituals and games may not be
+        for you. If you are easily terrified, this app isn´t for you.\n The content of this app
+        may be very dangerous for you or your friends, so take it slowly and safe. We are not
+        responsible for what may happen, under any circumstances.</string>
+    <string name="note2"><i><b>Play at your own risk.</b></i></string>
+    <string name="note3">Having say all this, <b>HAVE FUN! ;)\n\n\n\n</b>
+
+        Do you like the app? Have you felt the fear? If you think the app is worth of it, please consider
+        to help us by watching a small ad by pressing the image below and clic on it. Yes, we hate it, but it will
+        help us for future app.\n
+        THANK YOU VERY MUCH FOR YOUR HELP!</string>
+
+    <string name="note4">\n\n\n MUSIC CREDITS\n\n
+
+        <i>"Horror Drone #1"\n\n</i>
+        <b>"Music by audionautix.com"</b>\n\n
+
+        All images used are from Pexels.com.
+
+        \n\nPlease contact me through this email:
+        <b>software@framedmemories.es</b>
+
+        \n\nDeveloped and translated by Pedro Luque \nVer. 1.3\nFramed Memories Software, 2018.\n\n\n
+
+
+    </string>
+
+
+    <!-- TEXTO DE LOS JUEGOS -->
+    <!-- JUEGO 1 -->
+
+    <string name="Game1Name"><b>Sever the cord</b></string>
+
+    <string name="Game1Players"><b><u>PLAYERS</u></b>\n*One principal\n</string>
+
+    <string name="Game1Requi"><b><u>REQUIREMENTS</u></b>\n*A mirror.\n*A dark room.\n*A light with a switch.\n</string>
+
+    <string name="Game1Inst"><b><u>INSTRUCTIONS</u></b>\n\n
+        1. Begin at any time. Night time is optimal.\n\n
+        2. Prepare your room: Cover the windows securely; no light should shine through, whether streetlights
+        or moonlight. Set up your mirror. Make sure your light and its switch are in working order.
+        Leave the light on for now.\n\n
+        3. Stand in front of your mirror.\n\n
+        4. Look at your reflection in the mirror.\n\n
+        5. It’s not your reflection. It’s your Copy. Look at your Copy in the mirror. Look your
+        Copy in the eye.\n\n
+        6. Know — don’t think; know — that you are not looking at yourself. Know that you are
+        looking at perfect Copy of yourself. Know that you are bound to your Copy, and your Copy
+        to you — but also that your Copy is distinct from you, a separate creature, a being all
+        its own. Know this with every fiber of your being. Know that it is true.\n\n
+        7.	When you have reached this moment of truth, turn off the lights.\n
+        <b>NOTE: If you do not reach this moment of truth, DO NOT PROCEED.</b>\n\n
+        8.	Wait.  There is no precise time to wait; simply wait until it feels right to wait no
+        longer. Most players wait around two minutes. You might wait more. You might wait less.\n\n
+        9.	Turn the lights back on:\n<u>If your reflection is still present:</u> The ritual has failed.
+        It is NOT recommended that you try again.\n <u>If your reflection has vanished:</u> The ritual
+        has succeeded. There will be no need to try again.\n\n
+
+        <b><u>THE PRIZE</u></b>\n
+        If the ritual has succeeded, you have severed the “cord” -the bond- between you and your
+        Copy. Your Copy will no longer mirror your every move. You will no longer be watched. You
+        may do as you please, and you will face no retribution for any of it.\n
+        At the site of severance, the “cord” will begin to decay  -on one side, and one side only-.
+        There is no telling which side will decay; it could be your side, or it could be your
+        Copy’s side. Whichever side it is, upon reaching the You on that side, the decay begin to
+        eat at that being’s soul. They will grow pale and weak, sickness tearing away at them from
+        the inside out, cursing them to an eternity of shadows.\n\nIf your Copy falls to the decay,
+        you will go free. \n\nIf the decay comes after you…\n…You will not.\n\n
+
+        <b><u>CONCERNING THE COPY\n</u></b>Don’t assume that the Copy isn’t you.\n If you start to feel
+        ill one day, like a shadow of yourself, look in the mirror.\n Is your reflection there?
+        If not, the other You may have severed the cord…\n …And you’re the one who’s paying the price.
+    </string>
+
+
+    <!-- JUEGO 2 -->
+
+
+    <string name="Game2Name"><b>The Picture</b></string>
+
+    <string name="Game2Players"><b><u>PARTICIPANTS</u></b>\n*At least two participants.
+        The more, the better. There is no principal.\n</string>
+
+    <string name="Game2Requi"><b><u>REQUIREMENTS</u></b>\n*A length of string, rope, or other similar material.
+        This length of string, rope, or other material should be long enough to make a circle when the ends are
+        knotted together.\n
+        *Scissors, a knife, or another sharp edge.\n
+        *One small mirror per participant.\n
+        *A camera with flash capabilities. <b>Camera phones are NOT recommended.</b>\n
+        *A drinking glass.\n
+        *A beverage, preferably alcoholic. Wine is recommended.\n
+        *A quiet room.\n\n</string>
+
+    <string name="Game2Inst"><b><u>INSTRUCTIONS</u></b>\n\n
+
+        <i>Prelude\n</i>
+        1. Begin at midnight.\n\n
+        2. Make the string or rope into a circle by tying the ends together in a knot.\n\n
+        3. Place the rope circle in the middle of the room.\n\n
+        4. Place the drinking glass in the middle of the rope circle.\n\n
+        5. Fill the glass with the beverage.\n\n
+        6. Arrange the participants in a circle by seating them around the outside of the rope circle.\n
+         <b>NOTE: Do NOT step into the center of the rope circle at any time or for any reason.</b>\n\n
+        7. Each participant must place their mirror in front of them. The reflective part of the mirror should be
+        pointed at the ceiling.\n\n
+        8. Turn off the light.\n\n
+
+        <i>The Invitation\n</i>
+        1. The participants must close their eyes. The circle of participants must hold hands.\n\n
+        2. Each participant must say, one after another, the phrase, “I trust you.” The participants
+        should not speak this phrase in unison; each participant must say it individually.\n\n
+        3. After each participant has stated their trust, all participants should repeat three times,
+        in unison, the words, “The door is open, please come in.”\n\n
+        4. The participants may then open their eyes.\n\n
+
+        <i>The Sitting\n</i>
+        1. Begin the sitting by having one participant take up the camera. This participant must say
+        the words, “I caught you”; then, pointing the camera forward (toward the middle of the circle),
+        the participant must take one picture.\n\n
+        2. Pass the camera to the next participant in the circle. If using a digital camera, do
+        not preview the image that was just taken.\n\n
+        3. The next participant must also say the words, “I caught you,” and take one picture with
+        the camera facing forward.\n\n
+        4. Repeat this process until every participant has taken three pictures. The camera
+        should make its way around the circle three times.\n
+         <b>NOTE: If a participant begins crying or feels nauseous, do NOT allow them to take any
+             pictures. Instead, pass the camera around them to the next participant in the circle.</b>\n\n
+        5. After the camera has passed around the circle three times, put it down.\n\n
+
+        <i>The Farewell\n</i>
+        1. All participants must close their eyes and repeat three times, in unison, the phrase,
+        “It is time to go home.”\n\n
+        2. Each participant must turn their mirror upside down.\n\n
+        3. Turn on the lights.\n\n
+        4. Using the scissors, knife, or other sharp edge, cut open the rope circle.\n\n
+        5. Take the drinking glass outside and empty it. It is recommended that you empty it onto a
+        patch of dirt or earth.\n\n
+
+        <i>The Review\n</i>
+        1. You may now review the photos taken during the ritual. What do you see?\n\n
+        2. Look closely.\n\n
+        3. Closer.\n\n
+        4. There.\n\n
+
+        <b><u>ADDITIONAL NOTES:</u></b>\n
+        Although there is no principal, it may help for organizational purposes to designate one
+        participant as the Point Person. This Point Person may create the rope circle, place and
+        fill the glass, operate the lights, begin the “I trust you” section, be the first
+        participant to take up the camera, cut the rope circle, and empty the glass at the conclusion
+        of the ritual.\n\n
+
+        <b><u>RED FLAGS:\n</u></b>
+        If any of the following occur, DO NOT PROCEED:\n\n
+
+        *One or more participants begin acting in an uncharacteristic manner.\n
+        *One or more participants state that they are frightened.\n\n
+
+        If the ritual must be aborted, you may do so by putting the camera down and proceeding
+        directly to The Farewell, Step 1.\n\n
+
+        <b><u>IF A RED FLAG PARTICIPANT TAKES A PICTURE:</u></b>\n
+        Do not look at the picture.\n\n
+
+        Do not continue with the ritual.\n\n
+
+        Destroy the camera.\n\n
+    </string>
+
+    <!-- JUEGO 3 -->
+
+    <string name="Game3Name"><b>Concentrate</b></string>
+
+    <string name="Game3Players"><b><u>PLAYERS\n</u></b>
+        *One principal.\n*One guide.\n</string>
+
+    <string name="Game3Requi"><b><u>REQUIREMENTS\n</u></b>
+        *The Words.\n</string>
+
+    <string name="Game3Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        1. Begin anywhere and at any time.\n\n
+
+        *<u>If you are the guide:</u> Stand behind the principal. You should be facing their back.\n\n
+
+        *<u>If you are the principal:</u> Stand in front of the guide. You should be facing away from them. Close your eyes.\n\n
+
+        *<b>NOTE: </b>Steps 2 through 19 are to be performed by the guide. The principal should
+        simply stand with their eyes closed throughout and experience the guide’s actions. The
+        principal should NOT open their eyes until instructed.\n\n
+
+        2. <u>If you are the guide:</u> Make your hands into loose fists. Begin pounding lightly on
+        the principal’s back in a one-two-one-two rhythm.\n\n
+        3. Following the rhythm set by your fists, speak or sing the Chorus of the Words:\n\n
+
+        <i>Concentrate, concentrate\n
+            Concentrate on what I’m saying\n
+            People are dying, children are crying\n
+            Concentrate, concentrate\n\n</i>
+
+        4. Cease the pounding motion. Proceed to the first Verse of the Words. The first Verse is as follows:\n\n
+
+        <i>Crack an egg on your head, let the yolk run down\n
+        Let the chills run up, let the yolk run down\n
+        Crack an egg on your head, let the yolk run down\n
+            Let the chills run up, let the yolk run down\n\n</i>
+
+        5. While you speak or sing the Verse, perform the following motions simulating the
+        experience described by the Words (repeat each motion whenever they occur in the Verse):\n\n
+        *On the word “egg,” lightly tap your fist on the top of the principal’s head.\n
+        *On the phrase “let the yolk run down,” open your fist and run your fingers down the principal’s back.\n
+        *On the phrase “let the chills run up,” run your fingers up the principal’s back.\n\n
+
+        6. Return to the one-two pounding motion on the principal’s back. Repeat the Chorus.\n\n
+
+        7. Cease the pounding motion. Proceed to the second Verse of the Words. The second Verse is as follows:\n\n
+
+        <i>Squeeze two oranges on your shoulders, let the juice run down\n
+            Let the chills run up, let the juice run down\n
+            Squeeze two oranges on your shoulders let the juice run down\n
+            Let the chills run up, let the juice run down.\n\n</i>
+
+        8. While you speak or sing the Verse, perform the following motions simulating the experience
+        described by the Words (repeat each motion whenever they occur in the Verse):\n\n
+        *On the word “oranges,” lightly squeeze and twist the participant’s shoulders.\n
+        *On the phrase “let the juice run down,” run your fingers down the principal’s back.\n
+        *On the phrase “let the chills run up,” run your fingers up the principal’s back.\n\n
+
+        9. Return to the one-two pounding motion on the principal’s back. Repeat the Chorus.\n\n
+
+        10. Cease the pounding motion. Proceed to the third Verse of the Words. The third Verse is
+        as follows (repeat each motion whenever they occur in the Verse):\n\n
+
+        <i>Stick 10 needles in your sides, let the blood run down\n
+            Let the chills run up, let the blood run down\n
+            Stick 10 needles in your sides, let the blood run down\n
+            Let the chills run up, let the blood run down\n\n</i>
+
+        11. While you speak or sing the Verse, perform the following motions simulating the
+        experience described by the Words (repeat each motion whenever they occur in the Verse):\n\n
+        *On the word “needles,” stick all 10 of your fingers in the principal’s sides.\n
+        *On the phrase “let the blood run down,” run your fingers down the principal’s sides.\n
+        *On the phrase “let the chills run up,” run your fingers up the principal’s sides.\n\n
+
+        12. Return to the one-two pounding motion on the principal’s back. Repeat the Chorus.\n\n
+
+        13. Cease the pounding motion. Proceed to the fourth Verse of the Words. The fourth Verse
+        is as follows (repeat each motion whenever they occur in the Verse):\n\n
+
+        <i>Stab a knife in your back, let the blood run down\n
+            Let the chills run up, let the blood run down\n
+            Stab a knife in your back, let the blood run down\n
+            Let the chills run up, let the blood run down\n\n</i>
+
+        14. While you speak or sing the Verse, perform the following motions simulating the
+        experience described by the Words (repeat each motion whenever they occur in the Verse):\n\n
+        *On the word “knife,” lightly pound one fist into the principal’s back.\n
+        *On the phrase “let the blood run down,” run your fingers down the principal’s back.\n
+        *On the phrase “let the chills run up,” run your fingers up the principal’s back.\n\n
+
+        15. Return to the one-two pounding motion on the principal’s back. Repeat the Chorus.\n\n
+
+        16. Cease the pounding motion. Proceed to the fifth Verse of the Words. The fifth Verse is
+        as follows (NOTE: This Verse’s rhythm may be slightly different than that of Verses one
+        through four; adapt as necessary):\n\n
+
+        <i>Wrap a rope around your neck, wrap it ‘til it’s tight\n
+            Wrap a rope around your neck, and\n
+            PULL\n\n</i>
+
+        17. While you speak or sing the Verse, perform the following motions simulating the
+        experience described by the Words (repeat each motion whenever they occur in the Verse):\n\n
+        *On the word “rope,” mime wrapping a rope around the principal’s neck.
+        <b>Do NOT place your hands around the principal’s neck;</b> simply draw a line lightly around
+        their neck with your hand to simulate the “rope” and release them.\n
+        *On the word “pull,” place your hands on the principal’s shoulders and push lightly but sharply downwards.\n\n
+
+        18. Hold the principal by the arms. Lean in close. Whisper the following Words in their ear:\n\n
+
+        <i><center>You’re standing on a building\n
+            You’re out on the ledge\n
+            You’re feeling very dizzy\n
+            You’re close to the edge\n
+            And someone\n
+            PUSHES YOU\n\n</center></i>
+
+        19. On the word “pushes,” push the principal lightly but sharply forwards — just hard
+        enough to make them lose their balance, but not hard enough to throw them to the ground.\n\n
+
+        20. To close the game:\n
+        *If you are the guide: Instruct the principal to open their eyes and immediately describe to
+        you what color they see.\n
+        *If you are the principal: Open your eyes when instructed by the guide and immediately describe
+        to them what color you see.\n\n
+
+        <b><u>CONCERNING THE COLORS:\n</u></b>
+        *If the principal sees the color red: They will die by stabbing.\n
+        *If the principal sees the color blue: They will die by drowning.\n
+        *If the principal sees the color yellow: They will die by poison.\n
+        *If the principal sees the color orange: They will die by fire.\n
+        *If the principal sees the color green: They will die by falling.\n
+        *If the principal sees the color purple: They will die by asphyxiation.\n
+        *If the principal sees the color grey: They will die by illness.\n
+        *If the principal sees the color white: They will die of old age and ascend to heaven.\n
+        *If the principal sees the color black: They will die of old age and descend to hell.\n
+        *If the principal sees the color brown: They will be buried alive.\n
+
+    </string>
+
+
+    <!-- JUEGO 4 -->
+
+    <string name="Game4Name"><b>The Answer Man</b></string>
+
+    <string name="Game4Players"><b><u>PARTICIPANTS\n</u></b>
+        *10 participants.\n</string>
+
+    <string name="Game4Requi"><b><u>REQUIREMENTS\n</u></b>
+        *10 cell phones. Burner phones are recommended (see: Ending The Call, Step 4).\n</string>
+
+    <string name="Game4Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+
+        <u>MAKING THE CALL:\n</u>
+        1. Begin at any time and in any place.\n\n
+
+        2. Gather all 10 participants in a circle.\n\n
+
+        3. Each participant should give their phone number to the person to their right — that
+        is, each participant should be able to call the person to their left.\n\n
+
+        4. On the count of three, all participants should call the person to their left.\n\n
+
+        *<u>If all 10 participants receive a busy signal or the call goes to voicemail:</u> The ritual has
+        failed; do not proceed. If this outcome emerges, try again later.\n\n
+        *<u>If nine participants receive a busy signal or the call goes to voicemail:</u> The ritual has
+        succeeded; you may proceed. If this outcome emerges, one participant’s phone call — and
+        only one — will be answered. This participant will hear a voice begin to speak on the
+        other end.\n\n
+
+        <u>THE CONVERSATION:\n</u>
+
+        1. The participant whose call was successful may ask the Answer Man a question.\n\n
+        2. The participant should listen carefully to the answer.\n\n
+        3. After the Answer Man has given his answer, he will in turn ask a question of the participant.\n\n
+        4. The participant MUST answer this question. The answer must be honest, truthful, and correct.\n\n
+        5. The participant may repeat this process as many times as they like.\n\n
+
+        <u>ENDING THE CALL:\n</u>
+
+        1. When the participant has received all the information they require, they may end the
+        call by telling the Answer Man they must go.\n\n
+        2. The Answer Man may attempt to keep the participant on the line, possibly by offering
+        information for free. Do NOT stay on the line. The participant should repeatedly state their
+        need to end the conversation.\n\n
+        3. If the participant is persistent, the Answer Man will say good-bye and hang up. At this
+        point, the call has been terminated.\n\n
+        4. After the call has been terminated, immediately destroy all cell phones used to conduct
+        the ritual.\n\n
+
+        <b><u>ADDITIONAL NOTES\n</u></b>
+        It is recommended that participants save the phone numbers required for Making The Call,
+        Steps 3 and 4 to their contacts list for easy dialing.\n\n
+
+        It is recommended that one participant be designated the “Counter”; this person will issue
+        the countdown signaling when the phone numbers should be dialed in Making The Call, Step 4.
+        It is also recommended that this person clarify, in advance, what “on the count of three”
+        means: That is, whether all participants press “call” as the number three is spoken, or
+        whether all participants press “call” in the moment immediately after the number three is
+        spoken.\n\n
+
+        It is NOT recommended that participants who have successfully called the Answer Man pass
+        the phone around the circle or allow multiple participants to ask questions. There’s a
+        reason the Answer Man picked up that particular call; he’s not content to talk to just anybody.\n\n
+
+        It is NOT recommended that you put the Answer Man on speaker phone.\n\n
+
+        Do NOT fail to destroy all cell phones used to conduct the ritual as soon as possible after
+        the ritual’s completion. Even if you’ve hung up — or even if you were among the nine who
+        were unable to connect in the first place — you never know what might try to call you back.\n\n
+
+        <u>CONCERNING THE ANSWER MAN´S OFFER:\n</u>
+        <b>Do NOT accept the Answer Man’s offer for free information in exchange for staying on the
+        line.</b> He is a master at exploiting loopholes; he will find a way to ask you a question,
+        and he will find a way to make it a requirement for you to answer that question. When this
+        question comes, it will be far more difficult than any of his preceding questions; indeed,
+        it will likely be impossible to answer. Should you fail to answer — as he intends by extending
+        this offer — see below.\n\n
+
+        <u>CONCERNING THE ANSWER MAN´S QUESTIONS:\n</u>
+        <b>Do not fail to answer the Answer Man’s questions.</b> Do not lie, either directly or by
+        omission. Do not answer falsely. Do not answer incorrectly. If you fail to answer any question
+        put to you by the Answer Man, you may feel a mild tingling sensation in a particular part
+        of your body — a finger, a toe, a hand, a leg; anything is fair game. This is how you will
+        know you have failed; this is the price of your failure.\n\n
+
+        And when, some days or months or even years on, you lose that part of your body — by
+        accident, by illness, or by some other means — you will know that he has collected his fee.\n\n
+
+        Finally, never, under any circumstances, do not hang up to the Answer Man.
+
+    </string>
+
+    <!-- JUEGO 5 -->
+
+    <string name="Game5Name"><b>Charlotte´s Web</b></string>
+    <string name="Game5Players"><b><u>PLAYERS\n</u></b>
+        *2 participants.\n</string>
+    <string name="Game5Requi"><b><u>REQUIREMENTS\n</u></b>
+        *A room without windows. If your only options have windows, cover them as completely as possible.\n
+        *Flashlights — as many as you need to see. Do NOT use candles, matches, lighters, or any other burning flames.\n
+        *A toy.\n
+        *A mirror.\n
+        *A table and two chairs.\n</string>
+    <string name="Game5Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        <u>THE PRELUDE\n</u>
+        1.	Begin by going to the room.\n\n
+        2.	Place the chairs in the room. The chairs should be next to each with about two feet of
+        space between them, both facing the same direction.\n\n
+        3.	Place the mirror in front of the chairs. You should be able to see your reflection in
+        the mirror when you are seated in the chairs. <b>(Note: Do not sit in the chairs yet.)</b>\n\n
+        4.	Place the table behind the chairs — that is, the table should be at the chairs’ backs.
+        You should be able to see the table’s reflection in the mirror when you are seated in the
+        chairs. <b>(Note: Do not sit in the chairs yet.)</b>\n\n
+        5.	Place the toy on the table. You should be able to see the toy’s reflection between the
+        chairs when you are seated in the chairs. <b>(Note: Do not sit in the chairs yet.)</b>\n\n
+        6.	Turn on the flashlights.\n\n
+        7.	Turn off the room’s lights.\n\n
+
+        <u>THE MAIN EVENT\n</u>
+        1.	Sit in the chairs. Both participants should be seated at this point.\n\n
+        2.	Look at the mirror.\n\n
+        3.	Speak the following words in unison: “We want to play Charlotte’s Web.”\n\n
+        4.	Wait. Look only at the mirror.\n\n
+        5.	Wait. Look only at the mirror.\n\n
+        6.	Do not be afraid. Look only at the mirror.\n\n
+        7.	She will know if you are afraid. Look only at the mirror.\n\n
+        8.	Wait. Look only at the mirror.\n\n
+        9.	Watch the toy in the mirror. Do not turn around.\n
+        <u>*If she does not take the toy:\n</u>
+            -<b>Do NOT proceed.</b> She is displeased. She is a child; she throws temper tantrums.
+        Do not turn around. Look only at the mirror. Go to Step 1 of The Closing.\n\n
+
+        <u>*If she takes the toy:\n</u>
+        -<b>You may proceed.</b> She is pleased. She is a child; she is curious. She likes attention,
+        and she likes to talk. You may speak with her. Take turns. Ask her questions. Do not turn
+        around. Look only at the mirror. When you have finished your conversation, go to
+        Step 1 of The Closing.\n\n
+
+        <u>THE CLOSING\n</u>
+        1.	To end the ritual, do not turn around. Look only at the mirror. Speak the following
+        in unison: “Goodbye, Charlotte.”\n\n
+        2.	Do not turn around. Look only at the mirror.\n\n
+        3.	If you have succeeded, she will wander out of view of the mirror, taking the toy with
+        her. Once she is gone, you may turn around.\n\n
+        4.	Turn on the lights.\n\n
+        5.	Do not play this game again.\n\n
+
+        <b>ADDITIONAL NOTES\n</b>
+        *You may begin at any time, although nighttime is recommended, particularly if your room
+        is not windowless.\n\n
+        *Do NOT use any form of burning flame instead of flashlights. She does not like fire.\n\n
+        *Once you have been seated in the chairs, do not, at any point, for any reason, look away
+        from the mirror. Do not turn around. Do not look the side. Do not look at the second
+        participant. To do so may inspire a temper tantrum.
+
+
+    </string>
+
+    <!-- JUEGO 6 -->
+
+    <string name="Game6Name"><b>The Red Book Game</b></string>
+    <string name="Game6Players"><b><u>PLAYERS</u></b>\n*At least 2 participants\n</string>
+    <string name="Game6Requi"><b><u>REQUIREMENTS\n</u></b>
+        *One book. The book must be hardcover, and the cover must be red. There should be no
+        pictures, photographs, or other images in its pages — its contents must consist of words only.\n
+        *At least one candle. The candle must be red.\n
+        *Matches or a lighter.\n
+        *A quiet room.\n
+        *A question.\n
+</string>
+    <string name="Game6Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        <b>THE PREFACE\n</b>
+        1. Go into your quiet room.\n\n
+        2. Draw the curtains and turn off the lights.\n\n
+        3. Sit in a circle with the other participants. Place the candle(s) in the middle of the
+        circle. Light them.\n\n
+        4. Close your eyes. Place the palm of your hand on the book’s cover. Ask the following
+        question aloud: “Red Book, may I enter your game?”\n\n
+        5. Keep your eyes closed. Open the book to a random page. Place your finger on a random
+        spot on the page.\n\n
+        6. Open your eyes. Read the sentence your finger has landed on. This is your answer —
+        although you must interpret it correctly to proceed.\n
+            *<i>If the answer is negative or nonsensical:</i> Contact has not been made. Do not proceed. Try again.\n
+            *<i>If the answer is positive:</i> You may proceed.\n\n
+        7. Each player must ask for and receive permission to enter the game.\n\n
+
+        <b>THE RISING ACTION\n</b>
+        1. Close your eyes. Place your palm on the book’s cover. Ask your question. Speak it aloud.\n\n
+        2. Keep your eyes closed. Open the book to a random page. Place your finger on a random spot on the page.\n\n
+        3. Open your eyes. Read the sentence your finger has landed on. This is your answer —
+        whatever you interpret it to mean.\n\n
+        4. Pass the book round. Each player who wishes to ask a question must close their eyes,
+        place the palm of their hand on the book’s cover, ask their question aloud, open the
+        book to a random page, and place their finger on a random spot on the page. The sentence
+        the asker’s finger lands on will always be the answer to the question, although the
+        interpretation is up to the askers themselves.\n\n
+
+        <b>THE EPILOGUE\n</b>
+        1. When all the questions have been asked and answered, close your eyes and place your palm
+        on the book once more. Ask aloud, “Red Book, may I leave your game?”\n\n
+        2. Keep your eyes closed. Open the book to a random page. Place your finger on a random
+        spot on the page.\n\n
+        3. Open your eyes. Read the sentence your finger has landed on. This is your answer.\n
+            *<i>If the answer is negative or nonsensical:</i> You do not have permission to leave the game. Try again.\n
+            *<i>If the answer is positive:</i> You may leave the game.\n\n
+        4. Each player must ask for and receive permission to leave the game.\n\n
+        5. When all permissions have been acquired, close the book. Extinguish the candles.
+        Open the curtains. And lastly, turn on the lights.\n\n
+
+        <b>ADDITIONAL NOTES\n</b>
+        There is no specific starting time; however, the room should be as dark as possible without
+        the candles lit, so it is advisable to begin at night.\n\n
+        No questions are officially “off limits”; however, it is not advisable to ask anything that
+        might anger your correspondent. It is also not advisable to ask about your own death.
+        Some things are better left unknown.\n\n
+
+        <b>CONCERNING PERMISSION\n</b>
+        <b>Do not begin asking questions or leave the game without asking for and receiving permission
+        first.</b>
+
+
+    </string>
+
+    <!-- JUEGO 7 -->
+
+    <string name="Game7Name"><b>The Dark Music</b></string>
+
+    <string name="Game7Players"><b><u>PARTICIPANTS</u></b>\n*One principal.\n</string>
+
+    <string name="Game7Requi"><b><u>REQUIREMENTS\n</u></b>
+        *A sheltered location with a door\n
+        *A musical instrument. Something small and portable is ideal; think a guitar or a flute, rather than a grand piano.\n
+        *A pin.\n
+        *A cup of salt water.\n
+        *A container of salt.\n
+        *A sheet of paper.\n
+        *A Pencil.\n
+        *A Camera. This requirement is optional.\n
+        *A hiding place. This requirement is not optional.\n
+    </string>
+
+    <string name="Game7Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE PRELUDE:\n</b>
+        1. Begin at night.\n\n
+        2. Turn off all the lights.\n\n
+        3. Place the musical instrument in front of the door. If using the camera, place it such
+            that it may capture the instrument while recording. This is your concert setup. <b>Do NOT stand
+            between the instrument and the door. Do NOT otherwise block the instrument from the door.\n\n</b>
+        4. With the pin, prick the part of your body that is typically used to play your chosen
+            instrument; then deposit a drop of blood on the area of the instrument that part of your body
+            would touch in order to play. For example, if you chose a guitar, prick your finger, then
+            deposit a drop of blood on the strings along the fretboard.\n\n
+        5. Using your pencil, write a brief message on the sheet of paper asking the spirit to play
+            you a song. The wording is up to you; however, it is recommended that you be respectful and kind.
+            <b>It is NOT recommended that you DEMAND the spirit to play.</b> No one likes being ordered about.\n\n
+        6. Place the note beside the instrument.\n\n
+        7. If using the camera, begin recording.\n\n
+        8. Draw a line of salt between you and your concert setup.\n\n
+
+    <b>THE MAIN THEME:\n</b>
+        1. Go to your hiding place. Take the salt and the cup of salt water with you. <b>You should
+    NOT be able to see the musical instrument from here.\n\n</b>
+        2. Sit.\n\n
+        3. Be still.\n\n
+        4. Be silent.\n\n
+        5. Listen.\n\n
+        6. Enjoy the music.\n\n
+
+    <b>THE CODA:\n</b>
+
+    <i><b>*If the music draws to a natural close:\n</b></i>
+            1. Leave your hiding place. Take the salt water with you.\n\n
+
+            2. Go to the line of salt between you and the concert setup.\n
+                *<u>If it is broken:</u> <b>Do not proceed.</b> Instead, go to Step 1 of \“If any of the following occur.\”\n
+                *<u>If the instrument is broken:</u> <b>Do not proceed.</b> Instead, go to Step 1 of “\If any of the following occur.\”\n
+                *<u>If the salt line and the instrument are both intact:</u> You may proceed.\n\n
+
+            3. Using both hands, put a break in the line of salt.\n\n
+
+            4. Go to the musical instrument. <b>Do NOT stand between the instrument and the door. Do NOT
+                otherwise block the instrument from the door.</b>\n\n
+
+            5. Pick up the piece of paper with the message on it. Fold it three times.\n\n
+
+            6. Place the folded message in the cup of salt water.\n\n
+
+            7. Place the cup of salt water next to the instrument where the message previously sat.\n\n
+
+            8. Thank the spirit for its performance.\n\n
+
+            9. Use the salt water to wash the blood from the instrument.\n\n
+
+            10. If using the camera, stop recording.\n\n
+
+            11.	Finish the night however you see fit. It is recommended that you stay quiet and do
+                not play any further music. You may choose simply to go to sleep.\n\n
+
+    *<b>If any of the following occur:</b> The music comes to a sudden halt; the music begins to play
+    out of tune or time; a loud noise sounds from elsewhere in the house; the salt line is broken;
+    or the instrument is broken:\n
+
+            1. As fast as you can, leave your hiding place and go to the instrument. Take the salt
+                water with you.\n\n
+
+            2. Splash some of the salt water on the floor between the instrument and the door. <b>Do
+                NOT use all of the salt water. Do NOT stand between the instrument and the door.
+                Do NOT otherwise block the instrument from the door.</b>\n\n
+
+            3. The countdown begins now. You have 15 seconds.\n\n
+
+            4. Pick up the message. Tear it into five pieces. Crumple each piece and drop it in the
+                remaining salt water. Make sure each piece is thoroughly wet.\n\n
+
+            5. Check your countdown. You have 12 seconds.\n\n
+
+            6. Ask the spirit for forgiveness.\n\n
+
+            7. Ask the spirit for forgiveness.\n\n
+
+            8. Ask the spirit for forgiveness.\n\n
+
+            9. Check your countdown. You have 10 seconds.\n\n
+
+            10. After you have asked the spirit for forgiveness three times, pick up the instrument.\n\n
+
+            11. Play the instrument. <b>Do NOT show off. Do NOT attempt to play what the spirit played.</b> Keep it simple and clean.\n\n
+
+            12.	Play for 10 seconds.\n\n
+
+            13. <b>Your countdown is up.</b>\n
+    <u>*If you have completed all three of these tasks</u> - destroying the message, asking for
+        forgiveness, playing the instrument for 10 seconds - you may proceed.\n
+    <u>*If you have NOT completed all three of these tasks</u> — destroying the message, asking for
+        forgiveness, playing the instrument for 10 seconds — you may not proceed. Or perhaps more
+        accurately, you will be in no condition to proceed.\n\n
+
+            14. Put down the instrument.\n\n
+
+            15.	Turn on the lights.\n\n
+
+            16.	Be still.\n\n
+
+            17.	Silent.\n\n
+
+            18.	Wait.\n\n
+
+            19.	After an hour has passed, make a new cup of salt water and wash the blood from the instrument.\n\n
+
+            20.	Do not play music in that location again.\n\n
+
+    <b>VARIATIONS ON A THEME:\n</b>
+    Some versions of the ritual instruct players to <b>begin at specific times.</b> According to one, you
+    must be in your hiding place before midnight; that is when the concert begins, and it is rude
+    to be late. According to another, you may begin anytime between 11pm and 4am. Choose your time
+    wisely.\n\n
+
+    Some versions of the ritual <b>require a hawk feather and ink</b>. These materials are to be used
+    instead of the pencil. It is unknown whether the feather and ink are in any way more effective
+    than the pencil.\n\n
+
+    Some versions of the ritual <b>do not include the salt line.</b> It is not recommended that you perform
+    these versions; the salt line is a failsafe, and it would be rather foolish to play without it.\n\n
+
+    Some versions of the ritual <b>require an audio recorder and headphones.</b> It is unknown why a live
+    concert would require these items to hear.\n\n
+
+    Some versions of the ritual instruct players to <b>leave sheet music along with their message.</b> The
+    function of the sheet music may be seen as if the player is making a specific song request;
+    however, should the second coda be necessary, players are required to tear up the sheet music
+    as well as the message. This makes it highly unlikely that players will be able to complete the
+    second coda before the countdown runs out. It is therefore not recommended that players leave
+    sheet music along with their message.\n\n
+
+    Some versions of the ritual require not just a place to hide, but also <b><i>a thing</i> in which to hide.</b>
+    A dark colored blanket is often recommended for this purpose.\n\n
+
+    Some versions of the ritual have <b>only one coda option.</b> These versions instruct players to
+    end the ritual on their own time, rather than the spirit’s, and to do so by taking in a mouthful
+    of salt water and spitting it on the floor by the instrument. The safety of this version seems
+    somewhat suspect.\n\n
+
+    <b>CONCERNING THE CAMERA\n</b>
+    If you performed the first coda, you may watch the recording at your leisure.\n\n
+
+    If you performed the second coda, it is strongly recommended that you do not watch the recording
+    and/or that you destroy it.\n\n
+
+    No matter which coda you performed, <b>DO NOT UPLOAD THE VIDEO TO THE INTERNET.</b> The spirit doesn’t
+    take kindly to those who try to profit off of its private performances.\n
+
+    </string>
+
+    <!-- JUEGO 8 -->
+
+    <string name="Game8Name"><b>11 Miles</b></string>
+
+    <string name="Game8Players"><b><u>PARTICIPANTS</u></b>\n*One principal.\n</string>
+
+    <string name="Game8Requi"><b><u>REQUIREMENTS\n</u></b>
+        *A vehicle and the ability to operate it. A car is a common choice, but it´s not the only
+        option you might pick.\n
+        *A deep wish or desire.\n\n
+    </string>
+
+    <string name="Game8Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>FINDING THE ROAD:\n</b>
+        1. Begin at night, ideally at a time when the roads are not well-traveled.\n\n
+        2. Drive to the woods. The woods must be a particular type of woods: The road you take <i>to</i> them must also pass <i>through</i> them.\n\n
+        3. Drive. Enter the woods.\n\n
+        4. Drive. Begin looking. Look carefully. Let your wish guide you. You will know the road when you see it.\n\n
+        5. Drive. When you are certain you have located the road, turn down it.\n\n
+
+    <b>TRAVELING THE MILES:\n</b>
+        1. Take a moment if you need it. You may stop the car if you wish. Proceed only when you are ready.\n\n
+
+        2. Drive. <b>This is mile one.</b> If it gets cold, you may turn your heater on.\n\n
+
+        3. Drive. <b>This is mile two.</b> If you haven’t already turned the heater on, now would be a good time to do so. If you do not, you might regret it later.\n\n
+
+        4. Drive. <b>This is mile three.</b> Ignore any shadows in the trees, no matter how human they may seem.\n\n
+
+        5. Drive. <b>This is mile four.</b> Ignore any voices you may hear, no matter how human may they seem.\n\n
+
+        6. Drive. <b>This is mile five.</b> Ignore the vanishing of the trees, the sudden appearance of a lake, and the glowing of the moon.\n\n
+
+        7. Drive. <b>This is mile six.</b> Ignore the returning of the trees, the disappearance of the stars, and the flickering of your headlights. If your radio turns on, ignore that too. Ignore it no matter what it says, but do not attempt to turn it off.\n\n
+
+        8. Congratulations; you are halfway done.\n\n
+
+        9. Drive. <b>This is mile seven.</b> Ignore — again — any voices you may hear, no matter how close they may sound. Do not turn around, even if the voices appear to be coming from the backseat.\n\n
+
+        10.	Drive. <b>This is mile eight.</b> Slow down, but do not stop. Break if your headlights flicker, but do not stop. No matter how cold it gets, do not stop. No matter who or what you might see, do not stop.\n\n
+
+        11.	Drive. <b>This is mile nine.</b> Your vehicle may stall. Close your eyes. Attempt to restart your vehicle. Do not open your eyes. No matter what you hear, do not open your eyes. When your vehicle starts, hit the gas as fast as you can. When the mile is over, you may open your eyes.\n\n
+
+        12.	Drive. <b>This is mile 10.</b> Do not look in your rear view mirror.\n\n
+
+        13.	Drive. <b>This is mile 11.</b> Your vehicle may lose power, but continue to move. Let it.\n\n
+
+        14.	If you see a red light ahead, close your eyes. Close them tightly. Cover them with your hands if you must. Cover your ears if you can. Make sure you cannot see anything.\n\n
+
+        15.	No matter what you hear, <b>do not look.</b>\n\n
+
+        16.	No matter what you feel, <b>do not look.</b>\n\n
+
+        17.	No matter how hot it gets, <b>do not look.</b>\n\n
+
+        18.	When the power returns, stop your vehicle. Open your eyes. Take a moment. Take a breath.\n\n
+
+        19.	Drive.\n\n
+
+    <b>RECEIVING YOUR REWARD:\n</b>
+
+        1. Drive until the road dead ends.\n\n
+
+        2. Stop.\n\n
+
+        3. Relax.\n\n
+
+        4. Close your eyes.\n\n
+
+        5. Imagine your deepest desire. Even if it has changed from what it was when you began your
+        journey, imagine it all the same - changes and all. Imagine not simply desiring it, but
+        possessing it.\n\n
+
+        6. Open your eyes. \n
+            *<u>If your desire was an object:</u> Check your trunk. If it is smaller than that, check your
+            back seat. If it is smaller than that, check your pockets.\n
+            *<u>If your desire was non-material:</u> Return to your life and check there. If it does not
+            appear immediately, wait. Be patient. It will come.\n\n
+
+    <b>COMPLETING THE JOURNEY:\n</b>
+        1. You may find at this point that you have returned to the start of the road.\n\n
+        2. You may go home… or you may begin the journey again.\n\n
+        3. The choice is yours.\n\n
+
+    <b>DURING THE JOURNEY:\n</b>
+
+        Do NOT do any of the following:\n
+        *Turn on the radio, tape deck, CD player, MP3 player, or other music-playing device;\n
+        *Use a cell phone;\n
+        *Open the windows;\n
+        *Drive faster than 30 miles per hour;\n
+        *Or leave the car.\n\n
+
+        <b>And Also:</b>\n
+        Keep your eyes on the road.\n\n
+
+        <b>And Also:</b>\n
+        Buckle up. It’s going to be a bumpy ride.\n
+
+    </string>
+
+    <!-- JUEGO 9 -->
+
+
+    <string name="Game9Name"><b>The Japanese New Year</b></string>
+
+    <string name="Game9Players"><b><u>PARTICIPANTS</u></b>\n*One principal.\n</string>
+
+    <string name="Game9Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A basket or other container.\n
+        * Fruit: One pineapple, three bananas, two apples, and 30 grapes. Nothing more, nothing less.\n
+        * A timekeeping device. It must be as accurate as possible.\n
+        * Something sharp.\n
+        * A forest with a clearing.\n
+        * Anything you require to start a fire.\n
+
+    </string>
+
+    <string name="Game9Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE PREPARATION:\n</b>
+        1. Begin when the clock strikes midnight on Dec. 31.\n\n
+
+        2. Close all of your curtains.\n\n
+
+        3. For 24 hours, do not eat anything. Do not drink anything. Do not sleep. Do not go outside.\n\n
+
+        4. Two hours before the arrival of the year, prepare a fruit basket. Place within your basket:
+        One pineapple, three bananas, two apples, and 30 grapes. There you should now be 36 pieces
+        of fruit in the basket. Do not miscount.\n\n
+
+        5. With your sharp object, cut your hand. Anoint each piece of fruit with a drop of your blood.
+        Do not miss any. Do not close your eyes. Do not dress your wound.\n\n
+
+    <b>THE CONVERSATION:\n</b>
+        1. At midnight, take your basket of fruit and your fire-making tools and go to the nearest forest.\n\n
+
+        2. Walk deep into the forest until you find a clearing.\n\n
+
+        3. Build a fire. Sit by it. Place the basket of fruit in front of you. Do not let the fire
+        go out. Do not move unless the action you are taking is to ensure that the fire does not go out.\n
+            *<u>If no one approaches you from the forest:</u> The ritual has failed. Do not proceed.\n
+            *<u>If a figure approaches you from the forest:</u> You may proceed.\n\n
+
+        4. The figure will make eye contact with you. Do not break it.\n\n
+
+        5. Do not scream.\n\n
+
+        6. Do not run away.\n\n
+
+        7. Do not speak.\n\n
+
+        8. After you have proven your bravery, the figure will begin to eat the fruit. Continue to
+        maintain eye contact. Do not break it.\n\n
+
+        9. If you have made it this far, the figure will ask you a question once it has finished
+        eating: “What would you like to know?”\n\n
+
+        10.	Tell him. Do not look away.\n\n
+
+        11.	He will give you your answer. And then he will walk away.\n\n
+
+        12.	Do not look away until he has vanished from view.\n\n
+
+    <b>THE AWAKENING:\n</b>
+        1. Go to sleep. (You will not actually have to actively follow this step; you will simply
+        drop off, whether you want to or not.)\n\n
+
+        2. When you awaken, you will be in your own bed, newfound knowledge in mind.\n\n
+
+
+    <b>Concerning the Figure from the Forest:\n</b>
+        He will be very thin and very tall. His eyes will be large and black. His mouth will be wide,
+        and his teeth sharp. He will not be wearing any clothing. He will not be wearing any
+        expression on his face.\n\n
+
+        He is called the Wise One. Treat him with the respect he deserves.\n\n
+
+        He doesn’t take kindly to those who disrespect him.\n\n
+
+    <b>When Asking What You Would Like To Know:\n</b>
+        Choose your words carefully. You may ask anything you like, from how long your life will be
+        to what you’ll have for breakfast in the morning. But ask one question and one question only.
+        Do not be greedy.\n\n
+
+    <b>And Know This:\n</b>
+        Whatever you ask?\n\n
+
+        Make sure you really want to know.\n\n
+
+        Once you have gained the knowledge, you can never go back, no matter how much you might wish to.\n\n
+
+        Knowledge is power…\n\n
+
+        …But it can also spell out your ruin.\n
+
+
+    </string>
+
+    <!-- JUEGO 10-->
+
+
+    <string name="Game10Name"><b>Dry Bones</b></string>
+
+    <string name="Game10Players"><b><u>PLAYERS</u></b>\n*One principal.\n</string>
+
+    <string name="Game10Requi"><b><u>REQUIREMENTS\n</u></b>
+        * One bathroom.\n
+        * One mirror. There’s flexibility here; the mirror over your bathroom sink will likely be the best option, but a hand mirror is also acceptable.\n
+        * Matches. Don’t use a lighter.\n
+        *A timekeeping device. This is technically optional, but highly recommended. The ability to keep time accurately is essential.\n
+    </string>
+
+    <string name="Game10Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE PRELUDE:\n</b>
+        1. Before beginning, clear your house of people and pets. Make sure they know not to come
+        back until the sun has risen the next morning.\n\n
+
+        2. If the mirror isn’t already in the bathroom, place it there.\n\n
+
+        3. Make sure the matches are somewhere on your person. The same goes the timekeeping device,
+        if using.\n\n
+
+    <b>THE INVITATION:\n</b>
+        1. Begin at 12:01 am.\n\n
+
+        2. Securely close anything in your house that can open — doors, closets, cabinets, etc.
+            Everything.\n\n
+
+        3. Turn off all the lights in your house, as well as anything that might make noise.
+            Unplugging the noise-making the devices is recommended.\n\n
+
+        4. Enter the bathroom. Close the door behind you. (Everything needs to be closed, remember?)\n\n
+
+        5. Face the mirror.\n
+            * <u>If you hear anything unusual:</u> <b>Do not proceed.</b> Leave immediately.
+            Exit the house. Go somewhere safe. Do not return until daylight.\n
+            * <u>If you hear nothing out of the ordinary:</u> You may proceed.\n\n
+
+        6. Think of something you want. Think about it hard. Visualize it in your head if you can.\n\n
+
+        7. Light a match. Let it burn out.\n
+            * <u>If the match burns out in under 15 seconds:</u> <b>Do not proceed.</b> Leave
+            immediately. Exit the house. Go somewhere safe. Do not return until daylight.\n
+            * <u>If the match burns for at least 15 seconds:</u> You may proceed.\n\n
+
+        8. Lie on the ground and speak the words, \“I am aware of your presence. I welcome you into
+        my home. Come now.\”\n\n
+
+        9. Exit the bathroom. Close the door behind you. Go to the biggest room in your house.
+        Close the door behind you.\n\n
+
+        10.	Wait.\n
+            <u>* If you hear anything other than a low moan and/or a slight rattling noise:</u>
+            <b>Do not proceed.</b> Leave immediately. Exit the house. Go somewhere safe.
+            Do not return until daylight.\n
+            <u>* If you hear a low moan and/or a slight rattling noise:</u> You may proceed.\n\n
+
+    <b>THE GAME:\n</b>
+        1. Run. Hide. Do it quickly and quietly.\n\n
+
+        2. Stay hidden until 3:00 am. This is not as easy as it sounds. Don’t let him see you.
+        Don’t let him hear you. Don’t let him catch you.\n\n
+
+    <b>THE FAREWELL:\n</b>
+        1. At 3:00 am, return to the biggest room in your house. Close the door behind you.
+        Speak the following words: \“Thank you for playing, but you must leave now. You are no
+        longer welcome.\”\n
+            *If at first you do not hear any form of acknowledgement, repeat the phrase until you
+            do. You will know it when you hear it.\n\n
+
+        2. Sleep, if you can.\n\n
+
+        3. When you awaken, return to your everyday life. Your prize should be forthcoming.\n\n
+
+        4. Do not play this game again\n\n
+
+    <b>Additional Notes:\n</b>
+        * A variation on the invitation exists, according to some versions of the game. You may
+        therefore also use the following invitation in lieu of the previously mentioned one:\n
+        \“I am aware of your presence, and I welcome you into my home, but not into my body.
+        Come now.\” Added protection is not guaranteed, but, well… any port in a storm.\n\n
+
+        *<b>Do NOT blow the match out.</b> Let it burn out on its own. If you blow the match out,
+        even accidentally, exit the area immediately, go somewhere safe, and do not return until daylight.\n\n
+
+        * After you enter the biggest room in your house during Step 9 of The Invitation, be
+        patient. The waiting period might last as few as five minutes, or it might take much longer.\n\n
+
+
+    <b>Concerning Your Wish:\n</b>
+        * Your wish will arrive to you reasonably quickly after the completion of the game. Some
+        players have reported it being waiting on their doorstep for them as soon as the morning after.\n\n
+
+        * Your wish should be something that is realistically attainable. If you ask for something
+        that defies the laws of physics, for example, you probably won’t have much luck.\n\n
+
+        * Your wish should not involve bringing harm to another person. If it does, he may decide
+        that the price of the wish is steeper than the one you already paid — and he’s not in the
+        habit of letting debts go unpaid.\n\n
+
+    <b>If You Decide To Play The Game Again:\n</b>
+        Don’t.\n\n
+
+        You might have asked him to leave this time, but that won’t prevent him from visiting again.\n\n
+
+        And if you go so far as to actually invite him again…\n\n
+
+        …It might not go so well.\n
+
+
+    </string>
+
+    <!-- JUEGO 11-->
+
+
+    <string name="Game11Name"><b>The Closet</b></string>
+
+    <string name="Game11Players"><b><u>PLAYERS</u></b>\n*One principal.\n</string>
+
+    <string name="Game11Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A Closet.\n
+        * A match.\n
+    </string>
+
+    <string name="Game11Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        1. Begin at night.\n\n
+
+        2. Darken the room: Turn out the lights of the room in which the closet is located and draw
+        the curtains. If the closet also has a light, make sure it, too, is turned off.\n\n
+
+        3. Make sure you have the match somewhere on your person.\n\n
+
+        4. Open the closet, step inside, and close the door. There should be no light visible,
+        either inside the closet or outside of it.\n\n
+
+        5. Stand in the darkness for at least two minutes. Do not move. Do not speak.\n\n
+
+        6. After the two minutes are up, hold the match out in front of you. Speak the words,
+        \“Show me the light or leave me in darkness.\”\n\n
+
+        7. Listen closely. \n
+        * <b>If you hear whispers in the darkness:</b>\n
+               -Light the match immediately. Wait.\n
+        * <b>If you hear nothing:</b>\n
+               -Do not turn around. Wait.\n\n
+
+        8. If you have made it this far unscathed, open the closet door, exit the closet, and close
+        the door again. Do NOT look inside the closet.\n\n
+
+        9. In fact, don’t look inside the closet ever again if you can help it — and especially not
+        without all the lights on and burning brightly.\n\n
+
+    <b>Additional Notes:\n</b>
+        Some who have successfully completed the game say that strange things happen at night if
+        you leave the closet door open. Again, it is NOT recommended that you look in the closet
+        with the lights off… but if you do, you might see two points of light gleaming out of the
+        darkness, glowing red like the tips of a pair of lit matches.\n\n
+
+        They might be eyes.\n\n
+
+        But they might not.\n\n
+
+        But they might.\n\n
+
+    <b>If You Fail To Light The Match In Time:\n</b>
+        Fon´t fail. You don´t want to know what happens if you do.\n
+
+
+    </string>
+
+
+    <!-- JUEGO 12-->
+
+
+    <string name="Game12Name"><b>The Musical Chairs Alone</b></string>
+
+    <string name="Game12Players"><b><u>PLAYERS</u></b>\n*One principal.\n</string>
+
+    <string name="Game12Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A Chair.\n
+        * A match.\n
+        * Something with which to play music.\n
+        * A recording of \"Tiptoe Through the Tulips\".\n
+        * A quiet, dark room - empty if possible.\n
+    </string>
+
+    <string name="Game12Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        1.	Begin at midnight.\n\n
+
+        2.	Prepare the room: Draw the curtains. Make sure no light leaks into the room. Set up your
+        music-playing device — whether it’s a CD player, a computer, a smartphone, an MP3 player
+        with a speaker, or something else is up to you. Cue up \“Tiptoe Through the Tulips.\” Place
+        the chair in the middle of the room. Turn the lights off.\n\n
+
+        3.	Hold the match in your hand, but do not light it.\n\n
+
+        4.	Play the music and begin the game. Walk around the chair six times.\n
+            * <b>If the music stops:</b> Sit down and light the match. Congratulations — you win.\n
+            * <b>If the music keeps playing:</b> You’ve invited something into your home… but it doesn’t
+            want to play.\n
+            * <b>If the chair falls over on its own:</b> Leave the room. Do not look at the chair. Do not
+            enter that room alone again — <b>ever.</b>\n\n
+
+    <b>Adittional Notes:\n</b>
+    The instructions do not specify what to do in the event that the music continues playing. This
+    is what makes the game so dangerous: It has too many unknown quantities. In the event that this
+    outcome occurs, I would recommend aborting the game and performing a purification ritual (burning
+    a sage stick, spreading salt, etc.); however, there is no guarantee that whatever you’ve invited
+    in will leave, even if you perform such a ritual.\n\n
+
+    </string>
+
+    <!-- JUEGO 13-->
+
+
+    <string name="Game13Name"><b>The White Kimono</b></string>
+
+    <string name="Game13Players"><b><u>PARTICIPANTS</u></b>\n*One principal.\n</string>
+
+    <string name="Game13Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A dark room with precisely four corners — no more, no less. The curtains should be drawn,
+        and all sources of exterior light pollution should be eliminated.\n
+        * A light source with an easy-to-operate switch.\n
+        * A compass. Optional, but recommended if your sense of direction is somewhat lacking.\n
+
+    </string>
+
+    <string name="Game13Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE INVITATION:\n</b>
+        1. Begin after midnight. Between two and three o’clock in the morning is suggested.\n\n
+
+        2. Go to your room, close the door, and lie down on your back. The lights should be on,
+        but arranged such that they will be easy to turn off from your current position. (A small
+        lamp positioned near your location of repose is ideal.) Your gaze should be focused on the
+        ceiling.\n\n
+
+        3. Turn your gaze to the northernmost corner of the room.\n\n
+
+        4. Shift your gaze to the westernmost corner of the room.\n\n
+
+        5. Shift your gaze to the southernmost corner of the room.\n\n
+
+        6. Shift your gaze to the easternmost corner of the room.\n\n
+
+        7. Repeat Steps 3 through 6 two more times, gazing at each corner in turn, moving
+        counterclockwise, for a total of three circuits around the room.\n\n
+
+        8. Cross your arms on your chest.\n\n
+
+        9. Repeat the following words three times: \“On be iroki yamashironi sowaka.\”\n\n
+
+        10.	In your mind’s eye, picture a woman. She has long black hair, and she is dressed in a
+        white kimono — or at least, it <i>would be</i> white, if it weren’t for the fact that it is heavily
+        stained. The stain is red, a rusty red that invites terrible thoughts.\n\n
+
+        11.	She is walking towards you.\n\n
+
+        12.	She is still walking towards you.\n\n
+
+        13.	She is getting closer.\n\n
+
+        14.	She is very close.\n\n
+
+        15.	She is right before you.\n\n
+
+        16.	Uncross your arms.\n\n
+
+        17.	Turn off the lights.\n\n
+
+        18.	Go to sleep.\n\n
+
+    <b>THE DREAM:\n</b>
+        1. If you see the woman in your dream, the invitation was successful. You may appreciate her
+        presence; however, <b>DO NOT:</b>\n
+            * Speak to her.\n
+            * Tell her your name.\n
+            * Let her whisper anything in your ear.\n\n
+
+        2. <u>If she begins whispering in your ear:</u> <b>Wake up immediately.</b> Shaking your right hand in
+        your dream is recommended; however, if you are skilled at lucid dreaming, you may use
+        whichever method for waking yourself up you find to be the most effective.\n\n
+
+    <b>THE AWAKENING:\n</b>
+        1. Upon waking, examine the corners of the room. Do you see a shadow lurking in any of them?
+        A shadow which should not be there?\n\n
+
+        2. No? Then you are safe.\n\n
+
+        3. Do not attempt this ritual again.\n\n
+
+    <b>Additional Notes:\n</b>
+        It is recommended that all players develop skills in lucid dreaming before attempting this
+        ritual. Google it, there is a lot of resources for it.\n\n
+
+    <b>If You See A Shadow In The Room Upon Waking:\n</b>
+        Turn the lights on immediately. Do not allow yourself to be alone in the dark again. Ever.\n\n
+
+    <b>If You Are Unable To Wake Yourself Up:\n</b>
+        We´re sorry. We´re so sorry.\n\n
+
+
+    </string>
+
+    <!-- JUEGO 14-->
+
+
+    <string name="Game14Name"><b>The Corners</b></string>
+
+    <string name="Game14Players"><b><u>PLAYERS</u></b>\n*Four (4) principals.\n</string>
+
+    <string name="Game14Requi"><b><u>REQUIREMENTS\n</u></b>
+        * An empty room. The room must have four corners - no more, no less.\n\n
+
+    </string>
+
+    <string name="Game14Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+
+    <b>THE PRELUDE:\n</b>
+        1. Clear the building in which your game room lies. There should be no additional people
+        inside the building; nor should there be any pets. The only living bodies present should be
+        those of the four principals.\n\n
+
+        2. Extinguish the lights in every room of the building except the game room.\n\n
+
+        3. Enter the game room. Upon entering, speak your own name aloud three times.\n\n
+
+        4. Designate one principal as the Speaker. From this point forward, no one but the Speaker
+        may speak.\n\n
+
+        5. Close the door of the room. The four principals should now be inside the game room with
+        the door shut tight. Do not speak.\n\n
+
+        6. Turn out the lights. Do not speak.\n\n
+
+    <b>THE MAIN EVENT:\n</b>
+        1. Each principal, including the Speaker, must chose a corner of the room. More than one
+        principal may not occupy a single corner. Do not speak.\n\n
+
+        2. Each principal must position themselves in the corner, standing upright and facing the
+        wall. All principals’ backs should be toward the center of the room. Do not speak.\n\n
+
+        3. Once all principals are in position, the Speaker must count to three. No other principals
+        may speak.\n\n
+
+        4. After the third count, all principals must rotate clockwise to the next corner. Do not
+        turn around; all principals’ backs should remain toward the center of the room. Do not speak.\n\n
+
+        5. Once all principals have completed the rotation, repeat Main Event step 4. Continue to
+        repeat Main Event step 4 until it is time to enact the completion procedure.\n\n
+
+        6. <b>If, at any point, a principal disappears:</b>\n
+            * The Speaker should indicate to the remaining principals to enact the emergency procedure.\n
+            * The emergency procedure is as follows: Each principal must speak their own name backwards
+            three times, then turn around and press their backs to the wall. The principal closest
+            to the light switch should then turn on the lights. The previously vanished principal
+            should reappear when the lights are turned on.\n
+            * Do not speak.\n\n
+
+        7. <b>If, after enacting the emergency procedure, an additional figure may be observed in
+        the room:</b>\n
+            * The Speaker should indicate to the principals to enact the completion procedure.
+            <b>Do NOT, under ANY circumstance, speak to the additional figure.</b>\n\n
+
+    <b>THE COMPLETION PROCEDURE:\n</b>
+        1. All four principals must gather at the light switch, ideally behind the additional figure.\n\n
+
+        2. Each principal must speak their own name backwards three times.\n\n
+
+        3. Turn on the lights. Hope for the best.\n\n
+
+        4. If you’ve all made it, open the door and exit the room. Give it some time before you
+        attempt to re-enter. And… try not to be alone in there with the lights off from now on.\n\n
+
+    <b>Additional Notes:\n</b>
+    If at any point during the rotation process, one principal bumps into another, turn on the
+    lights and wait. You may try again after a few moments. Do not speak.\n\n
+
+    It is recommended that the principals develop a pre-determined signal that does not involve
+    speaking to indicate whether one principal has vanished. One suggested method assigns each
+    principal a number before the start of the game; then, after each rotation, each principal
+    <i>knocks on the wall</i> their corresponding number of times in succession. After all principals have
+    been determined to be present, the Speaker then commences the next rotation. If a sequence of
+    knocks is missing, however, the Speaker should clap once loudly to signal to the principals to
+    begin the emergency procedure.\n\n
+
+    Should anyone but the Speaker speak, you will find yourselves in terrible danger. Don’t do it.
+    Just… don’t.\n\n
+
+    <b>Regarding the Completion Procedure:\n</b>
+    All four principals are required to perform the completion procedure. If the fourth principal
+    disappears, but does not reappear after the lights have been turned back on…\n\n
+
+    …You’re on your own.\n\n
+
+    </string>
+
+
+    <!-- JUEGO 15-->
+
+
+    <string name="Game15Name"><b>A Small Radio</b></string>
+
+    <string name="Game15Players"><b><u>PARTICIPANTS</u></b>\n*One principal.\n</string>
+
+    <string name="Game15Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A mobile phone.\n
+        * An outdoor location.\n\n
+
+    </string>
+
+    <string name="Game15Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+
+    <b>THE SUMMONING:\n</b>
+        1. Wait until Oct. 30.\n\n
+
+        2. Begin at 11:59pm.\n\n
+
+        3. Go outside.\n\n
+
+        4. Using your hands, draw a circle into the dirt.\n\n
+
+        5. Set you phone to vibrate. Place it in the middle of the circle.\n\n
+
+        6. Keep your eyes on the phone. Do not close your eyes. Do not look away from it.\n\n
+
+        7. Continue watching the phone until 12:15am.\n
+            * <b>If nothing happens:</b> The ritual has failed. Do not proceed.\n
+            * <b>If the phone rings:</b> You may proceed. However, <b>do NOT answer the phone.</b> Simply wait.\n\n
+
+        8. Continue waiting.\n
+            * <b>If nothing happens:</b> The ritual has failed. Do not proceed.\n
+            * <b>If you receive a text message:</b> You may proceed. Read the text; it will contain a phone
+            number.\n\n
+
+        9. Set your phone to speaker and call the number.\n
+            * <b>If no one picks up:</b> The ritual has failed. Do not proceed.\n
+            * <b>If the call is answered:</b> You may proceed. Listen. If you are asked for your physical
+            address, give it to whoever asks.\n\n
+
+        10.	Wait for two nights. Go about your life in the meantime. Try not to get distracted.\n\n
+
+    <b>THE GIFT:\n</b>
+        1. At the end of the waiting period, make sure you’re well-rested enough to stay awake until
+        midnight.\n\n
+
+        2. When the clock ticks over to 11:59pm, listen.\n
+            * <b>If you hear nothing:</b> The ritual has failed. Do not proceed.\n
+            * <b>If you hear a knock on the door:</b> Answer it. You won’t find anyone there, so don’t
+            bother looking for them; however, there will be a package waiting or you on the doorstep.
+            Bring it inside.\n\n
+
+        3. Open the package. Take out the contents: Batteries, and a small radio. Put the batteries
+        in the radio.\n\n
+
+        4. Wait until 12:15am, then turn the radio on and tune it to AM station 11.1.\n\n
+
+        5. Listen.\n\n
+
+        6. Keep listening.\n\n
+
+        7. Do not stop listening.\n\n
+
+        8. At 12:25am, a song will play. Listen to it deeply and fully.\n\n
+
+        9. For the next year, keep the radio on. You might not always hear it, but that doesn’t
+        matter. As long as it’s on and playing, you will experience an astonishing amount of good
+        luck. You will succeed in everything and anything you do, no matter how big or small.\n\n
+
+    <b>THE PRICE:\n</b>
+        1. One day, you will hear a startling noise — something you might describe as a pop, or
+        maybe a gunshot. It’s the sound of the batteries in the radio dying.\n\n
+
+        2. When you hear that noise, start running.\n\n
+
+    <b>Concerning the Price:\n</b>
+        Once you start running, don’t stop.\n\n
+
+        There’s no guarantee that it will do anything other than delay the inevitable, but it might
+        make you feel better in the long run. Like you’re doing something that might help - even
+        though it won’t.\n\n
+
+        After all, you can’t have the good without the bad…\n\n
+
+        …And everything catches up to us eventually.\n\n
+
+    </string>
+
+
+    <!-- JUEGO 16-->
+
+
+    <string name="Game16Name"><b>Channel Infinity</b></string>
+
+    <string name="Game16Players"><b><u>PLAYERS</u></b>\n*One principal.\n*At least one partner\n</string>
+
+    <string name="Game16Requi"><b><u>REQUIREMENTS\n</u></b>
+        * One quiet room with a door.\n
+        * One television - the older, the better. Analog is ideal.\n
+        * One remote control - not necessarily the one that came with the television.\n
+        * One item of personal significance.\n
+        * One favorite book.\n
+        * One key - any key.\n
+        * One cell phone.\n
+        * One weapon - a hammer is a good choice.\n\n
+
+
+    </string>
+
+    <string name="Game16Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+
+    <b>THE PRELUDE:\n</b>
+        1. Set up the television in the quiet room.\n\n
+
+        2. Turn the television on. Tune it to any channel that does not receive — static if using
+        an analog machine, plain black or a \“no signal\” screen if using a digital one. Place the
+        remote control nearby.\n\n
+
+        3. Leave the room. Do not enter it for three hours. If you live with other people, make sure
+        they stay out of it, too.\n\n
+
+        4. While you are waiting for the three hours to pass, gather the following items: The item
+        of personal significance, the book, the key, the cell phone, and the weapon. Call your
+        partner and have them come over. You may also invite over more friends or loved ones if
+        desired. Brief them on what is about to occur.\n\n
+
+    <b>FINDING THE CHANNEL:\n</b>
+        1. Gather your partner(s) outside the quiet room. Items in hand, enter the room, leaving
+        your partner(s) outside. Close the door behind you.\n\n
+
+        2. Settle yourself in front of the television. Keep your eyes on the screen. Stay there
+        until you begin to feel… different. Disoriented might be a good way to describe it, but
+        the experience may not be the same for everyone.\n\n
+
+        3. When you’ve reached the right mental state, call your partner(s) into the room.\n\n
+
+        4. Select the partner who means the most to you. Hand the item of personal significance
+        to them.\n\n
+
+        5. Send your partner(s) out of the room. Instruct them not to come back in until you
+        open the door yourself — regardless as to what they may or may not hear coming from inside.\n\n
+
+        6. Close the door.\n\n
+
+        7. Face away from the television. Listen closely.\n
+            * <b>If you hear silence:</b> Do not proceed.\n
+            * <b>If you hear a noise:</b> Pick up the remote control and turn to face the television.
+            Proceed to Step 8.\n\n
+
+        8. A yes or no question will be displayed on the screen. Answer it with the remote: Press
+        the \“channel up\” button for yes, and the \“channel down\” button for no. Answer truthfully.\n\n
+
+        9. Do this for as many questions as appear on the screen.\n\n
+
+        10.	At the conclusion of the questions, one of three things may occur:\n
+            * <b>If your favorite television show appears on the screen:</b> Watch it. It will be
+            difficult, but do not look away, no matter what you might see. Proceed to Watching
+            The Channel: Step 1.\n
+            * <b>If an image of the person or thing you hate most in the world appears on the screen:</b>
+            Pick up your weapon. Destroy the television screen. Proceed to Watching The
+            Channel: Step 1.\n
+        * <b>If you look around you and feel like something is… off:</b> \n\n
+
+    <u>Substeps\n</u>
+
+                1. Pick up the cell phone, the key, and the book; they will be available for you
+                here. Then exit your home.\n\n
+
+                2. Find the nearest public building. Open the door with the key. Enter.\n\n
+
+                3. Inside the building, find a room with only one way in or out. Enter it and
+                close the door behind you. Sit down. Read your book.\n
+                    * <b>If you hear nothing:</b> Do not proceed.\n
+                    * <b>If you hear footsteps:</b> Wait until they fade out of auditory range. Then
+                    begin to count, aloud, to 250. Proceed to Substep 4. \n\n
+
+                4. Listen. \n
+                    * <b>If you hear three knocks:</b> Open the door.\n
+                    * <b>If you hear four knocks:</b> Repeat the words \“I forbid you\” twice. Then
+                    open the door.\n\n
+
+                5. If you open the door and… \n
+                    * <b>…There is no one there:</b> Do not proceed.\n
+                    * <b>…There is a statue of a person you love outside:</b> Destroy the statue.
+                    Proceed to Substep 6.\n\n
+
+                6. Exit the building.\n\n
+
+                7. Look at the moon. \n
+                    * <b>If you see a pink half moon:</b> Take out your cell phone. Call your third most
+                    recent contact. Proceed to Watching The Channel: Step 1.\n
+                    * <b>If you see a pink full moon:</b> Take out your cell phone. Call a random number.
+                    Before the person on the other end picks up, bite your tongue straight through.
+                    Proceed to Watching The Channel: Step 1.\n
+                    * <b><u>If you see a green half moon:</u></b> Remove your clothing. Run home. Don’t look
+                    back. Proceed to Watching The Channel: Step 1.\n
+                    * <b>If you see a green full moon:</b> You will be incapable of proceeding.\n\n
+
+    <b>WATCHING THE CHANNEL:\n</b>
+        1. After completing any of those three scenarios, you will have reached Channel Infinity.
+        You may now do any of the following: \n
+            * <b>Press the \“guide\” function on your remote control.</b> Select the show you believe
+            will answer your most pressing question. Watch it carefully.\n
+            * <b>Continue watching the static or \“no signal\” screen.</b> Pay close attention to what,
+            if anything, appears. If you look at it the right way, it, too, will answer your
+            most pressing question.\n
+            * <b>Something else.</b> Anything else. You decide.\n\n
+
+    <b>ENDING THE SHOW:\n</b>
+        1. Turn the television off.\n\n
+
+        2. Leave the room.\n\n
+
+    <b>Additional Notes:\n</b>
+        This ritual may be performed using just the room, the television and the remote control,
+        although it will likely be much more difficult without the other objects. If you choose to
+        play it in this way, the following adjustments may be made:\n
+            * Instead of handing an item of personal significance to your partner, hug them and
+            whisper a secret in their ear.\n
+            * Instead of unlocking the door to the building with the key, climb in a window.\n
+            * Instead of reading the book, simply wait.\n
+            * Instead of using the weapon to destroy the television screen, destroy it in some
+            other way — kick through it, tip it over, etc.\n\n
+
+        The number of questions that appear during the questions phase may be as few as three, or
+        as many as 26. No matter how many questions there are, the most important thing is to answer
+        honestly. Failing to do so will cause the ritual to fail.\n\n
+
+        The number and variety of television shows that will appear as options on the \“guide\”
+        function of Channel Infinity will depend on who you choose as partners. Consider them
+        carefully. There is safety in numbers.\n\n
+
+        You may only watch Channel Infinity a maximum of four times over the course of your life.
+        Choose your moments wisely.\n\n
+
+        Do not speak of what you learned after watching Channel Infinity. To anyone. Ever.\n\n
+
+    <b>Concerning the Green Full Moon:\n</b>
+        If you see one…\n\n
+        …I´m so sorry.\n\n
+
+    </string>
+
+
+    <!-- JUEGO 17-->
+
+
+    <string name="Game17Name"><b>Tomino´s Hell</b></string>
+
+    <string name="Game17Players"><b><u>PARTICIPANTS</u></b>\n*One principal.\n</string>
+
+    <string name="Game17Requi"><b><u>REQUIREMENTS\n</u></b>
+        * The poem \"Tomino´s Hell\"
+
+
+    </string>
+
+    <string name="Game17Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    1. Recite the poem aloud, in Japanese if possible. The commonly used English translation follows:\n\n
+
+    <i>Elder sister vomits blood,\n
+    younger sister’s breathing fire\n
+    while sweet little Tomino\n
+    just spits up the jewels.\n\n
+
+    All alone does Tomino\n
+    go falling into that hell,\n
+    a hell of utter darkness,\n
+    without even flowers.\n\n
+
+    Is Tomino’s big sister\n
+    the one who whips him?\n
+    The purpose of the scourging\n
+    hangs dark in his mind.\n\n
+
+    Lashing and thrashing him, ah!\n
+    But never quite shattering.\n
+    One sure path to Avici,\n
+    the eternal hell.\n\n
+
+    Into that blackest of hells\n
+    guide him now, I pray-\n
+    to the golden sheep,\n
+    to the nightingale.\n\n
+
+    How much did he put\n
+    in that leather pouch\n
+    to prepare for his trek to\n
+    the eternal hell?\n\n
+
+    Spring is coming\n
+    to the valley, to the wood,\n
+    to the spiraling chasms\n
+    of the blackest hell.\n\n
+
+    The nightingale in her cage,\n
+    the sheep aboard the wagon,\n
+    and tears well up in the eyes\n
+    of sweet little Tomino.\n\n
+
+    Sing, o nightingale,\n
+    in the vast, misty forest-\n
+    he screams he only misses\n
+    his little sister.\n\n
+
+    His wailing desperation\n
+    echoes throughout hell-\n
+    a fox peony\n
+    opens its golden petals.\n\n
+
+    Down past the seven mountains\n
+    and seven rivers of hell-\n
+    the solitary journey\n
+    of sweet little Tomino.\n\n
+
+    If in this hell they be found,\n
+    may they then come to me, please,\n
+    those sharp spikes of punishment\n
+    from Needle Mountain.\n\n
+
+    Not just on some empty whim\n
+    Is flesh pierced with blood-red pins:\n
+    they serve as hellish signposts\n
+    for sweet little Tomino.\n\n</i>
+
+    <b>Additional Notes:\n</b>
+    <b>It is not recommended that this poem be recited aloud.</b> Terrible tragedies tend to dog the steps
+    of anyone foolish enough to do so - until there are no more steps left to dog.\n\n
+
+    Here is the Japanese version of the poem:\n\n
+
+    <i>トミノの地獄\n
+    Tomino no Jigoku\n\n
+
+    姉は血を吐く、妹（いもと）は火吐く、\n
+    ane wa chi wo haku, imoto wa hihaku,\n\n
+
+    可愛いトミノは 宝玉（たま）を吐く。\n
+    kawaii tomino wa tama wo haku\n\n
+
+    ひとり地獄に落ちゆくトミノ、\n
+    hitori jigoku ni ochiyuku tomino,\n\n
+
+    地獄くらやみ花も無き。\n
+    jigoku kurayami hana mo naki.\n\n
+
+    鞭で叩くはトミノの姉か、\n
+    muchi de tataku wa tomino no ane ka,\n\n
+
+    鞭の朱総（しゅぶさ）が 気にかかる。\n
+    muchi no shuso ga ki ni kakaru.\n\n
+
+    叩けや叩きやれ叩かずとても、\n
+    tatake yatataki yare tatakazu totemo,\n\n
+
+    無間地獄はひとつみち。\n
+    mugen jigoku wa hitotsu michi.\n\n
+
+    暗い地獄へ案内（あない）をたのむ、\n
+    kurai jigoku e anai wo tanomu,\n\n
+
+    金の羊に、鶯に。\n
+    kane no hitsu ni, uguisu ni.\n\n
+
+    皮の嚢（ふくろ）にやいくらほど入れよ、\n
+    kawa no fukuro ni yaikura hodoireyo,\n\n
+
+    無間地獄の旅支度。\n
+    mugen jigoku no tabishitaku.\n\n
+
+    春が 来て候（そろ）林に谿（たに）に、\n
+    haru ga kitesoru hayashi ni tani ni,\n\n
+
+    暗い地獄谷七曲り。\n
+    kurai jigoku tanina namagari.\n\n
+
+    籠にや鶯、車にや羊、\n
+    kagoni yauguisu, kuruma ni yahitsuji,\n\n
+
+    可愛いトミノの眼にや涙。\n
+    kawaii tomino no me niya namida.\n\n
+
+    啼けよ、鶯、林の雨に\n
+    nakeyo, uguisu, hayashi no ame ni\n\n
+
+    妹恋しと 声かぎり。\n
+    imouto koishi to koe ga giri.\n\n
+
+    啼けば反響（こだま）が地獄にひびき、\n
+    nakeba kodama ga jigoku ni hibiki,\n\n
+
+    狐牡丹の花がさく。\n
+    kitsunebotan no hana ga saku.\n\n
+
+    地獄七山七谿めぐる、\n
+    jigoku nanayama nanatani meguru,\n\n
+
+    可愛いトミノのひとり旅。\n
+    kawaii tomino no hitoritabi.\n\n
+
+    地獄ござらばもて 来てたもれ、\n
+    jigoku gozaraba mote kite tamore,\n\n
+
+    針の御山（おやま）の留針（とめはり）を。\n
+    hari no oyama no tomebari wo.\n\n
+
+    赤い留針だてにはささぬ、\n
+    akai tomehari date niwa sasanu,\n\n
+
+    可愛いトミノのめじるしに。\n
+    kawaii tomino no mejirushi ni.\n\n\n</i>
+
+    Use it at your own risk.\n\n
+
+    </string>
+
+    <!-- JUEGO 18-->
+
+
+    <string name="Game18Name"><b>The Man In The Fields</b></string>
+
+    <string name="Game18Players"><b><u>PARTICIPANTS</u></b>\n*One principal.\n</string>
+
+    <string name="Game18Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A house with a back garden or backyard. Inside the house should be at least one room
+        that has only one door. Ideally this room should be empty, and ideally, the sole door should
+        have a lock.\n
+        * A non-electric source of illumination. A candle or lantern works well, as long as you
+        have a supply of matches or a lighter.\n
+        * A crucifix.\n
+        * An analog watch or clock. Do not use a cell phone. It won’t work.\n
+
+
+
+    </string>
+
+    <string name="Game18Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE INVITATION:\n</b>
+        1. Begin after sunset, but before midnight. How much time you leave yourself is up to you,
+        but it is not recommended that you begin less than one hour before midnight.
+        <b>See also: Additional Notes.</b>\n\n
+
+        2. Clear the house and backyard of other people. Make sure you have your crucifix on your
+        person.\n\n
+
+        3. Light your candle or lantern.\n\n
+
+        4. Enter the backyard and turn to face the house. Repeat the following phrase seven
+        times: \“But who will scare the crows away?\”\n\n
+
+        5. After the seventh repetition, listen closely.\n
+            * <u>If you hear nothing:</u> The summoning has failed; do not proceed. Although there are
+            no known negative consequences for simply returning to your house, it is recommended
+            that you leave the premises immediately. Do not return until after 6am.\n
+            * <u>If you hear a voice behind you (or perhaps in your own head):</u> The summoning has
+            succeeded; you may proceed. The voice will say, \“That’s not your biggest problem.\”\n
+            Heed its warning.\n\n
+
+        6. Return to your house and close the door behind you. <b>Do not look back.</b>\n\n
+
+    <b>THE MAIN EVENT:\n</b>
+        1. Go to the room with only one door. Ideally the room should be empty of all objects, but
+        if it is not, close anything in it that might open — drawers, closets, windows, doors,
+        boxes, containers, bags, <i>anything</i>. <b>Do not miss anything. If it is able to be opened, and
+        if it is open, you MUST close it.</b> This will be your safe room.\n\n
+
+        2. Leave the crucifix in the safe room. Continue carrying your candle or lantern.\n\n
+
+        3. Exit the safe room.\n\n
+
+        4. Everything else in your house that is capable of opening will also be open. Your task
+        is to close everything - <i>everything</i> - before your clock strikes 12.\n\n
+
+        5. <u>If you see a man with ashen skin in your peripheral vision:</u> Do not look at him. Do not
+        make eye contact with him. However, there is no need to fear him. Simply go about your
+        business. He is not the Man in the Fields.\n\n
+
+        6. <b>Do not look into the backyard.</b>\n\n
+
+        7. <b>Do not look into the backyard.</b>\n\n
+
+        8. <b>Do not look into the backyard.</b>\n\n
+
+        9. <u>If you look in the backyard:</u> <b>Go immediately to your safe room</b> and close and lock the
+        door. Find your crucifix, and grasp it tightly. Pray you did not leave anything in the
+        room open - anything at all. <b>Do NOT open the door before 6am</b>, no matter what you
+        hear - or don’t hear - outside.\n\n
+
+    <b>THE CLOSING:\n</b>
+        1. After you have closed everything in your house - and you are <i>positive</i> you have closed
+        everything in your house - go to bed and close one final thing: Your eyes.\n\n
+
+        2. Sleep, if you can. Do not open your eyes.\n\n
+
+        3. If you wake up in the morning, congratulations - you’ve won.\n\n
+
+    <b>Additional Notes:\n</b>
+        * Although any house with a backyard or back garden will suffice as a location, a secluded
+        house in the country with a proper field at its back is recommended. This location yields
+        the strongest results.\n\n
+
+        * Although you may begin the ritual at any point between sunset and midnight, no attempt
+        performed before 9pm has ever succeeded. Additionally, no attempt performed less than one
+        hour before midnight has ever succeeded, although for very different reasons.
+        <b>See also: The Winning Condition.</b>\n\n
+
+    <b>The Winning Condition:\n</b>
+        If you successfully complete the ritual, you will be completely safe for one calendar year;
+        however, what you are safe <i>from</i> will depend on when you began the ritual:\n\n
+
+            * <b>If you began three hours before midnight:</b> Your safety is physical. You will suffer
+            no illness; you will suffer no injury; you will remain in perfect health for one calendar
+            year.\n\n
+
+            * <b>If you began two hours before midnight:</b> Your safety is physical and financial. You
+            will remain in perfect health, and you will never want for money for one calendar year.\n\n
+
+            * <b>If you began one hour before midnight:</b> Your safety is complete and total. Your actions
+            will cause no negative consequences in any way for you for one calendar year.\n\n
+
+        It is unlikely that you will complete the ritual successfully in one hour.\n\n
+
+    <b>Concerning the Ashen Man:\n</b>
+        He is not the Man in the Fields.\n\n
+
+        He is more like a referee.\n\n
+
+    <b>Concerning the Backyard:\n</b>
+        If you look in the backyard, you will see a scarecrow that you’ve never seen there before.
+        I say \“scarecrow,\” of course, but \“scarecrow\” is a loose term. It is much taller than any
+        scarecrow should be, and it will be missing the same piece of anatomy as a certain horseman
+        I could name.\n\n
+
+        If you see the scarecrow, he will also see you. And when he sees you, he will begin to
+        climb down from his post.\n\n
+
+        This is the Man in the Fields.\n\n
+
+        From the moment he turns his gaze to you, you will have no more than 60 seconds to reach
+        your safe room and lock the door. <b>Do not, under any circumstances, open the door before
+        6am.</b> If you do, he’ll take something of yours. Something you need. Something you can’t
+        get… <i>ahead</i> without.\n\n
+
+    <b>One Final Note:\n</b>
+        Should you be forced to flee to your safe room, you’d also better hope that you didn’t leave
+        anything in there open.\n\n
+
+        If you did…\n\n
+
+        …He’ll still be able to get in.\n
+
+
+    </string>
+
+
+    <!--__________________________ JUEGO 19____________________________________-->
+
+
+    <string name="Game19Name"><b>Bed of Sorrow</b></string>
+
+    <string name="Game19Players"><b><u>PLAYERS</u></b>\n*One principal.\n</string>
+
+    <string name="Game19Requi"><b><u>REQUIREMENTS\n</u></b>
+        * One principal.\n
+
+
+    </string>
+
+    <string name="Game19Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        1. Find an abandoned house. Enter it, although note that you do so at your own risk - both
+        with regards to the game, and with regards to the legality of breaking and entering. <b>It
+        is not recommended or condoned that you illegally enter a building in order to perform this
+        game.</b>\n\n
+
+        2. Search for a room with a red door. Should you attempt to open it, the door must appear
+        to be locked. <b>Note</b>: If you do not find a room with a red door, or you find a red door that
+        is unlocked, leave. This is not the house for you.\n\n
+
+        3. Knock twice on the door, then attempt to open it again.\n
+            * <b>If it remains locked:</b> Do not proceed. Leave the house and do not return.\n
+            * <b>If it opens:</b> You may enter. You will find the room windowless, and the only object
+            within it will be a bed. The bed will be placed in the middle of the room, and it will
+            be made with red sheets. Proceed to step 4.\n\n
+
+        4. At this point, you must make a choice: You may leave the room; or, you may stay close
+        the red door behind you.\n
+            * <b>Should you choose to leave the room:</b> You may do so safely. You will experience no ill
+            effects, so long as you do not return to the house again. Ever.\n
+            * <b>Should you choose to stay and close the door behind you:</b> You must cross to the bed,
+            and you must lie down upon it. Do not slide under the sheets; instead, rest your bones
+            on top of them. Proceed to step five.\n\n
+
+        5. Close your eyes, and hold still. You may experience any or all of the following: The
+        sound of weeping; a heavy knocking upon the door; the shaking of the bed. <b>No matter what
+        happens, do not move.</b>\n\n
+
+        6. If you have completed step five correctly, the room will eventually go silent and a
+        voice may whisper from the darkness three words, and three words only: \“It is done.\”\n\n
+
+        7. The moment you hear those words, open your eyes, rise from the bed, and leave the room.
+        <b>Close the door behind you. Do not look back. Do not speak to anyone or anything.</b>\n\n
+
+        8. Leave the house. <b>Do not look back. Do not speak to anyone or anything.</b>\n\n
+
+        9. Go home. <b>Do not look back. Do not speak to anyone or anything.</b>\n\n
+
+        10.	The moment you arrive home, go to bed and sleep.\n\n
+
+        11.	If you have successfully completed the game, any doubt, grief, or sadness you may have
+        been experiencing will have vanished upon waking. You will remain worry-free for up to seven
+        days. Congratulations.\n\n
+
+    <b>Additional Notes:\n</b>
+        Failing to complete any of the game’s steps will result in an overall failure condition. In the
+        event of a failure, your pain will not vanish; rather, it will increase tenfold with each
+        passing day until you successfully complete each and every step.\n\n
+
+    <b>But Be Warned:\n</b>
+        You might not realize you’ve failed until it’s too late. And should you need to return to
+        the room with the red door to complete the steps you missed…\n\n
+
+        …Well, it may not be where you left it.\n\n
+
+    </string>
+
+    <!--__________________________ JUEGO 20____________________________________-->
+
+
+
+    <string name="Game20Name"><b>Lady Spades</b></string>
+
+    <string name="Game20Players"><b><u>PARTICIPANTS</u></b>\n*One principal.\n</string>
+
+    <string name="Game20Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A candle.\n
+        * Matches or a lighter.\n
+        * Lipstick, preferably red, although other colors may also be acceptable.\n
+        * A quiet, dark room.\n
+        * A mirror. The mirror may be a fixture of the room (e.g. a bathroom mirror).\n
+        * The Queen of Spades, pulled from a deck of cards.\n\n
+
+    </string>
+
+    <string name="Game20Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE SUMMONING:\n</b>
+        1. Begin at midnight.\n\n
+
+        2. Enter the quiet, dark room. Make sure all the lights are off.\n\n
+
+        3. Place the candle in front of the mirror and light it with your matches or lighter.\n\n
+
+        4. Using the lipstick, write \“Lady Spades\” on the mirror. Then hold the Queen of Spades in
+        your hand such that she is facing the mirror.\n\n
+
+        5. Close your eyes. Empty your mind. Relax, as much as you are able. Then repeat the words
+        \“Lady Spades, appear\” aloud seven times.\n\n
+
+        6. Keep your eyes closed and call up the image of Lady Spades in your mind. She will be
+        dressed in black, with eyes to match, and although her smile can melt even the coldest of
+        hearts, her face will be mangled and scarred. Do not panic if you hear a woman’s voice or
+        laughter, or the echo of footsteps nearby; these sounds indicate a successful Summoning.\n\n
+
+        7. Open your eyes.\n\n
+
+    <b>THE WISHING:\n</b>
+        1. If, upon opening your eyes, any of the following occur, <b>do NOT proceed:</b>\n
+            * The candle is out;\n
+            * The card is facing you;\n
+            * The card is missing;\n
+            * You see a woman in the mirror with her hands pressed up against it.\n\n
+
+        2. Should any of these occurrences be observed, immediately enact the appropriate Ending
+        for your situation as indicated below. If, however, you open your eyes and see a woman in
+        the mirror with her hands by her sides, you may proceed.\n\n
+
+        3. State your wish to the woman.\n\n
+
+        4. No matter what happens next, <b>do NOT break eye contact with her.</b> If you do, immediately
+        enact the appropriate Ending for your situation as indicated below.\n\n
+
+        5. If she decides to grant your wish, she will smile at you and say, \“Yes.\”\n\n
+
+    <b>THE ENDING:\n</b>
+        1. <b>If the ritual is successful:</b> Say the words, \“Lady Spades, disappear.\” Then wipe her
+        name from the mirror, blow out the candle, and turn the lights on. Burn the Queen of Spades
+        card to ash as soon as possible. Your wish should come true shortly.\n\n
+
+        2. <b>If the ritual is unsuccessful:</b> Proceed as directed for each situation.\n
+            * <b>If you open your eyes and the candle has gone out:</b> Relight it as quickly as
+            possible, say the words, \“Lady Spades, disappear,\” wipe her name from the mirror, blow
+            out the candle, and turn the lights on. Burn the Queen of Spades card immediately.\n\n
+
+            * <b>If you open your eyes and the card is facing you, rather than the mirror:</b> Rip
+            the card in half, say the words, \“Lady Spades, disappear,\” wipe her name from the
+            mirror, blow out the candle, and turn the lights on. Burn the pieces of the Queen of
+            Spades card immediately.\n\n
+
+            * <b>If you open your eyes and the card is missing:</b> Break the mirror, turn on the
+            lights, and attempt to locate the card in the room. If you find it, burn it. If you
+            don’t, leave it and vacate the premises immediately.\n\n
+
+            * <b>If you open your eyes and the woman’s hands are pressed against the mirror:</b>
+            Break the mirror immediately. Vacate the premises and burn the card.\n\n
+
+            * <b>If you fail to maintain eye contact:</b> Break the mirror immediately. Vacate the
+            premises and burn the card.\n\n
+
+            * <b>If she declines to grant your wish:</b> Break the mirror. Blow out the candle.
+            Burn the card. Hope for the best.\n\n
+
+        3.	Do not attempt the ritual again. Ever.\n\n
+
+    <b>Additional Notes:\n</b>
+        If you open your eyes during the Summoning and everything is normal save for the mirror
+        being empty or the absence of voices, laughter, or footsteps, the ritual has failed. There
+        are no negative consequences for the ritual failing in this manner; however, it is still a
+        good idea to repeat the words, \“Lady Spades, disappear,\” wipe the mirror clean, blow out
+        the candle, and turn on the lights. Burn the card at your soonest convenience.\n\n
+
+        Do not attempt to end the game between the statement of your wish and the woman’s response.
+        She doesn’t like being interrupted.\n\n
+
+        Lady Spades has a habit of sticking around. Even if the ritual is a success, it
+        comes with a price.\n\n
+
+    <b>Story Time:\n</b>
+        Once upon a time, a young woman moved to a village in Eastern Europe from somewhere no one
+        had ever heard of. Extraordinarily beautiful, she received rather a lot of attention from
+        the men of the town; it was said that her smile could melt the heart of anyone upon whom
+        she bestowed it. She dressed all in black, earning her the nickname Lady Spades, thanks to
+        her resemblance to the playing card of the same name.\n\n
+
+        But her beauty was also her undoing. Brother turned upon brother, father against son,
+        friend against lifelong friend, all in the name of winning just one, single smile from her.
+        The women turned against her, too, blaming her for seizing the attention of their husbands
+        and sweethearts. In an effort to save their village, the elders decided that there was only
+        one solution: That she be removed from the equation.\n\n
+
+        An angry mob descended upon her house and found her brushing her hair before the mirror.
+        The mob beat her savagely, tearing her beautiful face to shreds. Then they left her to die,
+        with only her mirror - and her own ravaged visage - for company.\n\n
+
+        For three days she wept, her cries echoing through the village, until finally silence fell.
+        But with her last breath, she cursed anyone who dared to say her name in front of a mirror.
+        If you’re polite, she will make your fondest wish come true… but you don’t want to know
+        what happens if you’re impolite.\n\n
+
+    <b>And Whatever You Do:\n</b>
+        Do NOT let her out of the mirror.\n\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 21____________________________________-->
+
+
+    <string name="Game21Name"><b>The Stranger Ritual</b></string>
+
+    <string name="Game21Players"><b><u>PARTICIPANTS</u></b>\n*One principal.\n</string>
+
+    <string name="Game21Requi"><b><u>REQUIREMENTS\n</u></b>
+        * One door, ideally made out of wood. The door must have a lock, but it must not have any
+        windows or peepholes.\n
+        * One white candle.\n
+        * One black candle.\n
+        * A lighter or matches.\n
+        * A gift. The gift should NOT be a power object; indeed, it should be essentially the opposite
+        of a power object - something with no connection to you whatsoever. Ideally, purchase or
+        otherwise acquire the gift on the day you intend to complete the ritual. Candy or a sweet of
+        some sort is recommended.\n
+        * A writing implement. Chalk is recommended.\n
+        * A photograph of a person fitting the following specifications:\n
+            -You must have taken the photograph yourself.\n
+            -The photograph must be as recent as possible.\n
+            -The photograph must not depict anyone in your immediate family.\n\n
+
+    </string>
+
+    <string name="Game21Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE INVITATION:\n</b>
+        1. Begin after nightfall. You may begin at any time as long as the sun has gone down;
+        however, for maximum results, it is recommended that you begin as close to midnight as
+        possible.\n\n
+
+        2. Make sure you are alone in your chosen location. Close any windows, pull any curtains,
+        cover any mirrors, and turn the lights off. Keep the photograph somewhere on your person.\n\n
+
+        3. Close the door. With your writing implement, write the word “Stranger” on it.\n\n
+
+        4. Place the two candles on either side of the door (which color is placed on which side
+        is inconsequential). Light the candles using the matches or lighter.\n\n
+
+        5. Place your gift in front of the door. If the door opens towards you, make sure that the
+        gift is far enough in front of it that it will not touch or be knocked over by the door when
+        it is opened.\n\n
+
+        6. Knock on the door three times.\n\n
+
+        7.	Wait.\n
+            <b>*If you hear silence:</b> Do not proceed. Wipe the word from the door, lock it,
+            and blow out the candles. Wait until sunrise. After the sun has risen, you may unlock
+            and open the door.\n
+            <b>*If you hear three knocks coming from the other side of the door:</b> You may proceed.
+            Open the door slightly - no more than an inch or two - but do not look outside it.
+            After you have cracked the door open, turn around and place your back to both the door
+            and your gift. \n\n
+
+    <b>THE EXCHANGE OF GIFTS:\n</b>
+        1. Behind you, the door will open fully. You will feel a presence; this indicates that the
+        Stranger has arrived. <b>Do NOT turn around. Do NOT look at the Stranger.</b>\n
+            * <b>If the Stranger does not approve of your gift:</b> Do not proceed. Do not turn around.
+            Do not look at the Stranger. Apologize to the Stranger. Remain where you are until sunrise.\n
+            * <b>If, for any reason, you do not wish to continue at this point:</b> Apologize to
+            the Stranger and politely ask it to leave. The door will close, at which point you may
+            turn around, wipe the word from the door, lock it, and blow out the candles. Wait until
+    sunrise. <b>Do NOT unlock the door before the sun has risen.</b>\n
+            * <b>If the Stranger approves of your gift:</b> It will request from you a name. Look
+            at your photograph and say aloud the name of the person it depicts.\n\n
+
+        2. Wait.\n\n
+
+        3. You will hear the door close, and the Stranger’s presence will fade. After both the door
+        has closed and the presence has disappeared, turn around; your gift should no longer be
+        present. Wipe the word from the door, lock it, and blow out the candles. Wait until sunrise.
+        <b>Do NOT unlock the door until the sun has risen.</b>\n\n
+
+        4. As soon as possible, burn the photograph to ashes. <b>Do NOT neglect this step.</b>\n\n
+
+    <b>THE RESULTS:\n</b>
+        1. Keep an eye on the obituaries over the next three days. If you see the name you gave to
+        the Stranger appear, the ritual may be considered a success - insofar as any ritual of this
+        ilk may be considered a success.\n\n
+
+    <b>Additional Notes:\n</b>
+        So long as you do not turn around or look at the Stranger, you need not fear it; it is your
+        guest, and as such, it will not harm you. However, if the Stranger does not approve of your
+        gift or if you choose to abort the ritual after the Stranger has arrived, it is not
+        recommended that you attempt the ritual again in the future - ever. The Stranger will be
+        most displeased with you.\n\n
+
+        After the Stranger has arrived, <b>it is imperative that you do not turn around or look at it.</b>
+        The consequences of doing so may vary from person to person, but at best, the Stranger will
+        never leave.\n\n
+
+        You don’t want to find out what happens at worst.\n\n
+
+    <b>Concerning the Photograph:\n</b>
+        <b>Do NOT neglect to burn it. </b>If the photograph has not been destroyed by fire by the time the
+        victim has expired… well, let’s just say you’ll be in no condition to keep an eye on the
+        obituaries.
+
+    </string>
+
+
+
+    <!--__________________________ JUEGO 22____________________________________-->
+
+
+    <string name="Game22Name"><b>The Apex</b></string>
+
+    <string name="Game22Players"><b><u>PLAYERS</u></b>\n*At least two players. Your partner(s)
+         should be people you trust beyond any doubt.\n</string>
+
+    <string name="Game22Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A forest as far away from civilization as you can manage.\n
+        * Survival supplies. Bring enough to get you through an entire 24-hour period.\n
+
+    </string>
+
+    <string name="Game22Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE CHALLENGE:\n</b>
+        1. Begin by entering the forest before dawn with your partner(s).\n\n
+
+        2. Form a circle with your partner(s) by holding hands. Say aloud the words, “We are allies!
+        We wish to game a worthy opponent! Will no challenge face us?”\n\n
+
+        3. When you hear a crash coming from elsewhere in the forest, run - together. <b>Do NOT get
+        separated from the group. Do NOT leave anyone behind.</b>\n\n
+
+    <b>THE HUNT:\n</b>
+        1. You and your partner(s) are now the Herd. For the next 24 hours - an entire day and
+        night - the Herd will be hunted by the Apex.\n\n
+
+        2. Survive however you must, but <b>do NOT get separated, do NOT harm your partner(s),
+            and do NOT beg for mercy.</b>\n\n
+
+    <b>THE PRIZE:\n</b>
+        1. When the 24 hours are up, leave the forest immediately.\n\n
+
+        2. When you emerge from the forest, you will be approached by a park ranger who will ask
+        you, “Are you worthy?” \n
+            * <b>If you answer “Yes”:</b> It is NOT recommended that you choose this answer.\n
+            * <b>If you answer “No”:</b> It is NOT recommended that you choose this answer.\n
+            * <b>If you answer “Am I?”:</b> The ranger will hand you a box. Take it, but do not open it
+            or look inside (yet).\n\n
+
+        3. Leave the area.\n\n
+
+        4. Once you are on familiar ground, open the box to receive your prize. You will find one
+        of two items inside: An object of value, either monetary or personal, which you or your
+        partner(s) had previously lost; or a sheet of paper with something written on it. Should you
+        find the sheet of paper, you may choose to read it or you may choose not to; either way,
+        though, exercise caution when making your decision.\n\n
+
+    <b>Survival Tips:\n</b>
+        <b>Stick together.</b> A true hunter, the Apex excels in isolating members of the Herd and picking
+        them off one by one. It bears repeating: Do NOT get separated, and do NOT leave anyone behind.\n\n
+
+        Should you hear the Apex behind you, <b>do NOT turn around and do NOT look at it</b>. To do so may
+        result in memory loss or paralysis.\n\n
+
+        <b>Do NOT attempt to leave the woods before the end of the hunt.</b> The Apex isn’t confined
+        to the woods, you know - and you certainly don’t want to bring it home with you.\n\n
+
+    <b>Concerning the Sheet of Paper:\n</b>
+        Written on it will be a secret - but think carefully before reading it. Not all secrets were
+        meant to be shared, and what has been learned cannot be unlearned.\n\n
+
+        Good luck.
+
+
+    </string>
+
+
+
+    <!--__________________________ JUEGO 23____________________________________-->
+
+
+
+    <string name="Game23Name"><b>The Knockertell</b></string>
+
+    <string name="Game23Players"><b><u>PLAYERS</u></b>\n*One Principal\n</string>
+
+    <string name="Game23Requi"><b><u>REQUIREMENTS\n</u></b>
+        * Three red candles. They should be able to stand up on their own; tapers in three
+        candleholders will work, as will tea lights or pillar candles.\n
+        * A lighter or matches.\n
+        * Desert sand.\n
+        * A burlap bag.\n
+        * A door with a knocker.\n
+        * A dark, quiet room.\n
+        * A question.\n\n
+
+    </string>
+
+    <string name="Game23Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        1. Prepare the room: Pull the curtains, making sure no light shows from outside; turn out
+        the lights; affix the knocker to the exterior of your door, if necessary; and clear the
+        room of all other people.\n\n
+
+        2. Begin the ritual at the moment of a lunar eclipse during the season of Spring.\n\n
+
+        3. Arrange the candles in a triangle formation inside the room and light each one.\n\n
+
+        4. Create a circle around yourself with the sand and sit inside it. Place the burlap bag
+        over your head.\n\n
+
+        5. Begin chanting the phrase: “Te nunc esse scientiam.” <b>(See note below.)</b>\n\n
+
+        6. Continue chanting until you hear a knocking on the walls of the room. Cease chanting as
+        soon as the knocking begins.\n
+            * If you do not hear a knocking, <b>do not proceed.</b> The Knockertell does not wish to
+            appear, and there is no forcing the Knockertell to do what it does not want to do.
+            Blow out the candles, clear up the sand, and leave the room. The safest course of
+            action would also be to leave your home until six o’clock in the morning.\n\n
+
+        7. After you cease chanting, you should hear the knocker sound outside the door. Welcome
+        the Knockertell into the room.\n\n
+
+        8. Ask your question. <b>You may only ask one question,</b> so make it count.\n\n
+
+        9. After the Knockertell answers your question, thank it and wait for it to leave. Once it
+        has left, blow out the candles and clear up the sand.\n\n
+
+        10. If the Knockertell refuses to leave…\n\n
+
+        …You are on your own.\n\n
+
+    <b>A Note About the Chant:\n</b>
+        I find it to be somewhat suspect. My Latin is a little rusty, but even so, I’m not entirely
+        sure it’s accurate. The idea seems to be to call forth the Knockertell to bestow knowledge
+        upon you, but it seems to me that you’d want to use the formal form of "you" as a sign of
+        respect, rather than the informal one. Also, the original instructions used "scientism"
+        instead of "scientiam," which I assume is a typo. Lastly, there doesn’t seem to be anything
+        to support the Knockertell being a Roman creation; maybe we’re looking at Church Latin?
+        I’m not sure. Whatever the case, though, note that the ritual is contingent on this chant
+        being accurate - but I’m not convinced the chant included in the original instructions
+        actually is accurate. As such, you may want to proceed with caution.\n\n
+
+    <b>Additional Notes:\n</b>
+        Don´t be rude to the Knockertell. It doesn´t take kindly to rudeness.\n\n
+
+    <b>Concerning Your Question:\n</b>
+        Before you ask it… make sure you really want to know the answer. Once the Knockertell has
+        spoken, there’s no way to unlearn what it has told you.
+
+    </string>
+
+
+
+    <!--__________________________ JUEGO 24____________________________________-->
+
+
+    <string name="Game24Name"><b>The Raven Man</b></string>
+
+    <string name="Game24Players"><b><u>PARTICIPANTS</u></b>\n*One Principal\n</string>
+
+    <string name="Game24Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A quiet, dark room. It is recommended that this ritual be performed in a non-urban setting, as any light pollution may cause unintended and unfortunate results.\n
+        * Salt.\n
+        * Five candles.\n
+        * Matches or a lighter.\n
+        * A sharp object capable of drawing blood, such as a needle or knife.\n
+        * A candle snuffer (optional).\n
+        * A talisman or object of protection.\n
+
+    </string>
+
+    <string name="Game24Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE SUMMONING:\n</b>
+        1. Begin at night, ideally on a cloudy, moonless one.\n\n
+
+        2. Prepare the room: Draw the curtains, ensuring no light leaks in from the outside, and
+        turn off all lamps and other light sources. Keep your object of protection with you at all times.\n\n
+
+        3. Draw a circle with the salt. <b>Do NOT step inside the circle.</b>\n\n
+
+        4. Line up the five candles up in front of you.\n\n
+
+        5. Using the matches or lighter, light the first four candles in sequence. While lighting
+        them, recite the following incantation (lighting one candle per line):<i>“On this dark night I
+            call on the Raven Man Appear before me here and now And do my will.”</i>\n\n
+
+        6. Using the sharp object, pierce your finger until it bleeds. Touch your blood to the
+        fifth candle and recite, “The flame is my beacon, the blood is my sacrifice.”\n\n
+
+        7. Light the fifth candle.\n\n
+
+    <b>THE MAIN EVENT:\n</b>
+        1. After you light the fifth candle, the Raven Man will make his presence known, although
+        he will be confined to the interior of the salt circle. You may be able to see him; however,
+        it is more likely that he will remain unseen.\n\n
+
+        2. You may now ask whatever you want of him. If you seek information, he will provide it
+        for you. If you require a servant, he will complete any task you put him to. Treat him
+        respectfully, and do not overstep your bounds.\n\n
+
+    <b>RELEASING THE RAVEN MAN:\n</b>
+        1. Once you have asked all you wish to, thank the Raven Man. Thank him for coming; thank
+        him for answering; thank him for granting your requests. <b>Do not bypass this step.</b>\n\n
+
+        2. Put out the candles one by one. As you snuff them, speaking the following words (putting
+        out one candle with each word): “I release you now, Raven Man.” <b>Do NOT blow out the candles.</b>
+        Either use a candle snuffer, or pinch them with your fingers.\n\n
+
+        3. Clean up the salt, but do not dispose of it. Instead, place it outside any doors leading
+        into your home.\n\n
+
+        4. Keep your object of protection close by for the next several days. Do not go anywhere
+        without it, for leaving it behind may invite the Raven Man to call upon <i>you</i> for service… and
+        you don’t want to do whatever he asks of you. Trust me.\n\n
+
+    <b><u>THREE-PERSON VERSION:\n\n</u></b>
+    <b><u>PARTICIPANTS:\n</u></b>
+        * At least three participants. One must be a virgin female (the “Offering”) and one must be
+        male (the “Incanter”). The third may function as a “Witness,” as may any other additional
+        participants.\n\n
+
+    <b><u>REQUIREMENTS:\n</u></b>
+        * A quiet, dark room. Again, it is recommended that this ritual be performed in a non-urban
+        setting so as to avoid any issues with light pollution.\n
+        * A stationary burning flame. A candle may be used; however, a Zippo-style lighter — one
+        which will remain light when set down — will also suffice. If using a candle, also bring the
+        means with which to light it.\n
+        * Enough stones to create a large, unbroken circle.\n
+        * A sharp object capable of drawing blood.\n
+        * A small piece of paper or cloth.\n
+        * Three questions.\n\n
+
+    <b><u>INSTRUCTIONS:\n</u></b>
+    <b>THE SUMMONING:\n</b>
+        1. Begin at night, ideally on a cloudy, moonless one.\n\n
+
+        2. Prepare the room: Draw the curtains, ensuring no light leaks in from the outside, and
+        turn off all lamps or other light sources. Remove any pets, animals, or non-participating
+        humans from the area.\n\n
+
+        3. Create a large ring with the stones. Each stone should touch the one on either side of
+        it, ensuring that the circle is unbroken. The Offering and Witness should stand within the
+        perimeter of the circle; all other Witnesses should remain outside of it. The Incanter
+        should bring with them the flame (plus the means to light it, if using a candle), and the
+        sharp object; the Offering should bring the piece of paper or cloth. If a candle is being
+        used, the Offering should also have matches or a lighter with her.\n\n
+
+        4. Light the flame and place it in the center of the circle. After it is lit, the Incanter
+        and the Offering should both approach it and face each other over it. <b>Do NOT allow the
+            Incanter and the Offering to touch each other.</b>\n\n
+
+        5. Using the sharp object, the Incanter must draw blood from the Offering. It is recommended
+        that this be done by piercing or slicing a finger. As previously stipulated, <b>the Incanter
+        and the Offering may not touch flesh to flesh;</b> however, it is possible for the Incanter to
+        make the cut without otherwise touching the Offering.\n\n
+
+        6. The Offering must deposit a drop of blood on the piece of paper or cloth before handing
+        it to the Incanter. Again, <b>the Incanter and the Offering should not under any circumstances
+            touch each other during this process.</b>\n\n
+
+        7. The Offering may then return to the inner perimeter of the circle.\n\n
+
+        8. The Incanter must burn the paper or cloth over the flame. After this has been done, all
+        participants must close their eyes. <b>Do NOT open your eyes unless specified to do so at any
+            point during the ritual.</b>\n\n
+
+        9. The Incanter must recite the following words:<i>“We summon you, Raven Man, to grace us with
+        your supreme presence, we come to bid you offering of this virgin girl, to take as your own,
+            and use as you please. Show your form to me, so that I may present you this gift.”</i>\n\n
+
+        10. The Incanter should repeat these words until complete and utter silence falls. When no
+        other sound may be heard, the Incanter must open his eyes, snuff out the flame, and return
+        to the circle’s inner perimeter. <b>ONLY the Incanter may open his eyes. All other participants
+            should remain with their eyes closed.</b>\n\n
+
+        11. If this is done correctly, the Raven Man will appear within the circle.\n\n
+
+    <b>THE MAIN EVENT:\n</b>
+        1. The Incanter may then ask the Raven Man if he is willing to answer any questions.\n\n
+
+        2. <b>If the Raven Man declines:</b> Proceed immediately to "Ending the Ritual."\n\n
+
+        3. <b>If the Raven Man agrees:</b> The Incanter may ask the three questions he has prepared. Make
+        note of the Raven Man’s responses, for the knowledge they contain will be of much value indeed.\n\n
+
+        4. <b>Do NOT anger, provoke, disrespect, or irritate the Raven Man.</b>\n\n
+
+    <b>ENDING THE RITUAL:\n</b>
+        1. To release the Raven Man, all participants must open their eyes and yell, “Leave us, Raven Man!”\n\n
+
+        2. The Offering must then rush forward and relight the flame. This will banish the Raven Man
+        back to whence he came.\n\n
+
+    <b>Additional Notes:\n</b>
+        * The Raven Man’s answers may be vague or enigmatic, but they will always be correct.\n\n
+
+        * During the three-player version, it is not recommended that the Incanter ask the Raven Man
+        more than three questions.\n\n
+
+        * The three-person version of this game is far riskier than the one-person version. For this
+        reason, the three-person version should NOT be attempted more than once. Ever.\n\n
+
+    <b>If the Offering Fails to Relight the Flame:\n</b>
+        Those within the circle of stones may vanish. It is uncertain what happens to them or where
+        they go; however, should one ask the Raven Man that question, he will respond only this:\n\n
+
+        “You would wish I had not told you.”\n
+
+    </string>
+
+
+    <!--__________________________ JUEGO 25____________________________________-->
+
+
+    <string name="Game25Name"><b>The Gambler´s Game</b></string>
+
+    <string name="Game25Players"><b><u>PLAYERS</u></b>\n*One Principal\n</string>
+
+    <string name="Game25Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A pack of playing cards.\n
+        * A quiet room.\n
+        * A table.\n
+        * Two chairs.\n
+
+    </string>
+
+    <string name="Game25Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        1. Begin whenever you feel the need.\n\n
+
+        2. Take up your pack of playing cards, go to your quite room, and seat yourself at the table. You
+        should be facing the second chair across the table.\n\n
+
+        3. Shuffle the cards. Shuffle them thoroughly, and shuffle them well. Do not attempt to mark or
+        stack the deck; cheating will not be tolerated.\n\n
+
+        4. Choose your game and deal yourself a hand.\n\n
+
+        5. Begin the game by facing the second chair and saying the words, “Let’s play.” You may feel a
+        slight chill; if you do, do not be concerned. If you do not, however, <b>do not proceed.</b>\n\n
+
+        6. Deal the Gambler his hand; then play your first move. When it is the Gambler’s turn, you must
+        help him play by laying down cards randomly from his hand. <b>Do NOT look at his hand before it
+        is on the table.</b> Again, cheating will not be tolerated.\n\n
+
+        7. Play the game to its conclusion, alternating turns as required.\n
+            * <b>If you win:</b> Take the top card of the deck and draw its edge across the pointer finger of
+            your right hand. If you draw blood, that hand will henceforth have the power to win any
+            gamble, whether it’s a throw of the dice or the luck of the draw. Use it wisely, and sparingly.\n
+            * <b>If the Gambler wins:</b> He will claim his prize — and before you ask, no, there is nothing you can do
+            to dissuade him from doing so.\n\n
+
+    <b>Additional Notes:\n</b>
+        Any game will do, although Blackjack is preferred. It should be noted that games whose outcomes
+        rely solely on luck make poor choices, indeed.\n\n
+
+        If possible, use a new and previously unopened pack of cards; the Gambler is mistrustful,
+        and he may not look kindly upon an old or well-worn deck.\n\n
+
+        Should the Gambler win, he will not be quick about claiming his prize; nor will it be clean.
+        You have only yourself to blame, however. After all, you were the one who decided to tempt fate.\n\n
+
+    <b>A Word of Advice:\n</b>
+        It is NOT recommended that you play this game.\n\n
+
+        There´s a reason you don´t come across many people with lucky hands in this world.
+
+    </string>
+
+    <!--__________________________ JUEGO 26____________________________________-->
+
+
+    <string name="Game26Name"><b>The Doors of your Mind</b></string>
+
+    <string name="Game26Players"><b><u>PLAYERS</u></b>\n* One Principal\n* One Partner\n</string>
+
+    <string name="Game26Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A quiet room.\n
+        * A few candles.\n
+        * Matches or a lighter.\n
+        * An alarm clock.\n
+        * A pillow (optional).\n
+        * A recording device (optional).\n\n
+
+
+    </string>
+
+    <string name="Game26Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE PRELUDE:\n</b>
+        1. Begin whenever you feel most relaxed.\n\n
+
+        2. Find a quiet room, dim the lights, and set up your candles. Use the matches or lighter
+        to light the candles, being mindful of fire hazards as you do so. If you would like to record
+        your experience, set up your chosen device and begin recording.\n\n
+
+        3. Set the alarm clock to go off one hour from the time you begin.\n\n
+
+        4. Have your partner sit on the floor; you yourself should lie down with your head in your
+        partner’s lap, facing up. You may use your pillow if you like. Close your eyes.\n\n
+
+        5. Have your partner begin rubbing your temples in slow, circular motions. The tempo should
+        be steady, and the overall feeling relaxing. Keep your eyes closed.\n\n
+
+        6. Your partner will function as your guide for this next portion. Have them speak the
+        following words to you: <i>“You are at one end of a very long corridor. There are numerous
+        doors on both sides of this corridor, spanning the entire length. I want you to explore
+        these doors and the rooms behind them. Describe to me what you can see, hear, touch,
+            and feel with great detail.”\n\n</i>
+
+    <b>THE EXPLORATION:\n</b>
+        1. At this point, you should find yourself in the corridor. Traverse it, exploring the doors
+        that line it and the rooms kept behind the doors; as you go, describe each and every thing
+        you encounter. There are no rules as to how best to explore the corridor and its rooms; you
+        may, however, find the following tips helpful:\n
+            * Pay as much attention to yourself as to your surroundings. What are you wearing?
+            What’s in your pockets? Do you have anything meaningful about your person? Whatever you
+            find, it might be useful.\n
+            * Take a good look (and feel, and so on) of each door before you open it. What color is
+            it? What size and shape is it? What does the handle look like? Is the handle an unusual
+            temperature? These details and more might provide hints about what waits behind the door itself.\n
+            * You do not have to open every door. Trust your instincts: If you feel it would be
+            unwise to enter one… don’t open it.\n\n
+
+    <b>THE RETURN:\n</b>
+        1. When the alarm goes off, your partner should guide you back to the real world. The exact
+        words spoken to do so are up to your partner, but in all cases, the corridor should recede
+        and any doors that have been opened should be closed by the end.\n\n
+
+        2. Once you have returned, blow out the candles and turn off the recording device (if using).
+        You may listen to your recording at your leisure; or, you may choose never to listen to it.
+        It’s entirely up to you.\n\n
+
+    <b>Additional Notes:\n</b>
+        * This game may be played as many times as you desire. After you have played it enough
+        times, you may no longer require the alarm clock; your partner should be able to determine
+        when you are ready to make your way back.\n\n
+
+        * If you enter a room filled with clocks, do NOT touch any of the clocks and leave the
+        room immediately.\n\n
+
+        * If you encounter an old woman, do NOT speak to her and leave the room immediately.\n\n
+
+        * If you encounter a man in a suit — particularly one who inspires feelings of unease or
+        dread —describe him immediately to your partner. Your partner should then end the session,
+        regardless as to whether the alarm has gone off. If your partner is unable to end the
+        session, do NOT speak to him and leave the room immediately.\n\n
+
+        * Some doors may be locked, blocked, or otherwise barred. Check your person to see if you
+        have a key; if you don’t, however, do not worry — you may simply not be ready to deal with
+        whatever is behind it yet. Leave the door closed and move on.\n\n
+
+        * It is not unheard of for personages encountered in specific rooms to lock you inside. One
+        player recounted an instance in which his partner — in this case, his sister — was required
+        to shake him violently in order to pull him back into reality.\n\n
+
+    <b>A Word of Advice:\n</b>
+        Tread carefully. Your mind is not always your friend.
+
+    </string>
+
+    <!--__________________________ JUEGO 27____________________________________-->
+
+
+
+    <!--__________________________ JUEGO 28____________________________________-->
+    <!--__________________________ JUEGO 29____________________________________-->
+    <!--__________________________ JUEGO 30____________________________________-->
+    <!--__________________________ JUEGO 31____________________________________-->
+    <!--__________________________ JUEGO 32____________________________________-->
+    <!--__________________________ JUEGO 33____________________________________-->
+    <!--__________________________ JUEGO 34____________________________________-->
+    <!--__________________________ JUEGO 35____________________________________-->
+    <!--__________________________ JUEGO 36____________________________________-->
+    <!--__________________________ JUEGO 37____________________________________-->
+    <!--__________________________ JUEGO 38____________________________________-->
+    <!--__________________________ JUEGO 39____________________________________-->
+    <!--__________________________ JUEGO 40____________________________________-->
+
+
+</resources>
