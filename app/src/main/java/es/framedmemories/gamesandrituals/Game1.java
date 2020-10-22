@@ -1,8 +1,7 @@
 package es.framedmemories.gamesandrituals;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 public class Game1 extends AppCompatActivity {
@@ -179,6 +178,12 @@ public class Game1 extends AppCompatActivity {
                     player.setText(R.string.Game26Players);
                     requirements.setText(R.string.Game26Requi);
                     instructions.setText(R.string.Game26Inst);
+                    break;
+
+            case 26: name.setText(R.string.Game27Name);
+                    player.setText(R.string.Game27Players);
+                    requirements.setText(R.string.Game27Requi);
+                    instructions.setText(R.string.Game27Inst);
                     break;
         }
         //instructions.setText(R.string.note1);
