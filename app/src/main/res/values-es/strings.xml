@@ -2979,6 +2979,88 @@
     </string>
 
     <!--__________________________ JUEGO 29____________________________________-->
+
+    <string name="Game29Name"><b>El Juego del Baño (Daruma-San)</b></string>
+
+    <string name="Game29Players"><b><u>JUGADORES</u></b>\n*Un Principal\n</string>
+
+    <string name="Game29Requi"><b><u>REQUISITOS\n</u></b>
+        * 1 cuarto de baño con bañera.\n
+        <b>NOTA:</b> NO SUSTITUIR con una ducha. DEBES USAR una bañera.\n\n
+
+    </string>
+
+    <string name="Game29Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>PRELUDIO:\n</b>
+    1. Comienza en la noche, justo antes de ir a la cama.\n\n
+
+    2. Quítate la ropa y entra al baño. Llena la bañera con agua y apaga las luces.\n\n
+
+    3. Sube a la bañera y siéntate mirando hacia los grifos. Cierra los ojos y comienza a lavar tu cabello.\n\n
+
+    4. Conforme lavas tu pelo, repite las palabras “Daruma-san cayó. Daruma-san cayó.” No pares de
+        repetirlas hasta que hayas acabado de lavarte el cabello. No abras tus ojos.\n\n
+
+    5. Si has realizado esta acción correctamente, obtendrás una imagen mental de una mujer japonesa
+        de pié en una bañera. Ella resbalará y caerá, aterrizando de frente en un grifo oxidado y
+        perdiendo su ojo derecho.\n\n
+
+    6. Si escuchas algún ruido detrás tuya o sientes movimiento en la bañera, <b>NO te des la vuelta
+            y NO abras tus ojos.</b> Pregunta en voz alta, ”¿Por qué te caíste en la bañera?”\n\n
+
+    7. Deja que la pregunta cuelgue en el aire. Entonces, mientras mantienes los ojos cerrados,
+        cuidadosamente levantate y sal de la bañera. No vayas a resbalar y caer, y no vacíes la bañera.
+        Sal del cuarto de baño, cerrando la puerta tras de ti.\n\n
+
+    8. Ahora puedes abrir los ojos. Deja el baño tal y como lo dejaste - la bañera llena de agua, la
+        puerta cerrada - hasta la mañana siguiente. No enciendas ninguna luz.\n\n
+
+    9. Ve a dormir.\n\n
+
+    <b>EL EVENTO PRINCIPAL:\n</b>
+    1. Levántate a la hora habitual. El juego comienza en el momento en el que abres los ojos.\n\n
+
+    2. Haz tu día a día habitual. Sentirás una presencia constante tras de ti; será como si, cuando
+        te giras para ver qué es, y no ves nada. No obstante, si miras por encima del hombro, ocasionalmente
+        podrás vislumbrarla a <i>ella</i>. Su pelo será negro y estará muy enredado, y solamente
+        tendrá un ojo.\n\n
+
+    3. <i>Ella</i> intentará acercarse poco a poco a ti conforme el día vaya pasando. Una vez la
+        localices y veas que está demasiado cerca de ti (mas allá del confort), grita “Tomare!” -
+        esto significa, “¡Para!” - y corre. La idea es poner algo de distancia entre tu y ella.;
+        <b>NO permitas que te atrape.\n\n</b>
+
+    <b>LA FINALIZACIÓN:\n</b>
+    1. Captúrala a <i>ella</i> en tu mirada por encima de tu hombro derecho.\n\n
+
+    2. Grita “Kitta!” - significa, “¡Te suelto!” - mientras haces el movimiento de corte con el brazo,
+        como si sujetaras un cuchillo y lo esgrimieras de arriba abajo. Si has realizado esta acción
+        correctamente, habrás conseguido una condicion de victoria y el juego acabará.\n\n
+
+    3. Si NO has realizado esta acción correctamente… corre.\n\n
+
+    <b>Notas Adicionales:\n</b>
+    A <i>ella</i> le gusta el agua y los espacios oscuros; por lo tanto, es recomendable que en la
+        medida de lo posible evites sumergirte o cruzar a través de agua, al igual que transitar por
+        espacios demasiado oscuros, al menos hasta la conclusión del juego.\n\n
+
+    Usa el comando “Tomare!” lo menos posible. Cada vez que lo uses, la cantidad de tiempo que la detiene
+        se verá disminuído. Úsala solamente cuando sea absolutamente necesario.\n\n
+
+        <b>La Finalización DEBE darse antes de la medianoche.</b> Fallar en esto le permitirá a <i>ella</i>
+        entrar en tus sueños. NO le permitas esto. Adicionalmente, realizar la Finalización no es tan
+        fácil como parece. Si <i>ella</i> sospecha que vas a intentar acabar el juego, puede esconderse.
+        DEBES tenerla a ella dentro de tu campo de visión cuando digas el comando “Kitta!”.\n\n
+
+    <b>Sobre segundos intentos:\n</b>
+    <b>NO es recomendable jugar este juego más de una vez.</b> Si lo juegas por segunda vez, <i>ella</i>
+        comenzará en la misma posición en la que se encontraba en la conclusión de la partida previa.
+        Esto no te proveerá de la distancia adecuada para escapar de ella.\n\n
+
+        <b>NO dejes que te atrape.</b>
+
+
+    </string>
     <!--__________________________ JUEGO 30____________________________________-->
     <!--__________________________ JUEGO 31____________________________________-->
     <!--__________________________ JUEGO 32____________________________________-->

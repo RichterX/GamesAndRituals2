@@ -100,6 +100,8 @@ public class Game_List_Activity extends AppCompatActivity {
 
         category.add(new Category ("28", "28. The Dark Reflection", "Ritual", res2 ));
 
+        category.add(new Category ("29", "29. The Bath Game (Daruma-San)", "Game", res ));
+
 
 
 

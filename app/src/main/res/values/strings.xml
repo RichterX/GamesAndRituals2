@@ -2864,6 +2864,87 @@
     </string>
 
     <!--__________________________ JUEGO 29____________________________________-->
+
+    <string name="Game29Name"><b>The Bath Game (Daruma-San)</b></string>
+
+    <string name="Game29Players"><b><u>PLAYERS</u></b>\n* One Principal\n</string>
+
+    <string name="Game29Requi"><b><u>REQUIREMENTS\n</u></b>
+        * 1 bathroom with a bathtub.\n
+        <b>NOTE:</b> A Shower may NOT be substituted. You MUST use a bathtub.\n\n
+
+    </string>
+
+    <string name="Game29Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>THE PRELUDE:\n</b>
+    1. Begin at night, just before you got to bed.\n\n
+
+    2. Shed your clothing and enter the bathroom. Fill the bathtub with water and turn out the lights.\n\n
+
+    3. Climb into the tub and sit down facing the faucet and taps. Close your eyes and begin washing your hair.\n\n
+
+    4. As you wash your hair, repeat the words “Daruma-san fell down. Daruma-san fell down.” Do not
+        stop repeating them until you have finished washing your hair. Do not open your eyes.\n\n
+
+    5. If you have performed this action correctly, you will gain a mental image of a Japanese woman
+        standing in a bathtub. She will slip and fall, landing face first on a rusty tap and gouging
+        her right eye out.\n\n
+
+    6. Should you hear any noise behind you or feel movement in the tub, <b>do NOT turn around and do
+        NOT open your eyes.</b> Ask aloud, ‘Why did you fall in the bathtub?”\n\n
+
+    7. Allow the question to hang in the air. Then, keeping your eyes shut, carefully stand up and
+        get out of the tub. Do not trip and fall yourself, and do not drain the tub. Exit the bathroom,
+        shutting the door behind you.\n\n
+
+    8. You may now open your eyes. Leave the bathroom as you left it — water in the tub, door
+        shut — until morning. Do not turn on any lights.\n\n
+
+    9. Go to sleep.\n\n
+
+    <b>THE MAIN EVENT:\n</b>
+    1. Awaken at your usual time. The game begins the moment you open your eyes.\n\n
+
+    2. Go about your day as normal. You will feel a constant presence behind you; it is likely that,
+        should you turn to look, you will see nothing. However, glancing over your right shoulder
+        may occasionally reveal a glimpse of <i>her</i>. Her hair will be black and tangled, and she will
+        have only one eye.\n\n
+
+    3. <i>She</i> will attempt to get closer and closer to you as the day goes on. Should you spot
+        her and find that she is too close for comfort, shout “Tomare!” — that is, “Stop!” — and run
+        away. The idea is to put some distance between you and her; <b>do NOT allow her to catch you.\n\n</b>
+
+    <b>THE ENDING:\n</b>
+    1. Capture <i>her</i> in your gaze by looking over your right shoulder.\n\n
+
+    2. Shout “Kitta!” — that is, “I cut you loose!” — while swinging your arm down in a chopping
+        motion. If you have performed this action correctly, a winning condition will have been
+        achieved and the game will be over.\n\n
+
+    3. If you have NOT performed this action correctly… run.\n\n
+
+    <b>Additional Notes:\n</b>
+    <i>She</i> is fond of water and dark spaces; as such, it is recommended that you avoid immersing
+        yourself in or crossing running water, as well as traversing dark spaces, until the conclusion
+        of the game.\n\n
+
+    Use the “Tomare!” command sparingly. Each time you use it, the amount of time for which it will
+        stall her will diminish. Use it only when absolutely necessary.\n\n
+
+        <b>The ending MUST be performed before midnight.</b> Failing to do so will grant <i>her</i> permission
+        to enter your dreams. Do NOT allow her to do this. Additionally, performing the ending is
+        not as easy as it seems. If <i>she</i> suspects you are about to try to end the game, she may hide.
+        You MUST have her in your sights when you perform the “Kitta!” command.\n\n
+
+    <b>Concerning Second Attempts:\n</b>
+    <b>It is NOT recommended that you play this game more than once.</b> Should you play it a second time,
+        <i>she</i> will begin in the same position she was in at the conclusion of the previous game.
+        This will not provide adequate distance to escape her.\n\n
+
+        <b>Do NOT let her catch you.</b>
+
+
+    </string>
     <!--__________________________ JUEGO 30____________________________________-->
     <!--__________________________ JUEGO 31____________________________________-->
     <!--__________________________ JUEGO 32____________________________________-->

@@ -191,6 +191,12 @@ public class Game1 extends AppCompatActivity {
                     requirements.setText(R.string.Game28Requi);
                     instructions.setText(R.string.Game28Inst);
                     break;
+
+            case 28: name.setText(R.string.Game29Name);
+                    player.setText(R.string.Game29Players);
+                    requirements.setText(R.string.Game29Requi);
+                    instructions.setText(R.string.Game29Inst);
+                    break;
         }
         //instructions.setText(R.string.note1);
 
