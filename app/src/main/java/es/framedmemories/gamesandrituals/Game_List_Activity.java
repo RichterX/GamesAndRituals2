@@ -98,6 +98,8 @@ public class Game_List_Activity extends AppCompatActivity {
 
         category.add(new Category ("27", "27. The Hooded Man Ritual", "Ritual", res2 ));
 
+        category.add(new Category ("28", "28. The Dark Reflection", "Ritual", res2 ));
+
 
 
 
