@@ -22,8 +22,8 @@
 
     <ImageButton
         android:id="@+id/btnGo"
-        android:layout_width="151dp"
-        android:layout_height="55dp"
+        android:layout_width="176dp"
+        android:layout_height="93dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="40dp"
         android:layout_marginRight="8dp"

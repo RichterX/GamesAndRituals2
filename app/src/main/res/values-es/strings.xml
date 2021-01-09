@@ -3062,6 +3062,189 @@
 
     </string>
     <!--__________________________ JUEGO 30____________________________________-->
+
+    <string name="Game30Name"><b>El Ritual de la Escalera</b></string>
+
+    <string name="Game30Players"><b><u>PARTICIPANTES</u></b>\n* Un Principal\n</string>
+
+    <string name="Game30Requi"><b><u>REQUISITOS\n</u></b>
+        * 1 escalera con no menos de 11 escalones, pero no más de 16 (sin contar los descansillos).
+        Una escalera con 12 o 13 escalones es ideal.\n
+        * 1 ventilador pequeño que funcione a batería o pilas.\n
+        * 1 vaso de agua.\n
+        * 1 puñado de tierra.\n
+        * 1 vela.\n
+        * Cerillas o un encendedor.\n
+        * Una fotografía lo más antigua posible del terreno sobre el que se encuentra tu casa que puedas
+        encontrar.\n
+        * 1 fotografía de tu hogar tal y como es en la actualidad.\n
+        * 1 par de dados de seis caras.\n
+        * 2 dispositivos de cronometraje. Preferiblemente analógicos, pero digitales también te salvarán
+        de un apuro.\n
+        * 1 ofrenda de comida. Debe ser de animal o un subproducto animal.\n
+        * 1 espejo.\n
+        * 1 puñado de ceniza.\n
+        * 2 o 3 borras (bolas de polvo y pelo que se forman tras los muebles en el suelo que aún no
+        ha sido limpiado).\n
+        * 1 criatura viva pequeña. Un insecto es ideal.\n
+        * 1 uña, mechón de pelo u otro elemento arrancado de tu cuerpo. No es recomendable usar
+        sangre.\n
+        * Sal.\n
+        * 1 objeto afilado, preferiblemente fabricado en plata.\n\n
+
+    </string>
+
+    <string name="Game30Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>EL PRELUDIO:\n</b>
+    1. Comienza al atardecer. Toma nota exactamente de la hora a la que comienzas.\n\n
+
+    2. Colócate en la parte inferior de la escalera. Pronuncia en voz alta las palabras, “Desde aquí
+    es desde donde comenzaré”.\n\n
+
+    3. En el primer escalón, coloca el pequeño ventilador. Recita, “Aquí se encuentra el aire que
+    el mortal respira”.\n\n
+
+    4. En el segundo escalón, coloca el vaso de agua. Recita, “Aquí se encuentra el agua que el
+    mortal bebe.”\n\n
+
+    5. En el tercer escalón, espolvorea el puñado de tierra, cubriendo toda la superficie del escalón
+    que sea posible. Recita “Aquí está la tierra en la cual el mortal se encuentra.”\n\n
+
+    6. En el cuarto escalón, coloca la vela sin encender, dejando las velas o el encendedor a su lado.
+     Recita, “Aquí está el fuego que quema las manos del mortal.”\n\n
+
+    7. En el quinto escalón, coloca la fotografía antigua de tu hogar. Recita, “Aquí está todo el
+    tiempo que ha llegado a pasar.”\n\n
+
+    8. En el sexto escalón, coloca la fotografía actual de tu hogar y lanza los dados junto a ella.
+    Recita, “Aquí está el presente y la suerte está echada.”\n\n
+
+    9. En el séptimo escalón, coloca uno de los dispositivos que escogiste para cronometrar el tiempo.
+    Recita, “Aquí está el futuro, el tiempo pasa ahora.”\n\n
+
+    10. En el octavo escalón, coloca tu comida de ofrenda. Recita, “Aquí se encuentra la ofrenda para
+    la boca del Diablo.”\n\n
+
+    11.	En el noveno escalón, coloca el espejo. Recita. “Aquí está mi imagen. En la semejanza de Dios
+    confío.” <b>NOTA:</b> Esta frase debe ser repetida palabra por palabra y sin vacilación,
+    independientemente de la religión del principal.\n\n
+
+    12.	En el décimo escalón, coloca el puñado de ceniza y las bolas de pelo y polvo. Recita, “Aquí
+    está la mortalidad, polvo y ceniza.”\n\n
+
+    13.	En el undécimo escalón, coloca a la pequeña criatura viva. Debe estar viva, y no debe ser
+    capaz de escapar. Recita, “Aquí hay una vida que te presento.”\n\n
+
+    14.	En el duodécimo escalón, coloca el elemento de tu cuerpo. Recita, “Y aquí esta la esencia
+    extraída de mí.”\n\n
+
+    15.	En el último escalón o descansillo, dibuja una línea de sal. Recita, “No más allá de aquí.”\n\n
+
+    16.	Deja tus objetos colocados en la escalera durante la noche.\n\n
+
+    <b>NO PROCEDAS si ves algo mal o erroneo al día siguiente </b> (Mira: Notas Adicionales). Si todo
+    está bien, proceder como indica a continuación:\n\n
+
+    <b>EL EVENTO PRINCIPAL:\n</b>
+    1. Evacúa a todos los ocupantes de la casa excepto al principal. Recoge tu objeto afilado y tu
+    segundo dispositivo de cronometraje. Mantén esos objetos contigo todo el tiempo.\n\n
+
+    2. Comienza en el preciso momento en el que comenzaste el Preludio. Permanece al pie de la escalera.
+    Planta tus pies. No te muevas.\n\n
+
+    3. Tras haber pasado una hora, sube al primer escalón y enciende el ventilador. Mira hacia la
+    parte superior de las escaleras. Planta tus pies. No te muevas. No te gires ni mires tras de tí.\n\n
+
+    4. Después de que haya pasado la segunda hora, sube al segundo escalón. Bébete el baso de agua
+    completamente. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No
+    te gires ni mires tras de tí.\n\n
+
+    5. Tras pasar la tercera hora, sube al tercer escalón, asegurándote de tener ambos pies dentro
+    y sobre la tierra que hay esparcida. Mira hacia la parte superior de las escaleras. Planta tus
+    pies. No te muevas. No te gires ni mires tras de tí.\n\n
+
+    6. Después de que haya pasado la cuarta hora, sube al cuarto escalón. Toma el encendedor o las
+    cerillas y enciende la vela. Asegúrate de que no se apaga. Mira hacia la parte superior de las
+    escaleras. Planta tus pies. No te muevas. No te gires ni mires tras de tí.\n\n
+
+    7. Tras pasar la quinta hora, sube al quinto escalón. Usa la vela del cuarto escalón para quemar
+    la vieja foto de tu hogar. Una vez la fotografía sea irreconocible o quemada hasta las cenizas,
+    apaga la vela. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No
+    te gires ni mires tras de tí. <b>NOTA:</b> Puede ser últil mantener la vela durante el paso 6 y
+    llevarla contigo hasta el paso 7. <b>En NINGÚN MOMENTO debes volverte o mirar hacia atrás.</b>\n\n
+
+    8. Despues de que haya pasado la sexta hora, sube al sexto escalón. Coge la fotografía actual de
+    tu casa y rasgala en tantos trozos como indica la tirada de dados, pero no permitas que se rompa
+    en pezados. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No
+    te gires ni mires tras de tí.\n\n
+
+    9. Después de que haya pasado la séptima hora, sube al séptimo escalón. Adelanta el reloj tantas
+    horas como indique la tirada de dados del paso anterior. NO ATRASES el reloj.Mira hacia la parte
+    superior de las escaleras. Planta tus pies. No te muevas. No te gires ni mires tras de tí.\n\n
+
+    10.	Tras pasar la octava hora, sube al octavo escalón. Toma un bocado de la ofrenda de comida
+    y trágatelo. NO PERMITAS que tu cara muestre signos de angustia o asco. Muestra tanto placer o
+    gozo como puedas. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas.
+    No te gires ni mires tras de tí.\n\n
+
+    11.	Después de que la novena hora haya acabado, sube al noveno escalón. Toma el espejo y mira
+    en el, centrándote en tu propia cara. NO MIRES a ningún otro punto más que a tu cara, no importa
+    lo que intenten captar tus ojos. Mira hacia la parte superior de las escaleras. Planta tus pies.
+    No te muevas. No te gires ni mires tras de tí.\n\n
+
+    12.	Tras pasar la décima hora, rompe el espejo y sube al décimo escalón. Usa tu objeto afilado
+    para extraer una gota fresca de tu sangre. Permite a la gota caer en la pila de polvo y ceniza.
+    Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No te gires ni
+    mires tras de tí.\n\n
+
+    13.	Después de que la undécima hora haya pasado, sube al undécimo escalón. Mata al insecto.
+    Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No te gires ni
+    mires tras de tí.\n\n
+
+    14.	Tras pasar la duodécima hora, sube al duodécimo escalón. Toma el ítem extraído de tu cuerpo
+    y trágatelo entero. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas.
+    No te gires ni mires tras de tí.\n\n
+
+    15.	Después de que la decimotercera hora haya pasado, sube al último escalón. Mantén el objeto
+    afilado cerca.\n\n
+
+    <b>EL FINAL:\n</b>
+
+    1. Gírate.\n\n
+
+    Buena suerte.\n\n
+
+    <b>Notas Adicionales:\n</b>
+    Las instrucciones detalladas aquí están diseñadas para una casa en la que los ocupantes duermen
+        en la segunda planta. No obstante, si tu duermes en la primera planta, simplemente invierte
+        las instrucciones - esto es, comienza el ritual desde lo alto de la escalera, y realiza el
+        recorrido hacia la base de la misma, en vez de comenzar desde abajo y subir hasta el final.\n\n
+
+    Si no tienes escalera, todavía puedes realizar el ritual utilizando un pasillo largo. En el caso
+        de hacerlo, marca las divisiones entre cada "peldaño" a intervalos regulares con una línea
+        de sal. <b>NO REALICES este ritual en una habitación. NO LO REALICES en el exterior. NO LO
+            REALICES en ningún lugar pequeño o cerrado.</b>\n\n
+
+    El Evento Principal no debe ser necesariamente realizado en el día que sigue inmediatamente al del
+        Preludio, pero es recomendable realizarlo lo antes posible. Cuantos más paseos por la escalera
+        realices tú o cualquier ocupante de tu casa, más débiles se volverán los doce obstáculos que
+        allí se encuentran; es más, dependiendo de la fuerza de tu invitado no deseado, puede que no
+        aguanten mucho más de unas pocas noches.\n\n
+
+    Si, tras el Preludio, vuelves a la escalera y encuentras algún objeto perturbado, NO PROCEDAS.
+        De manera similar, si despiertas en la noche o tienes pesadillas mientras duermes, NO PROCEDAS.
+         <b>Si ocurre algo fuera de lo normal durante el tiempo que ocurre entre que completas el
+             Preludio y comienzas el Evento Principal, NO PROCEDAS.</b> En vez de eso, haz lo
+        siguiente:\n\n
+
+    <b>Para Abortar el Ritual:\n</b>
+    Coloca un anillo de sal alrededor de cada elemento de la escalera, alrededor de tu cama, y
+        alrededor de la cama de cualquier otro ocupante de tu casa. Déjalo toda la noche. Por la
+        mañana, quita todos los objetos de tu casa.\n\n
+
+    Destrúyelos por cualquier médio necesario. \n
+
+    </string>
     <!--__________________________ JUEGO 31____________________________________-->
     <!--__________________________ JUEGO 32____________________________________-->
     <!--__________________________ JUEGO 33____________________________________-->
