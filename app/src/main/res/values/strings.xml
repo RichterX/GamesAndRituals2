@@ -3124,7 +3124,90 @@
         Destroy them by any means necessary.\n
 
     </string>
+
+
     <!--__________________________ JUEGO 31____________________________________-->
+
+    <string name="Game31Name"><b>Hyakumonagatari Kaidankai, or the Game of 100 Ghost Stories</b></string>
+
+    <string name="Game31Players"><b><u>PLAYERS</u></b>\n* •	Storytellers: At least one, or as many as 100.\n</string>
+
+    <string name="Game31Requi"><b><u>REQUIREMENTS\n</u></b>
+        * 100 candles.\n
+        * Matches or a lighter.\n
+        * A Dark Room.\n\n
+
+    </string>
+
+    <string name="Game31Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        <b>The Prelude:\n</b>
+        1. Place 100 candles in the center of the designated room.\n\n
+
+        2. Close all curtains and turn off all lights. Now outside light should bleed into the room;
+        absolute darkness must be achieved.\n\n
+
+        3. Wait until nightfall\n\n
+
+        <b>The Main Event:\n</b>
+        1. Begin after sundown.\n\n
+
+        2. Gather all storyteller together and enter the room. Form a circle around the candles.\n\n
+
+        3. Light all 100 candles.\n\n
+
+        4. Take turns telling stories of the strange and unusual. The tales need not be real,
+        although they may be; they also need not have happened to the teller, although, similarly,
+        they may have.\n\n
+
+        5. At the conclusion of each story, the storyteller must blow out one candle.\n\n
+
+        <b>The End:\n</b>
+        1. When the final candle is blown out, prepare yourselves. The window will be open.
+        And it’s anyone’s guess what might come through it.\n\n
+
+        <b>Variations:\n</b>
+        Several variations exists on the ritual. A selection may be found below.\n\n
+
+        <b>1660 version:\n</b>
+        <b>NOTE:</b> This variation was first recorded in the kaidan-shu Tonoigusa, written in 1660
+        by Ansei Ogita.\n\n
+
+        1. Begin at the New Moon.\n\n
+
+        2. Prepare three rooms. These rooms should be adjacent; they should also form an “L” shape
+        when viewed from above. Rid each room of any weapons or dangerous objects. In the third room,
+        place 100 andon lanterns made of blue paper and a table; also place a mirror on the table.
+        Ensure all three rooms achieve complete darkness.\n\n
+
+        3. Gather together all storytellers and enter the first room. Storytellers should be dressed
+        in blue and unarmed.\n\n
+
+        4. Take turns telling tales of the strange and unusual. At the conclusion of each story,
+        the storyteller must travel, in darkness, from the first room to the third one. Upon
+        reaching the third room, the storyteller must extinguish one andon and look at him or
+        herself in the mirror. Only then may the storyteller return to the first room.\n\n
+
+        5. Storytellers may continue the ritual while the previous storyteller is traveling.\n\n
+
+        6. When the final andon is extinguished, true darkness will descend — and spirits may be
+        summoned.\n\n
+
+        <b>Jumonogatari version (The Game of Ten Stories):\n</b>
+        <b>NOTE:</b> This variation involves only one storyteller and ten stories. It need not occur in
+        a darkened room, and it may be completed over the course of several days.\n\n
+
+        1. Light 10 candles.\n\n
+
+        2. Begin telling stories of the strange and unusual.\n\n
+
+        3. At the conclusion of each story, the storyteller must blow out one candle.\n\n
+
+        4. When the tenth candle has been extinguished, the storyteller will be given a glimpse
+        into the netherworld and allowed an audience with whatever may dwell therein.\n\n
+
+        <b>Additional Notes:\n</b>
+        In light of recent events, <b>it is NOT recommended that this ritual be attempted.</b>\n
+    </string>
     <!--__________________________ JUEGO 32____________________________________-->
     <!--__________________________ JUEGO 33____________________________________-->
     <!--__________________________ JUEGO 34____________________________________-->
