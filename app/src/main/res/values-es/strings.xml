@@ -3251,85 +3251,96 @@
 
     <string name="Game31Name"><b>Hyakumonagatari Kaidankai, o El Juego de las 100 Historias de Fantasmas</b></string>
 
-    <string name="Game31Players"><b><u>PLAYERS</u></b>\n* •	Narradores: Al menos uno, o tantos como 100.\n</string>
+    <string name="Game31Players"><b><u>JUGADORES</u></b>\n* Narradores: Al menos uno, o tantos como 100.\n</string>
 
-    <string name="Game31Requi"><b><u>REQUIREMENTS\n</u></b>
+    <string name="Game31Requi"><b><u>REQUISITOS\n</u></b>
         * 100 velas.\n
         * Cerillas o un encendedor.\n
         * Una habitación oscura.\n\n
 
     </string>
 
-    <string name="Game31Inst"><b><u>INSTRUCTIONS\n\n</u></b>
-        <b>The Prelude:\n</b>
-        1. Place 100 candles in the center of the designated room.\n\n
+    <string name="Game31Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+        <b>El Preludio:\n</b>
+        1. Coloca 100 velas en el centro de la habitación designada.\n\n
 
-        2. Close all curtains and turn off all lights. Now outside light should bleed into the room;
-        absolute darkness must be achieved.\n\n
+        2. Cierra todas las cortinas y apaga todas las luces. Puede que alguna luz aún se filtre desde
+        el exterior; debe lograrse la oscuridad absoluta.\n\n
 
-        3. Wait until nightfall\n\n
+        3. Espera hasta que anochezca.\n\n
 
-        <b>The Main Event:\n</b>
-        1. Begin after sundown.\n\n
+        <b>El Evento Principal:\n</b>
+        1. Comienza después de la puesta de sol.\n\n
 
-        2. Gather all storyteller together and enter the room. Form a circle around the candles.\n\n
+        2. Reúne a todos los narradores y entrad en la habitación. Formad un círculo alrededor de
+        las velas.\n\n
 
-        3. Light all 100 candles.\n\n
+        3. Enciende las 100 velas.\n\n
 
-        4. Take turns telling stories of the strange and unusual. The tales need not be real,
-        although they may be; they also need not have happened to the teller, although, similarly,
-        they may have.\n\n
+        4. Tomad turnos contando historias sobre lo extraño e inusual. Las historias no tienen por qué
+        ser reales, pero pueden serlo; tampoco es necesario que la historia le haya ocurrido al
+        narrador, aunque de forma similar, puede haberle ocurrido.\n\n
 
-        5. At the conclusion of each story, the storyteller must blow out one candle.\n\n
+        5. Después de la conclusión de cada historia, el narrador que la ha contado debe soplar y
+        apagar una vela.\n\n
 
-        <b>The End:\n</b>
-        1. When the final candle is blown out, prepare yourselves. The window will be open.
-        And it’s anyone’s guess what might come through it.\n\n
+        <b>El Final:\n</b>
+        1. Cuando la última vela se apague, preparaos. La ventana se abrirá. Sería difícil adivinar
+        lo que podría entrar por ella.\n\n
 
-        <b>Variations:\n</b>
-        Several variations exists on the ritual. A selection may be found below.\n\n
+        <b>Variaciones:\n</b>
+        Existen algunas variaciones del ritual. Puedes encontrar algunas a continuación.\n\n
 
-        <b>1660 version:\n</b>
-        <b>NOTE:</b> This variation was first recorded in the kaidan-shu Tonoigusa, written in 1660
-        by Ansei Ogita.\n\n
+        <b>Versión de 1660:\n</b>
+        <b>NOTA:</b> Esta variación fue grabada por primera vez en kaidan-shu Tonoigusa, escrita en
+        1660 por Ansei Ogita.\n\n
 
-        1. Begin at the New Moon.\n\n
+        1. Comienza en luna nueva.\n\n
 
-        2. Prepare three rooms. These rooms should be adjacent; they should also form an “L” shape
-        when viewed from above. Rid each room of any weapons or dangerous objects. In the third room,
-        place 100 andon lanterns made of blue paper and a table; also place a mirror on the table.
-        Ensure all three rooms achieve complete darkness.\n\n
+        2. Prepara 3 habitaciones. Estas habitaciones deben ser adjacentes; también deberían formar
+        una forma de “L” si lo vieramos desde arriba. Vacía cada habitación de cualquier arma u
+        objeto peligroso que hubiera en ella. En la tercera habitación, coloca 100 linternas andon
+        fabricadas de papel azul y una mesa; coloca también un espejo en la mesa. Asegúrate de que
+        las tres habitaciones están en completa oscuridad.\n\n
 
-        3. Gather together all storytellers and enter the first room. Storytellers should be dressed
-        in blue and unarmed.\n\n
+        3. Reúne a todos los narradores y entrad en la primera habitación. Los narradores deben vestir
+        de azul y venir desarmados y sin objetos peligrosos.\n\n
 
-        4. Take turns telling tales of the strange and unusual. At the conclusion of each story,
-        the storyteller must travel, in darkness, from the first room to the third one. Upon
-        reaching the third room, the storyteller must extinguish one andon and look at him or
-        herself in the mirror. Only then may the storyteller return to the first room.\n\n
+        4. Tomad turnos para contar historias sobre lo raro e inusual. A la conclusión de cada
+        historia, el narrador debe hacer su camino, en la oscuridad, desde la primera habitación hasta la
+        tercera. Una vez alcanzada la tercera habitación, el narrador debe extinguir uno de los andon
+        y mirar su reflejo en el espejo. Solo entonces puede el narrador volver a la primera
+        habitación.\n\n
 
-        5. Storytellers may continue the ritual while the previous storyteller is traveling.\n\n
+        5. Los narradores pueden continuar con el ritual mientras el anterior narrador hace el
+        recorrido.\n\n
 
-        6. When the final andon is extinguished, true darkness will descend — and spirits may be
-        summoned.\n\n
+        6. Cuando el último andon sea extinguido, descenderá la auténtica oscuridad - y los espíritus
+        pueden haber sido invocados.\n\n
 
-        <b>Jumonogatari version (The Game of Ten Stories):\n</b>
-        <b>NOTE:</b> This variation involves only one storyteller and ten stories. It need not occur in
-        a darkened room, and it may be completed over the course of several days.\n\n
+        <b>Versión Jumonogatari (El Juego de las Diez Historias):\n</b>
+        <b>NOTA:</b> Esta variación involucra solamente a un narrador y diez historias. No es necesario
+        que ocurra en una habitación a oscuras, y puede completarse durante el transcurso de varios
+        días.\n\n
 
-        1. Light 10 candles.\n\n
+        1. Enciende 10 velas.\n\n
 
-        2. Begin telling stories of the strange and unusual.\n\n
+        2. Comienza contando historias de lo extraño e inusual.\n\n
 
-        3. At the conclusion of each story, the storyteller must blow out one candle.\n\n
+        3. A la conclusión de cada historia, el narrador debe apagar una vela.\n\n
 
-        4. When the tenth candle has been extinguished, the storyteller will be given a glimpse
-        into the netherworld and allowed an audience with whatever may dwell therein.\n\n
+        4. Cuando la décima vela haya sido extinguida, el narrador podrá vislumbrar el inframundo
+        y se le permitirá una audiencia con lo que pueda habitar en él.\n\n
 
-        <b>Additional Notes:\n</b>
-        In light of recent events, <b>it is NOT recommended that this ritual be attempted.</b>\n
+        <b>Notas Adicionales:\n</b>
+        A la luz de recientes acontecimientos al tiempo que escribimos estas instrucciones, <b>NO
+            RECOMENDAMOS que juegues este juego</b>\n
     </string>
+
+
     <!--__________________________ JUEGO 32____________________________________-->
+
+
     <!--__________________________ JUEGO 33____________________________________-->
     <!--__________________________ JUEGO 34____________________________________-->
     <!--__________________________ JUEGO 35____________________________________-->

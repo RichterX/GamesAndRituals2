@@ -3130,7 +3130,7 @@
 
     <string name="Game31Name"><b>Hyakumonagatari Kaidankai, or the Game of 100 Ghost Stories</b></string>
 
-    <string name="Game31Players"><b><u>PLAYERS</u></b>\n* •	Storytellers: At least one, or as many as 100.\n</string>
+    <string name="Game31Players"><b><u>PLAYERS</u></b>\n* Storytellers: At least one, or as many as 100.\n</string>
 
     <string name="Game31Requi"><b><u>REQUIREMENTS\n</u></b>
         * 100 candles.\n
@@ -3146,7 +3146,7 @@
         2. Close all curtains and turn off all lights. Now outside light should bleed into the room;
         absolute darkness must be achieved.\n\n
 
-        3. Wait until nightfall\n\n
+        3. Wait until nightfall.\n\n
 
         <b>The Main Event:\n</b>
         1. Begin after sundown.\n\n
@@ -3208,7 +3208,11 @@
         <b>Additional Notes:\n</b>
         In light of recent events, <b>it is NOT recommended that this ritual be attempted.</b>\n
     </string>
+
+
     <!--__________________________ JUEGO 32____________________________________-->
+
+
     <!--__________________________ JUEGO 33____________________________________-->
     <!--__________________________ JUEGO 34____________________________________-->
     <!--__________________________ JUEGO 35____________________________________-->
