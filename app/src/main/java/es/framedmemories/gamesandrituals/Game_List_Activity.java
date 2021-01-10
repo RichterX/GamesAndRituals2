@@ -106,6 +106,8 @@ public class Game_List_Activity extends AppCompatActivity {
 
         category.add(new Category ("31", "31. 100 Ghost Stories", "Game", res ));
 
+        category.add(new Category ("32", "32. The Candles Game", "Game", res ));
+
 
 
         //////////    LO QUE OCURRE AL HACER TOUCH EN UN ELEMENTO DE LA LISTVIEW    ////////////

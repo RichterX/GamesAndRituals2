@@ -3340,7 +3340,128 @@
 
     <!--__________________________ JUEGO 32____________________________________-->
 
+    <string name="Game32Name"><b>El Juego de las Velas</b></string>
 
+    <string name="Game32Players"><b><u>Jugadores</u></b>\n* 1 Principal.\n* 1 Compañero.\n</string>
+
+    <string name="Game32Requi"><b><u>REQUISITOS\n</u></b>
+        * 1 vela por cada habitación en tu casa.\n
+        * 1 vela por cada pasillo en tu casa. NOTA: Todas las velas deben ser capaces de sostenerse
+        por sí solas. Las velas gordas son una buena elección; si debes usar cirios, asegurate de que
+        cada una tenga candelabro.\n
+        * Cerillas o un encendedor.\n
+        * Un dispositivo para marcar el paso del tiempo con alarma. Un reloj digital de muñeca es ideal.\n
+    </string>
+
+    <string name="Game32Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+        <b>El preludio:\n</b>
+        1. Comienza durante el día.\n\n
+
+        2. Cierra todas las ventanas, cortinas y/o persianas de tu casa.\n\n
+
+        3. Apaga cualquier aparato electrónico que pueda haber — si puede hacer ruido o encenderse,
+        debe estar apagado, o idealmente, desconectado de la corriente eléctrica. Los dispositivos
+        electrónicos portátiles como teléfonos, tablets, reproductores de MP3, etc… deben colocarse
+        en una caja antes de ser apagados; la caja debe entonces ser colocada fuera de la vista en
+        un armario o gabinete. El único dispositivo electrónico que debe permanecer encendido y
+        fuera de la caja es tu dispositivo para marcar el tiempo.\n\n
+
+        4. Coloca una vela sin encender al final de cada pasillo de tu casa.\n\n
+
+        5. Haz que tu compañero coloque una vela apagada en el suelo, en cada habitación de tu casa
+        excepto en tu propia habitación. NO PERMITAS que tu compañero te diga dónde ha colocado las
+        velas. NO PREGUNTES a tu compañero dónde se encuentran las velas. Una vez tu compañero haya
+        escondido las velas, el o ella debe abandonar tu casa y no volver hasta las 6:00am.\n\n
+
+        6. Coloca una vela sin encender en tu habitación directamente enfrente de la puerta. NO
+        PERMITAS que tu compañero coloque esta vela; tu como principal debes colocarla tu mismo.\n\n
+
+        7. Cierra las puertas de todas las habitaciones de tu casa.\n\n
+
+        8. Coloca la alarma de tu dispositivo para marcar el tiempo precisamente a las 11:10pm.\n\n
+
+        9. A la puesta de sol, entra en tu habitación, cierra la puerta, y vete a dormir. Mantén
+        las cerillas o el encendedor cerca.\n\n
+
+        <b>El Evento Principal:\n</b>
+        1. Cuando te despierte la alarma, confirma que son exactamente las 11:10pm.\n
+        <b>Nota: NO PROCEDAS si tu alarma no sonó a la hora correcta.</b> Si la alarma no sonó a la
+        hora correta Y aún está oscuro afuera cuando te has despertado, permanece en tu cama.
+        Permanece mirando al techo. NO MIRES alrededor de tu habitación o bajo tu cama. NO TE
+        DUERMAS. No te muevas hasta las 6:00am.\n\n
+
+        2. Si tu alarma suena exactamente a las 11:10pm, puedes continuar. Una vez se apague, tienes
+        un minuto y solamente un minuto para encender la vela que está frente a tu puerta usando
+        las cerillas o el encendedor. NO MIRES alrededor de tu habitación una vez la vela esté
+        encendida. <b>NO CONTINÚES si no consigues encender la vela a tiempo.</b>\n\n
+
+        3. Si consigues encender la vela a las 11:11pm, puedes proceder. Llama a la puerta de tu
+        habitación tres veces (golpeandola con el puño). Debe haber un intervalo de tres segundos
+        entre cada golpe. <b>NO SIGAS si escuchas cualquier sonido más allá de la puerta tras el
+            tercer golpe.\n\n</b>
+
+        4. Si no oyes ningún sonido adicional, puedes proceder. Pronuncia en alto las palabras,
+        “Estoy listo para jugar.” Abre tu puerta y coloca la vela encendida de tu habitación fuera
+        de ella. Cierra la puerta tras de ti. \n\n
+
+        5. Comienza recorriendo tu casa, cerillas o encendedor en mano y con el dispositivo de marcar
+        el tiempo cerca, obecede las siguientes condiciones: \n
+        <b>- Cada vez que alcances una vela en un pasillo, enciendela. \n</b>
+        <b>- Cada vez que alcances la puerta de una habitación, llama tres veces con un intervalo de
+            tres segundos entre cada golpe. Si escuchas cualquier sonido desde dentro de la habitación
+            tras llamar, no abras esa puerta; sáltate esa habitación, pero no la olvides. Vuelve a
+            ella más tarde.\n\n</b>
+
+        <b>NOTA: Todas las puertas deben estar cerradas cuando llegas hasta ellas.</b> Si alguna de
+        ellas está abierta, NO CONTINÚES. Si ves una luz por debajo de alguna de ellas y aún no has
+        encontrado y encendido la vela que hay en ella, NO SIGAS. Abandona tu casa inmediatamente.
+        No vuelvas hasta pasadas las 6:00am.\n\n
+
+        6. Si no escuchas ningún sonido desde dentro de la habitación tras haber llamado, abre la
+        puerta. Tienes tres minutos para encontrar y encender la vela que tu compañero escondió o
+        colocó previamente allí. <b>NOTA: Si no eres capaz de encontrar y encender la vela durante
+            esos tres minutos, NO PROCEDAS. </b> Entra en la habitación, cierra y bloquea la puerta,
+        y acuéstate mirando al techo. No mires alrededor de la habitación. No caigas dormido.
+        Permanece allí hasta las 6:00am.\n\n
+
+        7. Si encuentras y enciendes la vela dentro de esos tres minutos, deja la vela encendida
+        donde estaba, abandona la habitación y cierra la puerta. NO VUELVAS a abrir ninguna de estas
+        puertas después de haber encontrado y encendido las velas satisfactoriamente.\n\n
+
+        8. Después de haber encontrado y encendido todas las velas de tu hogar, y asegurándote de que
+        has vuelto a las habitaciones que te saltaste anteriormente, vuelve a tu habitación. Llama a
+        la puerta tres veces con un intervalo de tres segundos entre golpes. Si no escuchas ningún
+        sonido proveniente del interior de la misma, entra a la habitación, cierra la puerta tras de
+        ti, acuéstate en tu cama, y mira al techo. NO MIRES debajo de tu cama o alrededor de la
+        habitación. NO CAIGAS dormido.\n\n
+
+        <b>El Final:\n</b>
+        1. A las 6:00am, el juego ha terminado. Tu casa debería ser segura ahora.\n\n
+
+        <b>Notas Adicionales:\n</b>
+        * Evita mirar a cualquier espejo hasta la conclusión del juego. Si es posible, voltea todos
+        los espejos de tu casa o cúbrelos durante El Preludio.\n\n
+
+        * Una vez llegue la puesta de sol, deberías ser la única persona en tu hogar. Incluso es
+        recomendable que no tengas ninguna mascota alrededor rondando, ya que pueden interrumpir el
+        juego.\n\n
+
+        * Mientras te mueves por tu casa, mira siempre al frente. No te vuelvas a ver ningún movimiento
+        extraño o raro que puede o puede que no veas con tu visión periférica.\n\n
+
+        * Si escuchas algún tipo de voz durante la partida, no les respondas ni les hables.\n\n
+
+        * Lo siguiente son motivos para perder el juego definitivamente: \n
+            - Desobedecer alguna de las reglas.\n
+            - Realizar alguna otra acción que no esté especificada en las reglas una vez el juego
+        haya comenzado.\n
+            - Correr.\n\n
+
+        <b>Sobre las Condiciones de Derrota:\n</b>
+        NO PIERDAS.\n
+
+
+    </string>
     <!--__________________________ JUEGO 33____________________________________-->
     <!--__________________________ JUEGO 34____________________________________-->
     <!--__________________________ JUEGO 35____________________________________-->

@@ -3212,7 +3212,122 @@
 
     <!--__________________________ JUEGO 32____________________________________-->
 
+    <string name="Game32Name"><b>The Candles Game</b></string>
 
+    <string name="Game32Players"><b><u>PLAYERS</u></b>\n* 1 Principal.\n* 1 Partner.\n</string>
+
+    <string name="Game32Requi"><b><u>REQUIREMENTS\n</u></b>
+        * 1 candle for every room in your home.\n
+        * 1 candle for every hallway in your home. NOTE: All candles should be capable of standing
+        up on their own. Pillar candles are a good choice; if you must use tapers, make sure each
+        has a candle holder.\n
+        * Matches or a lighter.\n
+        * A timekeeping device with an alarm. A digital wristwatch is ideal.\n
+    </string>
+
+    <string name="Game32Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+        <b>The Prelude:\n</b>
+        1. Begin during daylight.\n\n
+
+        2. Close all the windows, curtains, and/or blinds in your home.\n\n
+
+        3. Turn off any and all electronic devices — if it can make noise or light up, it should be
+        off and, ideally, unplugged. Portable electronics such as phones, tablets, MP3 players etc.
+        should be placed in a box after they have been turned off; the box should then be placed out
+        of sight in a closet or cabinet. The only electronic that should remain turned on and outside
+        the box is your timekeeping device.\n\n
+
+        4. Place one unlit candle at the end of each hallway in your home.\n\n
+
+        5. Have your partner place one unlit candle on the floor of each room in your home except
+        for your own room. Do NOT let your partner tell you where the candles are. Do NOT ask your
+        partner where the candles are. Once your partner has hidden the candles, he or she should
+        leave your home and not return until 6:00am.\n\n
+
+        6. Place one unlit candle inside your room directly in front of the door. Do NOT have your
+        partner place this candle; you as the principal must place it yourself.\n\n
+
+        7. Close the doors to all of the rooms in your home.\n\n
+
+        8. Set the alarm on your timekeeping device for precisely 11:10pm.\n\n
+
+        9. At sunset, enter your room, close the door, and go to sleep. Keep your matches or
+        lighter nearby.\n\n
+
+        <b>The Main Event:\n</b>
+        1. When your alarm wakes you up, confirm that it is precisely 11:10pm.\n
+        <b>Note: Do NOT proceed if your alarm did not go off at the correct time.</b> If the alarm did not
+        go off at the correct time AND it is still dark out when you wake up, remain in your bed.
+        Remain facing the ceiling. Do NOT look around your room or under your bed. Do NOT fall
+        asleep. Do not move until 6:00am.\n\n
+
+        2. If your alarm rings precisely at 11:10pm, you may proceed. Once it goes off, you have
+        one minute and one minute only to light the candle in front of your door using your matches
+        or lighter. Do NOT look around your room after the candle is lit. <b>Do NOT proceed if you do
+            not light your candle in time.</b>\n\n
+
+        3. If you manage to light your candle by 11:11pm, you may proceed. Knock on the door to your
+        room three times. There should be a three-second interval between each knock. <b>Do NOT proceed
+            if you hear any noise from beyond the door after the third knock.\n\n</b>
+
+        4. If you do not hear any additional noises, you may proceed. Speak out loud the words, “I
+        am ready to play.” Open your door and place the lit candle from your room outside it. Close
+        the door behind you.\n\n
+
+        5. Begin moving through your home, matches or lighter in hand and timekeeping device nearby,
+        obeying the following conditions: \n
+        <b>- Whenever you reach a candle in a hallway, light it.\n</b>
+        <b>- Whenever you reach a door to a room, knock on it three times with a three-second interval
+        between each knock. If you hear any noises from inside the room after knocking, do not open
+        the door; skip the room, but do not forget about it. Come back to it later.\n\n
+        </b>
+
+        <b>NOTE: All the doors should be closed when you reach them.</b> If any of them are open,
+        do NOT proceed. If you see a light from under any of them and you have not yet found and
+        lit the candle within, do NOT proceed. Leave your home immediately. Do not return until
+        after 6:00am.\n\n
+
+        6. If you do not hear any noises from inside the room after knocking, open the door. You have
+        three minutes to find and light the candle your partner previously hid within it. <b>NOTE:
+            If you do not manage to find and light the candle within three minutes, do NOT proceed. </b>
+        Enter the room, close and lock the door, and lie down facing the ceiling. Do not look around
+        the room. Do not fall asleep. Remain there until 6:00am.\n\n
+
+        7. If you do find and light the candle within three minutes, set the lit candle back down,
+        leave the room, and close the door. Do NOT reopen any of these doors after you have
+        successfully found and lit the candles.\n\n
+
+        8. After you have found and lit all the candles in your home, making sure to return to any
+        rooms you previously skipped, return to your room. Knock on the door three times with a
+        three-second interval between each knock. If you do not hear any noise from behind it, enter
+        the room, close the door behind you, lie down on your bed, and face the ceiling. Do NOT
+        look under your bed or around your room. Do NOT fall asleep.\n\n
+
+        <b>The Ending:\n</b>
+        1. At 6:00am, the game is complete. Your house should now be safe.\n\n
+
+        <b>Additional Notes:\n</b>
+        * Avoid looking into any mirrors until the conclusion of the game. If possible, turn all
+        the mirrors in your home around or cover them up during the Prelude.\n\n
+
+        * Once sunset arrives, you should be the only person within your home. It’s also best not
+        to have any pets around, as they may disrupt the game.\n\n
+
+        * While moving about your home, look only in front of you. Do not turn to look at any
+        movements you may or may not see in you peripheral vision.\n\n
+
+        * Should you hear any voices during the game, do not speak to them.\n\n
+
+        * The following are all grounds for a losing condition: \n
+            - Disobeying any of the rules.\n
+            - Performing any actions other than those specified by the rules once the game has begun.\n
+            - Running.\n\n
+
+        <b>Concerning Losing Conditions:\n</b>
+        Do NOT lose.\n
+
+
+    </string>
     <!--__________________________ JUEGO 33____________________________________-->
     <!--__________________________ JUEGO 34____________________________________-->
     <!--__________________________ JUEGO 35____________________________________-->
