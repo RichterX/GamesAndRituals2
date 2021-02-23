@@ -10,6 +10,40 @@
         <a href="https://framedmemories.es/politica-de-privacidad/">Política de Privacidad</a>
     </string>
 
+    <string name="Type_Game">Juego</string>
+    <string name="Type_Ritual">Ritual</string>
+    <string name="Title_1">1. Corta el cordón</string>
+    <string name="Title_2">2. La Fotografía</string>
+    <string name="Title_3">3. Concéntrate</string>
+    <string name="Title_4">4. El Hombre de las Respuestas</string>
+    <string name="Title_5">5. La Red de Charlotte</string>
+    <string name="Title_6">6. El Juego del Libro Rojo</string>
+    <string name="Title_7">7. Música Oscura</string>
+    <string name="Title_8">8. 11 Millas</string>
+    <string name="Title_9">9. El Año Nuevo Japonés</string>
+    <string name="Title_10">10. Huesos Secos</string>
+    <string name="Title_11">11. El Armario</string>
+    <string name="Title_12">12. Sillas Musicales en Solitario</string>
+    <string name="Title_13">13. El Kimono Blanco</string>
+    <string name="Title_14">14. Las cuatro Esquinas</string>
+    <string name="Title_15">15. Una Radio Pequeña</string>
+    <string name="Title_16">16. Canal Infinity</string>
+    <string name="Title_17">17. El Infierno de Tomino</string>
+    <string name="Title_18">18. El Hombre de los Campos</string>
+    <string name="Title_19">19. La Cama del Pesar</string>
+    <string name="Title_20">20. La Dama de Picas</string>
+    <string name="Title_21">21. El Ritual del Desconocido</string>
+    <string name="Title_22">22. El Simio</string>
+    <string name="Title_23">23. El Hombre de la Aldaba</string>
+    <string name="Title_24">24. El Hombre Cuervo</string>
+    <string name="Title_25">25. El Juego del Tahúr</string>
+    <string name="Title_26">26. Las Puertas de tu Mente</string>
+    <string name="Title_27">27. El Ritual del Hombre Encapuchado</string>
+    <string name="Title_28">28. El Reflejo Oscuro</string>
+    <string name="Title_29">29. El Juego del Baño (Daruma-San)</string>
+    <string name="Title_30">30. El Ritual de la Escalera</string>
+    <string name="Title_31">31. 100 historias de Fantasmas</string>
+    <string name="Title_32">32. El juego de las velas</string>
     <!-- TEXTO DE LA PÁGINA INFO-->
 
     <string name="notas"><i><b>Info Importante</b></i></string>
@@ -1157,7 +1191,7 @@
     <!--__________________________ JUEGO 12____________________________________-->
 
 
-    <string name="Game12Name"><b>Sillas Musicales</b></string>
+    <string name="Game12Name"><b>Sillas Musicales en Solitario</b></string>
 
     <string name="Game12Players"><b><u>JUGADORES</u></b>\n*Un principal.\n</string>
 

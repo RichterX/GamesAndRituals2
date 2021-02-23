@@ -12,6 +12,40 @@
         <a href="https://framedmemories.es/politica-de-privacidad/">Privacy Policy</a>
     </string>
 
+    <string name="Type_Game">Game</string>
+    <string name="Type_Ritual">Ritual</string>
+    <string name="Title_1">1. Sever the cord</string>
+    <string name="Title_2">2. The Picture</string>
+    <string name="Title_3">3. Concentrate</string>
+    <string name="Title_4">4. The Answer Man</string>
+    <string name="Title_5">5. Charlotte´s Web</string>
+    <string name="Title_6">6. The Red Book Game</string>
+    <string name="Title_7">7. The Dark Music</string>
+    <string name="Title_8">8. 11 Miles</string>
+    <string name="Title_9">9. The Japanese New Year</string>
+    <string name="Title_10">10. Dry Bones</string>
+    <string name="Title_11">11. The Closet</string>
+    <string name="Title_12">12. The Musical Chairs Alone</string>
+    <string name="Title_13">13. The White Kimono</string>
+    <string name="Title_14">14. The Corner</string>
+    <string name="Title_15">15. A Small Radio</string>
+    <string name="Title_16">16. Channel Infinity</string>
+    <string name="Title_17">17. Tomino´s Hell</string>
+    <string name="Title_18">18. The Man In the Fields</string>
+    <string name="Title_19">19. Bed of Sorrow</string>
+    <string name="Title_20">20. Lady Spades</string>
+    <string name="Title_21">21. The Stranger Ritual</string>
+    <string name="Title_22">22. The Apex</string>
+    <string name="Title_23">23. The Knockertell</string>
+    <string name="Title_24">24. The Raven Man</string>
+    <string name="Title_25">25. The Gambler´s Game</string>
+    <string name="Title_26">26. The Doors of your Mind</string>
+    <string name="Title_27">27. The Hooded Man Ritual</string>
+    <string name="Title_28">28. The Dark Reflection</string>
+    <string name="Title_29">29. The Bath Game (Daruma-San)</string>
+    <string name="Title_30">30. The Staircase Ritual</string>
+    <string name="Title_31">31. 100 Ghost Stories</string>
+    <string name="Title_32">32. The Candles Game</string>
 
     <!-- TEXTO DE LA PÁGINA INFO-->
 
@@ -3328,6 +3362,8 @@
 
 
     </string>
+
+
     <!--__________________________ JUEGO 33____________________________________-->
     <!--__________________________ JUEGO 34____________________________________-->
     <!--__________________________ JUEGO 35____________________________________-->

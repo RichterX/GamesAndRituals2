@@ -44,69 +44,69 @@ public class Game_List_Activity extends AppCompatActivity {
         Drawable res = getResources().getDrawable(R.drawable.dice); //Icono para los juegos
         Drawable res2 = getResources().getDrawable(R.drawable.symbol2); //Icono para los rituales
 
-        category.add(new Category("1", "1. Sever the cord", "Game", res));
+        category.add(new Category("1", getString(R.string.Title_1), getString(R.string.Type_Game), res));
 
-        category.add(new Category("2", "2. The Picture", "Ritual", res2));
+        category.add(new Category("2", getString(R.string.Title_2), getString(R.string.Type_Ritual), res2));
 
-        category.add(new Category("3", "3. Concentrate", "Game", res));
+        category.add(new Category("3", getString(R.string.Title_3), getString(R.string.Type_Game), res));
 
-        category.add(new Category("4", "4. The Answer Man", "Ritual", res2));
+        category.add(new Category("4", getString(R.string.Title_4), getString(R.string.Type_Ritual), res2));
 
-        category.add(new Category("5", "5. Charlotte´s Web", "Game", res));
+        category.add(new Category("5", getString(R.string.Title_5), getString(R.string.Type_Game), res));
 
-        category.add(new Category("6", "6. The Red Book Game", "Game", res));
+        category.add(new Category("6", getString(R.string.Title_6), getString(R.string.Type_Game), res));
 
-        category.add(new Category("7", "7. The Dark Music", "Ritual", res2));
+        category.add(new Category("7", getString(R.string.Title_7), getString(R.string.Type_Ritual), res2));
 
-        category.add(new Category("8", "8. 11 Miles", "Game", res));
+        category.add(new Category("8", getString(R.string.Title_8), getString(R.string.Type_Game), res));
 
-        category.add(new Category("9", "9. The Japanese New Year", "Ritual", res2));
+        category.add(new Category("9", getString(R.string.Title_9), getString(R.string.Type_Ritual), res2));
 
-        category.add(new Category("10", "10. Dry Bones", "Game", res));
+        category.add(new Category("10", getString(R.string.Title_10), getString(R.string.Type_Game), res));
 
-        category.add(new Category("11", "11. The Closet", "Game", res));
+        category.add(new Category("11", getString(R.string.Title_11), getString(R.string.Type_Game), res));
 
-        category.add(new Category("12", "12. The Musical Chairs Alone", "Game", res));
+        category.add(new Category("12", getString(R.string.Title_12), getString(R.string.Type_Game), res));
 
-        category.add(new Category("13", "13. The White Kimono", "Ritual", res2));
+        category.add(new Category("13", getString(R.string.Title_13), getString(R.string.Type_Ritual), res2));
 
-        category.add(new Category("14", "14. The Corner", "Game", res));
+        category.add(new Category("14", getString(R.string.Title_14), getString(R.string.Type_Game), res));
 
-        category.add(new Category("15", "15. A Small Radio", "Ritual", res2));
+        category.add(new Category("15", getString(R.string.Title_15), getString(R.string.Type_Ritual), res2));
 
-        category.add(new Category("16", "16. Channel Infinity", "Game", res));
+        category.add(new Category("16", getString(R.string.Title_16), getString(R.string.Type_Game), res));
 
-        category.add(new Category("17", "17. Tomino´s Hell", "Ritual", res2));
+        category.add(new Category("17", getString(R.string.Title_17), getString(R.string.Type_Ritual), res2));
 
-        category.add(new Category("18", "18. The Man In the Fields", "Ritual", res2));
+        category.add(new Category("18", getString(R.string.Title_18), getString(R.string.Type_Ritual), res2));
 
-        category.add(new Category("19", "19. Bed of Sorrow", "Game", res));
+        category.add(new Category("19", getString(R.string.Title_19), getString(R.string.Type_Game), res));
 
-        category.add(new Category("20", "20. Lady Spades", "Ritual", res2));
+        category.add(new Category("20", getString(R.string.Title_20), getString(R.string.Type_Ritual), res2));
 
-        category.add(new Category ("21", "21. The Stranger Ritual", "Ritual", res2 ));
+        category.add(new Category ("21", getString(R.string.Title_21), getString(R.string.Type_Ritual), res2 ));
 
-        category.add(new Category ("22", "22. The Apex", "Game", res ));
+        category.add(new Category ("22", getString(R.string.Title_22), getString(R.string.Type_Game), res ));
 
-        category.add(new Category ("23", "23. The Knockertell", "Game", res ));
+        category.add(new Category ("23", getString(R.string.Title_23), getString(R.string.Type_Game), res ));
 
-        category.add(new Category ("24", "24. The Raven Man", "Ritual", res2 ));
+        category.add(new Category ("24", getString(R.string.Title_24), getString(R.string.Type_Ritual), res2 ));
 
-        category.add(new Category ("25", "25. The Gambler´s Game", "Game", res ));
+        category.add(new Category ("25", getString(R.string.Title_25), getString(R.string.Type_Game), res ));
 
-        category.add(new Category ("26", "26. The Doors of your Mind", "Game", res ));
+        category.add(new Category ("26", getString(R.string.Title_26), getString(R.string.Type_Game), res ));
 
-        category.add(new Category ("27", "27. The Hooded Man Ritual", "Ritual", res2 ));
+        category.add(new Category ("27", getString(R.string.Title_27), getString(R.string.Type_Ritual), res2 ));
 
-        category.add(new Category ("28", "28. The Dark Reflection", "Ritual", res2 ));
+        category.add(new Category ("28", getString(R.string.Title_28), getString(R.string.Type_Ritual), res2 ));
 
-        category.add(new Category ("29", "29. The Bath Game (Daruma-San)", "Game", res ));
+        category.add(new Category ("29", getString(R.string.Title_29), getString(R.string.Type_Game), res ));
 
-        category.add(new Category ("30", "30. The Staircase Ritual", "Ritual", res2 ));
+        category.add(new Category ("30", getString(R.string.Title_30), getString(R.string.Type_Ritual), res2 ));
 
-        category.add(new Category ("31", "31. 100 Ghost Stories", "Game", res ));
+        category.add(new Category ("31", getString(R.string.Title_31), getString(R.string.Type_Game), res ));
 
-        category.add(new Category ("32", "32. The Candles Game", "Game", res ));
+        category.add(new Category ("32", getString(R.string.Title_32), getString(R.string.Type_Game), res ));
 
 
 
