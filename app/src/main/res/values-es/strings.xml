@@ -44,6 +44,9 @@
     <string name="Title_30">30. El Ritual de la Escalera</string>
     <string name="Title_31">31. 100 historias de Fantasmas</string>
     <string name="Title_32">32. El juego de las velas</string>
+    <string name="Title_33">33. El juego del Hospedaje</string>
+
+
     <!-- TEXTO DE LA PÁGINA INFO-->
 
     <string name="notas"><i><b>Info Importante</b></i></string>
@@ -81,7 +84,7 @@
         \n\nPor favor, contacta conmigo a
         través de este email: <b>software@framedmemories.es</b>
 
-        \n\nDesarrollado y traducido por Pedro Luque\nVer 1.3\nFramed Memories Software, 2018.\n\n\n
+        \n\nDesarrollado y traducido por Pedro Luque\nVer 1.6\nFramed Memories Software, 2018.\n\n\n
 
     </string>
 
@@ -3376,7 +3379,7 @@
 
     <string name="Game32Name"><b>El Juego de las Velas</b></string>
 
-    <string name="Game32Players"><b><u>Jugadores</u></b>\n* 1 Principal.\n* 1 Compañero.\n</string>
+    <string name="Game32Players"><b><u>JUGADORES</u></b>\n* 1 Principal.\n* 1 Compañero.\n</string>
 
     <string name="Game32Requi"><b><u>REQUISITOS\n</u></b>
         * 1 vela por cada habitación en tu casa.\n
@@ -3497,6 +3500,108 @@
 
     </string>
     <!--__________________________ JUEGO 33____________________________________-->
+
+    <string name="Game33Name"><b>El Juego del Hospedaje</b></string>
+
+    <string name="Game33Players"><b><u>JUGADORES</u></b>\n* 1 Principal.\n</string>
+
+    <string name="Game33Requi"><b><u>REQUISITOS\n</u></b>
+        * Una pequeña habitación vacía y oscura (tu "habitación del hospedaje"). Idealmente esta
+        habitación no debería tener ventanas; si, no obstante, no tienes ninguna habitación disponible
+        con estas características, usa cualquiera con ventana, pero cubriendola completamente para
+        que no entre nada de luz del exterior.\n
+        * Algún instrumento de escritura y papel.\n
+        * Un reloj o cualquier instrumento que sirva para medir el tiempo. NO uses un teléfono móvil,
+         reloj digital o cualquier otro dispositivo digital.\n
+        * 3 cerillas.\n
+    </string>
+
+    <string name="Game33Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>La Invitación:\n</b>
+        1. Comienza de noche. Mantén tu dispositivo para medir el tiempo y las cerillas contigo todo
+        el tiempo.\n\n
+
+        2. Apaga todas las posibles fuentes de ruido en tu casa. Esto incluye teléfonos, televisores,
+        ordenadores, alarmas, etc… Sé minucioso. Si tu habitación de hospedaje lo requiere, corre
+        las cortinas o bloquea las ventanas para que no entre ni un solo rayo de luz del exterior en
+        la habitación.\n\n
+
+        3. Entra en la habitación de hospedaje y enciende la luz. Si la habitación no tiene bombillas
+        o alguna lámpara, usa una linterna, farol, vela encendida, o cualquier otra fuente de luz.
+        Aunque en términos atmosféricos una vela es correcta, puede representar un peligro real de
+        incendio, procede con precaución si este es el caso.\n\n
+
+        4. Coloca tu instrumento de escritura y un trozo de papel en tu habitación de hospedaje.\n\n
+
+        5. Dejando la fuente de luz encendida, sal de tu habitación de hospedaje. Ve al lugar más
+        alejado de tu hogar de la habitación y dí en alto, “Estaré listo pronto!” Ve de habitación
+        en habitación de tu casa, repitiendo dicha frase en cada una de ellas, acercandote cada vez
+        más a la habitación de hospedaje con cada llamada.\n\n
+
+        6. Cuando hayas vuelto a la habitación de hospedaje, usa el instrumento de escritura para
+        escribir el siguiente mensaje en el trozo de papel: “¡Estás invitado! Un encuentro, hospedado
+        por [Tu Nombre]. Tendrá lugar desde las [la hora actual] hasta las [una hora desde la hora
+        actual]. ¡Trae a tus amigos!”\n\n
+
+        7. Coloca el trozo de papel en el centro de la habitación de hospedaje.\n\n
+
+        8. <u>Mantente en el humbral de la puerta de la habitación de hospedaje mirando hacia la
+            habitación y dí en alto, “¡Estoy list@! ¡Podéis venir!”</u>\n\n
+
+        <b>El Encuentro:\n</b>
+        1. Apaga la luz y date la vuelta. La puerta abierta de la habitación de hospedaje debe quedar
+        a tu espalda; deberías de estar mirando hacia la oscuridad de tu casa. Toma las tres cerillas.\n\n
+
+        2. Tras unos momentos de silencio, empieza a contar en alto, comenzando por el uno y terminando
+        en diez. No mires atrás.\n\n
+
+        3. Cuando llegues a 10, enciende la primera cerilla.\n\n
+
+        <i>Si la primera cerilla enciende a la primera:</i>\n
+            * Sostenla mientras esté encendida y recibe a tus invitados diciendo, “¡Me alegro mucho de verte!
+         ¡Gracias por venir!” Sostén la cerilla hasta que arda tan abajo como puedas soportar.\n\n
+
+        <i>Si la cerilla no se enciende en el primer intento:</i>\n
+            * Tírala e inmediatamente procede con el siguiente paso.\n\n
+
+        4. No mires atrás. Enciende la segunda cerilla.\n\n
+
+        <i>Si la segunda cerilla enciende en el primer intento:</i>\n
+            * Sostenla mientras esté encendida y recibe a tus nuevos invitados diciendo, “¡Me alegro mucho de verte!
+         ¡Gracias por venir!” Sostén la cerilla hasta que arda tan abajo como puedas soportar.\n\n
+
+        <i>Si la segunda cerilla no enciende a la primera:</i>\n
+            * Tírala e inmediatamente procede con el siguiente paso.\n\n
+
+        5. No mires atrás. Enciende la tercera cerilla.\n\n
+
+        <i>Si la tercera cerilla enciende a la primera:</i>\n
+            * Dí en alto, “¡Ya están todos aquí!” y cuenta de nuevo de uno hasta 10. Si lo has hecho
+        todo correctamente, serás capaz de oir y/o sentir un susurro, crujido o un casi silencioso
+        “gracias” detrás de ti.\n
+            * No mires atrás.\n
+            * Cuando tu dispositivo para medir el tiempo alcance la hora de finalización de la reunión,
+        dí en alto “Gracias por venir. Adios.”\n
+            * Ve hasta la fuente de luz más cercana y enciendela. La reunión ha acabado y tus invitados
+        se han marchado. \n\n
+
+        <i>Si la tercera cerilla no se enciende en el primer intento:</i>\n
+            * Tienes invitados no deseados. <b>NO mires atrás. NO te des la vuelta. NO te detengas a
+            cerrar la puerta.</b> Corre todo lo que puedas a la fuente de luz más cercana y <b>enciéndela.</b>\n\n
+
+        <b>Notas Adicionales:\n</b>
+        Este juego es mejor jugarlo en solitario. Puede que tus invitados no se sientan bienvenidos
+        si notan que hay una multitud presente.\n\n
+
+        Una vez la reunión ha comenzado, <b>en NINGÚN MOMENTO te des la vuelta para mirar.</b>\n\n
+
+        <b>Sobre los invitados No Deseados:\n</b>
+        Aunque encender la fuente de luz más cercana acabará con la reunión, <b>NO ASUMAS que tus
+            invitados se han ido.</b> Es recomendable que realices un ritual de limpieza o purificación —
+         además de evitar en la medida de lo posible habitaciones oscuras de tu casa a partir de ahora.
+
+
+    </string>
     <!--__________________________ JUEGO 34____________________________________-->
     <!--__________________________ JUEGO 35____________________________________-->
     <!--__________________________ JUEGO 36____________________________________-->

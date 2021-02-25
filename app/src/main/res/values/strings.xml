@@ -46,6 +46,7 @@
     <string name="Title_30">30. The Staircase Ritual</string>
     <string name="Title_31">31. 100 Ghost Stories</string>
     <string name="Title_32">32. The Candles Game</string>
+    <string name="Title_33">33. The Hosting Game</string>
 
     <!-- TEXTO DE LA PÁGINA INFO-->
 
@@ -80,7 +81,7 @@
         \n\nPlease contact me through this email:
         <b>software@framedmemories.es</b>
 
-        \n\nDeveloped and translated by Pedro Luque \nVer. 1.3\nFramed Memories Software, 2018.\n\n\n
+        \n\nDeveloped and translated by Pedro Luque \nVer. 1.6\nFramed Memories Software, 2018.\n\n\n
 
 
     </string>
@@ -3363,8 +3364,105 @@
 
     </string>
 
-
     <!--__________________________ JUEGO 33____________________________________-->
+
+
+    <string name="Game33Name"><b>The Hosting Game</b></string>
+
+    <string name="Game33Players"><b><u>PLAYERS</u></b>\n* 1 Principal.\n</string>
+
+    <string name="Game33Requi"><b><u>REQUIREMENTS\n</u></b>
+        * A small, dark, empty room in your home (your “hosting room”). Ideally this room should
+        have no windows; if, however, you do not have such a room available to you, a room with
+        windows may be used provided that said windows may be completely covered up. No outside
+        light should be visible from inside the room.\n
+        * A writing implement and paper.\n
+        * A clock, watch, or other analog timekeeping device. Do NOT use a cell phone, digital
+        watch, or other digital device.\n
+        * 3 matches.\n
+    </string>
+
+    <string name="Game33Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>The Invitation:\n</b>
+        1. Begin at night. Keep your timekeeping device and the matches on your person at all times.\n\n
+
+        2. Turn off all possible sources of noise in your home. This includes telephones, televisions,
+        computers, alarms, etc. Be thorough. If your hosting room requires it, draw the curtains or
+        otherwise block the windows so that no light can be seen from inside the room.\n\n
+
+        3. Enter your hosting room and turn on the light. If the room contains no lamps or overhead
+        lights, use a flashlight, lantern, lit candle, or other portable light source. Candles,
+        although correct in terms of atmosphere, may pose a fire hazard, so proceed with caution.\n\n
+
+        4. Place your writing implement and piece of paper in your hosting room.\n\n
+
+        5. Leaving the light source on, exit your hosting room. Go to the furthest point in your
+        home from the room and call, “I’ll be ready soon!” Move from room to room of your home,
+        repeating this phrase in every room, moving closer to your hosting room with each call.\n\n
+
+        6. When you arrive back at your hosting room, use the writing implement to write the
+        following message on the piece of paper: “You are invited! A gathering, hosted by [Your Name].
+        Takes place from [the current time] to [an hour from the current time]. Bring your friends!”\n\n
+
+        7. Place the piece of paper in the middle of the hosting room.\n\n
+
+        8. <u>Stand in the doorway of the hosting room facing into the room and call, “I’m ready! Come on in!”</u>\n\n
+
+        <b>The Gathering:\n</b>
+        1. Turn off the light and turn around. The open door to the hosting room should be at your
+        back; you should be facing the darkness of your home. Take out your three matches.\n\n
+
+        2. After a few moments of silence, begin counting out loud, starting at one and ending at
+        10. Do not look back.\n\n
+
+        3. When you reach the count of 10, strike the first match.\n\n
+
+        <i>If the first match lights on the first strike:</i>\n
+            * Hold it as it burns and greet your guests by saying, “I’m so glad to see you! Thank
+        you for coming!” Hold the match until it burns down as low as you can bear.\n\n
+
+        <i>If the match does not light on the first strike:</i>\n
+            * Drop it and immediately proceed to the next step.\n\n
+
+        4. Do not look back. Strike the second match.\n\n
+
+        <i>If the second match lights on the first strike:</i>\n
+            * Hold it as it burns and greet more of your guests by saying, “I’m so glad to see you!
+        Thank you for coming!” Hold the match until it burns down as low as you can bear.\n\n
+
+        <i>If the second match does not light on the first strike:</i>\n
+            * Drop it and immediately proceed to the next step.\n
+
+        5. Do not look back. Strike the third match.\n\n
+
+        <i>If the third match lights on the first strike:</i>\n
+            * Say, “Now everyone is here!” and count from one to 10 once more. If you have done this
+        correctly, you will be able to hear and/or feel whispering, rustling, or a quiet “thank you”
+        behind you.\n
+            * Do not look back.\n
+            * When your timekeeping device indicates the gathering’s finishing time, say out loud,
+        “Thank you for coming. Goodbye.”\n
+            * Walk to the nearest light source and turn it on. The gathering is over and your
+        guests have gone.\n\n
+
+        <i>If the third match does not light on the first strike:</i>\n
+            * You have uninvited guests. <b>Do NOT look back. Do NOT turn around. Do NOT pause to
+            close the door.</b> Run as quickly as you can to the nearest light source and <b>turn it on.</b>\n\n
+
+        <b>Additional Notes:\n</b>
+        This game is best played alone. Your guests may not feel welcome if they feel there is
+        already a crowd present.\n\n
+
+        Once the gathering has begun, <b>do NOT, at any point, turn around or look behind you.</b>\n\n
+
+        <b>Concerning Uninvited Guests:\n</b>
+        Although turning on the nearest light source will end the gathering, <b>do NOT assume that
+        your guests have gone.</b> It is recommended that you perform a purifying or cleansing ritual —
+        as well as that you avoid dark rooms in your home from then on.
+
+
+    </string>
+
     <!--__________________________ JUEGO 34____________________________________-->
     <!--__________________________ JUEGO 35____________________________________-->
     <!--__________________________ JUEGO 36____________________________________-->
