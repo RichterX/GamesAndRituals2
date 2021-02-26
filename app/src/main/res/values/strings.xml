@@ -47,6 +47,8 @@
     <string name="Title_31">31. 100 Ghost Stories</string>
     <string name="Title_32">32. The Candles Game</string>
     <string name="Title_33">33. The Hosting Game</string>
+    <string name="Title_34">34. The Mirror Box</string>
+    <string name="Title_35">35. Elevator to Another World</string>
 
     <!-- TEXTO DE LA PÁGINA INFO-->
 
@@ -3464,7 +3466,206 @@
     </string>
 
     <!--__________________________ JUEGO 34____________________________________-->
+
+    <string name="Game34Name"><b>The Mirror Box</b></string>
+
+    <string name="Game34Players"><b><u>PLAYERS</u></b>\n* 1 Principal (hereafter referred to as
+        “witness”).\n* 1 partner.\n\n<u>Note:</u> There should be complete trust between the witness
+        and the partner; additionally, both must be strong willed and with great fortitude. Do
+        NOT attempt if these conditions are not met by BOTH participants.\n</string>
+
+    <string name="Game34Requi"><b><u>REQUIREMENTS\n</u></b>
+        * 6 square metal sheets. The sheets should be slightly taller than the witness, but should
+        not exceed height of the witness with raised hands; additionally, one sheet should be
+        slightly taller than the other five. For maximum effect, choose sheets made of graphite
+        or lead alloy.\n
+        * 6 mirrors. One should be slightly larger than the other five. All should be as flawless
+        as possible.\n
+        * 1 light source. This source should be capable of emitting pure white or bright yellow
+        light in all directions and should not require access to an electrical outlet to function.
+        Candles are not recommend, re: carbon dioxide and possibly monoxide poisoning.\n
+        * 2 to 3 synchronized alarm clocks.\n
+        * 2 ladders.\n
+        * Blankets.\n
+        * Water.\n
+        * A first aid kit.\n\n
+    </string>
+
+    <string name="Game34Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>Constructing the Box:\n</b>
+        1. The method of construction is up to the witness. The only requirements are:\n\n
+
+            * The metal sheets must form four sides, a top, and a bottom.\n\n
+
+            * The largest metal sheet must form the top.\n\n
+
+            * The mirrors should be mounted on the insides of the box, one per side, with the
+        largest one mounted to the top.\n\n
+
+            * The top should be easily removable.\n\n
+
+            * It should be possible to place one ladder outside the box and the second inside,
+        such that the witness may use them to enter and exit the box. The ladders, particular the
+        interior one, should be easily removable.\n\n
+
+            * No outside light should be visible from inside the box.\n\n
+
+    <b>Using the Box:\n</b>
+        1. For maximum effect, begin at night during a new moon. Position the ladders as previously
+        directed.\n\n
+
+        2. Set the alarm clocks for ten minutes AFTER the time at which the witness plans to enter
+        the box.\n\n
+
+        3. Using the ladders, the witness should enter the box. Once inside, the partner should
+        hand the witness the turned-off light source and at least one alarm clock. The partner
+        should keep one alarm clock; he or she should also confirm that the blankets, water, and
+        first aid kit are easily accessible, should the need for them arise.\n\n
+
+        4. The partner should ask the witness whether they are all right to proceed. Once
+        confirmation has been received, your partner should remove the interior ladder and seal the
+        top of the box. <b>Do NOT proceed</b> if the witness does not give confirmation to the partner.\n\n
+
+        5. Once the box has been sealed, the witness may turn on the light source.\n\n
+
+        6. Wait. Listen. Do not speak.\n\n
+
+        7. Should the witness at any point wish to leave the box, he or she should signal to the
+        partner either verbally or via tapping the side of the box. Once the partner has received
+        the signal, he or she should open the top of the box and lower the interior ladder down to
+        the witness.\n\n
+
+        8. <b>Partners:</b> If the witness has not emerged by the time the alarm clocks go off, <b>OPEN THE
+            BOX AND REMOVE THE WITNESS</b>. The witness may protest. Do not heed them.\n\n
+
+        9. If the witness has sustained any injuries while in the box, call for medical help
+        immediately.\n\n
+
+    <b>Additional Notes:\n</b>
+        * It is suggested that the witness wear simple, uncomplicated clothing while playing this
+        game. Do not wear any jewelry, and do not bring any food, weapons, religious materials, or
+        other objects into the box.\n\n
+
+        * Do not open the box from anywhere other than the top. Do not remove the sides or the
+        bottom. Do not break the box.\n\n
+
+        * The witness must NOT, under ANY circumstances, remain in the box after ten minutes. The
+        witness may plead to remain in the box, insisting that opening the box will be more
+        dangerous than remaining inside. Do NOT listen. Do NOT trust anything the witness may say
+        to convince you otherwise. Do NOT allow the witness to stay in the box.\n\n
+
+    <b>Should You Ever Meet a Witness:\n</b>
+        * Do not believe anything they say about their experience inside the box. Be especially
+        wary if they claim nothing happened, or if they recommend you try it yourself. Do not ask
+        them for the time, or where the antumbra meets. There is no light for the curious among you
+        there.\n\n
+
+    </string>
+
+
     <!--__________________________ JUEGO 35____________________________________-->
+
+
+    <string name="Game35Name"><b>Elevator to Another World</b></string>
+
+    <string name="Game35Players"><b><u>PARTICIPANTS</u></b>\n* One Principal\n</string>
+
+    <string name="Game35Requi"><b><u>REQUIREMENTS\n</u></b>
+        * 1 building, at least 10 stories high, with an elevator. All three of these conditions must
+        be met in order for the ritual to proceed.\n\n
+
+    </string>
+
+    <string name="Game35Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>VENTURING OUT:\n</b>
+        1. Enter your chosen building and get into the elevator on the first floor alone. Do not
+        proceed if anyone else is in the elevator with you.\n\n
+
+        2. Press the button for the fourth floor.\n\n
+
+        3. <b>When the elevator reaches the fourth floor</b>, do not get out. Instead, remain in
+        the elevator and <b>press the button for the second floor.</b>\n\n
+
+        4. <b>When you reach the second floor,</b> remain in the elevator and <b>press the button for
+            the sixth floor.</b>\n\n
+
+        5. <b>When you reach the sixth floor,</b> remain in the elevator and <b>press the button for
+            the second floor.</b>\n\n
+
+        6. <b>When you reach the second floor,</b> remain in the elevator and <b>press the button for
+            the tenth floor.</b>\n\n
+
+        7. <b>When you reach the tenth floor,</b> remain in the elevator and <b>press the button for
+            the fifth floor.</b>\n\n
+
+        8. <b>When you reach the fifth floor,</b> a young woman may enter the elevator. Do not look
+        at her; do not speak to her. She is not what she seems.\n\n
+
+        9. Press the button for the first floor. <b>If the elevator begins ascending to the tenth
+            floor</b> instead of descending to the first, you may proceed. <b>If the elevator
+            descends to the first floor,</b> exit as soon as the doors open. Do not look back. Do
+        not speak.\n\n
+
+        10. If you reach the tenth floor, you may either choose to get off the elevator or to stay
+        on it. If you choose to get off, and if the woman entered the elevator on the fifth floor,
+        she will ask you, “Where are you going?” Do NOT answer her. Do NOT look at her.\n\n
+
+        11. You will know whether you have arrived at the Otherworld by one indication, and one
+        indication only: The only person present in it is you.\n\n
+
+    <b>THE RETURNING TRIP:\n</b>
+        <i>If you choose to stay on the elevator at the tenth floor:</i>\n\n
+
+        1. Press the button for the first floor. If it doesn’t work, keep pressing it until it
+        finally does.\n\n
+
+        2. When the elevator reaches the first floor, exit as soon as the doors open. Do not look
+        back. Do not speak.\n\n
+
+        <i>If you choose to exit the elevator at the tenth floor:</i>\n\n
+
+        1. You must use the same elevator to return as the one in which you arrived.\n\n
+
+        2. When you enter the elevator, press the buttons in the same order you did in steps 2
+        through 8 of Venturing Out. You should finish at the fifth floor.\n\n
+
+        3. When you reach the fifth floor, press the button for the first floor. The elevator will
+        again begin to ascend to the tenth floor. Press any other floor’s button to cancel the
+        ascension. You MUST press the button you use to cancel the ascension BEFORE you reach the
+        tenth floor.\n\n
+
+        4. After you reach the first floor, check your surroundings carefully. If anything seems
+        off—even the smallest detail — <b>do NOT exit the elevator.</b> If you detect something wrong, repeat
+        step 2 until your surroundings look as they should. Once you are confident you have returned
+        to your own world, you may safely exit the elevator.\n\n
+
+    <b>Additional Notes:\n</b>
+        * Should you reach the Otherworld, the floor onto which you will emerge will look almost
+        identical to the one from your own world, save for two things: All the lights will be off,
+        and the only thing you will be able to see from the windows is a red cross in the distance.\n\n
+
+        * Some say that electronic devices—mobile phones, cameras, MP3 players, etc.—don’t work in
+        the Otherworld; others say they do.\n\n
+
+        * Getting back to your own world may be more difficult than it seems: You may become
+        disoriented and forget which elevator in which you arrived; the elevator may seem to get
+        further and further away from you as you walk towards; and so on. Be vigilant, and keep
+        your wits about you.\n\n
+
+        * If at any point during the ritual you faint, pass out, or otherwise lose consciousness,
+        you will likely wake up in your own home. However, be sure to carefully examine your
+        surroundings upon waking—the “home” to which you have been returned may not be the one you
+        left when you first set out to attempt this ritual.\n\n
+
+    <b>Concerning the Woman on the Fifth Floor:\n\n</b>
+
+        <b>Do NOT</b> speak to her.\n\n
+
+        <b>Do NOT</b> look at her.\n\n
+
+        if you do, she may decide to keep you for her own.\n\n
+
+    </string>
     <!--__________________________ JUEGO 36____________________________________-->
     <!--__________________________ JUEGO 37____________________________________-->
     <!--__________________________ JUEGO 38____________________________________-->

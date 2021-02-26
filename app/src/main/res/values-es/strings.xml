@@ -45,6 +45,8 @@
     <string name="Title_31">31. 100 historias de Fantasmas</string>
     <string name="Title_32">32. El juego de las velas</string>
     <string name="Title_33">33. El juego del Hospedaje</string>
+    <string name="Title_34">34. La Caja de Espejos</string>
+    <string name="Title_35">35. Ascensor hacia otro Mundo</string>
 
 
     <!-- TEXTO DE LA PÁGINA INFO-->
@@ -3602,8 +3604,214 @@
 
 
     </string>
+
+
     <!--__________________________ JUEGO 34____________________________________-->
+
+
+    <string name="Game34Name"><b>La Caja de Espejos</b></string>
+
+    <string name="Game34Players"><b><u>JUGADORES</u></b>\n* 1 Principal (de aquí en adelante, el
+        “testigo”).\n* 1 compañero.\n\n<u>Nota:</u> Debe existir una total confianza entre el testigo
+        y el compañero; además, ambos deben poseer una fuerte voluntad así como una tremenda
+        entereza. NI SE TE OCURRA intentarlo si AMBOS participantes no cumplen estas condiciones.\n</string>
+
+    <string name="Game34Requi"><b><u>REQUISITOS\n</u></b>
+        * 6 hojas de metal cuadradas. Las hojas deben ser ligeramente más altas que el testigo, pero
+        no deben exceder la altura del testigo con las manos levantadas; además, una hoja debe ser
+        ligeramente más alta que las otras cinco. Para lograr el máximo efecto, escoge hojas fabricadas
+        en grafito o aleación de plomo.\n
+        * 6 espejos. Uno debe ser ligeramente más alto que los otros cinco. Todos deben ser lo más
+        perfectos posible.\n
+        * 1 fuente de luz. Dicha fuente debe ser capaz de emitir luz de color blanco puro o amarillo
+        muy brillante en todas direcciones y no debe requerir acceso a una toma de corriente para
+        funcionar. No se recomienda velas debido a la posible intoxicación por dióxido de carbono
+        y posiblemente por monóxido.\n
+        * De 2 a 3 relojes con alarma sincronizados.\n
+        * 2 escaleras.\n
+        * Mantas.\n
+        * Agua.\n
+        * Un botiquín de primeros auxilios.\n\n
+    </string>
+
+    <string name="Game34Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>Construyendo la Caja:\n</b>
+        1. El método de construcción depende del testigo. Los unicos requisitos que debe cumplir son
+        los siguientes:\n\n
+
+            * Las hojas de metal deben formar cuatro lados, un techo y un suelo.\n\n
+
+            * La hoja de metal más larga debe formar el techo.\n\n
+
+            * Los espejos deben montarse en los interiores de la caja, uno por lado, con el más largo
+        montado en el techo.\n\n
+
+            * El techo debe ser fácilmente desmontable.\n\n
+
+            * Debería ser posible colocar una escalera fuera de la caja y la otra en el interior, de
+        manera que el testigo pueda usarla para entrar y salir de la caja. Las escaleras, en particular
+        la del interior, debería ser fácilmente retirable.\n\n
+
+            * No debe ser visible ninguna luz desde el interior de la caja.\n\n
+
+    <b>Usando la caja:\n</b>
+        1. Para un efecto óptimo, comienza de noche, durante una luna nueva. Posiciona las escaleras
+        como se ha indicado anteriormente.\n\n
+
+        2. Programa las alarmas para dentro de diez minutos DESPUES de la hora a la que el testigo
+        planea entrar en la caja.\n\n
+
+        3. Usando las escaleras, el testigo debe entrar en la caja. Una vez dentro, el compañero
+        debe entregar al testigo la fuente de luz apagada y al menos un reloj de alarma. El compañero
+        debe quedarse al menos con un reloj de alarma; el o ella deben asegurarse de que las mantas, el agua
+        y el botiquín de primeros auxilios son fácilmente accesibles, en caso de que surja la necesidad
+        de usarlos.\n\n
+
+        4. El compañero debe preguntar al testigo si se encuentra bien para proceder. Una vez reciba
+        confirmación de ello, el compañero debe retirar la escalera del interior y sellar la parte
+        superior de la caja. <b>NO proceder</b> si el testigo no da confirmación al compañero.\n\n
+
+        5. Una vez la caja ha sido sellada, el testigo puede encender la fuente de luz.\n\n
+
+        6. Espera. Escucha. No hables.\n\n
+
+        7. Si en algún momento el testigo desea abandonar la caja, el o ella deben señalarselo al
+        compañero de manera verbal o golpeando un lado de la caja. Una vez el compañero ha recibido
+        la señal, el o ella deben abrir la parte superior de la caja y colocar la escalera en el
+        interior al testigo.\n\n
+
+        8. <b>Compañeros:</b> Si el testigo no emerge en el momento en el que la alarma se apague,
+        <b>ABRE LA CAJA Y SACA AL TESTIGO</b>. El testigo puede que proteste. No le hagas caso.\n\n
+
+        9. Si el testigo ha sufrido alguna lesión mientras se encontraba en la caja, pide ayuda médica
+        inmediatamente.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        * Sugerimos que el testigo lleve puesta ropa simple y poco complicada de retirar mientras
+        juega. No debe llevar joyería, y por supuesto no traer alimentos, armas, materiales religiosos
+        u otros objetos adentro de la caja.\n\n
+
+        * No abras la caja por otro lado que no sea la parte superior. No retires los lados o el
+        suelo. No rompas la caja.\n\n
+
+        * El testigo NO debe, bajo NINGUNA circunstancia, permanecer en la caja pasados los diez
+        minutos. El testigo puede implorar permanecer en la caja, insistiendo en que abrir la caja
+        es más peligroso que permanecer dentro. NO lo escuches. NO CREAS nada de lo que el testigo
+        pueda decir para convencerte de otra cosa. NO PERMITAS que el testigo permanezca en la caja.\n\n
+
+    <b>Si alguna vez conoces a un Testigo:\n</b>
+        * No creas nada de lo que te diga acerca de su experiencia dentro de la caja. Sé especialmente
+        cauteloso si alega que no ocurrió nada, o si te recomienda que lo pruebes por ti mismo. No
+        preguntes acerca de la hora, ni por donde se encuentra la antumbra. Allí no existe luz para
+        los curiosos.\n\n
+
+    </string>
+
+
     <!--__________________________ JUEGO 35____________________________________-->
+
+
+    <string name="Game35Name"><b>Ascensor hacia Otro Mundo</b></string>
+
+    <string name="Game35Players"><b><u>PARTICIPANTES</u></b>\n* Un Principal\n</string>
+
+    <string name="Game35Requi"><b><u>REQUISITOS\n</u></b>
+        * 1 edificio, al menos de 10 pisos de altura, con ascensor. Estas tres condiciones deben
+        cumplirse para poder proceder con el ritual.\n\n
+
+    </string>
+
+    <string name="Game35Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>AVENTURÁNDOSE:\n</b>
+        1. Entra en el edificio elegido y ve hacia el ascensor en la primera planta a solas. No
+        procedas si hay alguna otra persona contigo en el ascensor.\n\n
+
+        2. Presiona el botón de la cuarta planta.\n\n
+
+        3. <b>Cuando el ascensor alcance la cuarta planta</b>, no salgas. En vez de eso, permanece en
+        el ascensor y <b> presiona el botón de la segunda planta.</b>\n\n
+
+        4. <b>Cuando llegues a la segunda planta,</b> permanece en el ascensor y <b>presiona el botón
+            de la sexta planta.</b>\n\n
+
+        5. <b>Cuando llegues a la sexta planta,</b> permanece en el ascensor y <b>presiona el botón
+            de la segunda planta.</b>\n\n
+
+        6. <b>Cuando llegues a la segunda planta,</b> permanece en el ascensor y <b>presiona el botón
+            de la décima planta.</b>\n\n
+
+        7. <b>Cuando llegues a la décima planta,</b> permanece en el ascensor y <b>presiona el botón
+            de la quinta planta.</b>\n\n
+
+        8. <b>Cuando llegues a la quinta planta,</b> puede que una mujer joven entre al ascensor. No
+        la mires; no hables con ella. Ella no es lo que parece.\n\n
+
+        9. Presiona el botón de la primera planta. <b>Si el ascensor comienza a ascender hasta la
+            décima planta</b> en vez de descender hasta la primera, puedes proceder. <b>Si el ascensor
+            desciende a la primera planta,</b> sal lo antes posible una vez se abran las puertas. No
+        mires atrás. No hables.\n\n
+
+        10. Si alcanzas la décima planta, puedes escoger entre permanecer en el ascensor o salir
+        de él. Si escoges salir, y si la mujer entró en el ascensor en el quinto piso, te preguntará
+        , “¿Dónde vas?” NO le respondas. NO la mires.\n\n
+
+        11. Sabrás que has llegado al Otro Mundo por una indicación y solamente una indicación: la
+        única persona presente en él eres tú.\n\n
+
+    <b>EL VIAJE DE VUELTA:\n</b>
+        <i>Si escoges permanecer en el ascensor en la décima planta:</i>\n\n
+
+        1. Presiona el botón de la primera planta. Si no funciona, sigue presionandolo hasta que
+        finalmente lo haga.\n\n
+
+        2. Cuando el elevador alcance la primera planta, sal lo antes posible en cuanto las puertas
+        se abran. No mires atrás. No hables.\n\n
+
+        <i>Si escoges salir del ascensor en la décima planta:</i>\n\n
+
+        1. Debes usar el mismo ascensor para volver que en el que llegaste.\n\n
+
+        2. Cuando entres al ascensor, presiona los mismos botones que pulsaste en los pasos del 2
+        al 8 de Aventurándose, exactamente en el mismo orden Deberías acabar en la quinta planta.\n\n
+
+        3. Cuando llegues a la quinta planta, presiona el botón hacia la primera planta. El ascensor
+        de nuevo comenzará a ascender a la décima planta. Presiona el botón de cualquier otra planta
+        para cancelar el ascenso. DEBES presionar el botón para cancelar la ascensión ANTES de
+        alcanzar la décima planta.\n\n
+
+        4. Cuando llegues a la primera planta, mira los alrededores detenidamente. Si ves algo que
+        no encaja, incluso el más mínimo detalle — <b>NO SALGAS del ascensor.</b> Ante la duda,
+        repite el paso 2 hasta que tus alrededores sean como deberían ser. Una vez estes segur@ de
+        que has vuelto a tu mundo, puedes salir del ascensor de forma segura.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        * Una vez llegues al Otro Mundo, el piso que encontrarás lucirá casi idéntico al de tu
+        propio mundo, salvo por dos cosas: todas las luces del piso estarán apagadas, y lo único
+        que podrás ver desde las ventanas, es una cruz roja en la distancia.\n\n
+
+        * Algunas personas dicen que los dispositivos electrónicos tales como teléfonos móviles,
+        cámaras, reproductores de mp3, etc… no funcionan en el Otro Mundo; otros dicen que sí.\n\n
+
+        * Volver a tu propio mundo puede ser más difícil de lo que parece: Puedes sentirte desorientado
+        y olvidar el ascensor por el cual llegaste; el ascensor parece que se aleje más y más cuanto
+        más intentas acercarte a él; y cosas así. Mantente atento y alerta.\n\n
+
+        * Si en algún punto durante el ritual te desmayas o pierdes el conocimiento de cualquier
+        otra manera, es probable que despiertes en tu propia casa. No obstante, asegúrate de
+        examinar todo a tu alrededor tras despertar - el “hogar” al cual pareces haber regresado
+        puede no ser el mismo que dejaste antes de intentar este ritual.\n\n
+
+    <b>Acerca de la Mujer de la Quinta Planta:\n\n</b>
+
+        <b>NO HABLES</b> con ella.\n\n
+
+        <b>NO MIRES</b> hacia ella.\n\n
+
+        Si lo haces, puede que decida que ahora eres de su propiedad.\n\n
+
+    </string>
+
+
     <!--__________________________ JUEGO 36____________________________________-->
     <!--__________________________ JUEGO 37____________________________________-->
     <!--__________________________ JUEGO 38____________________________________-->

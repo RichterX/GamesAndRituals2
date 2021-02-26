@@ -221,9 +221,22 @@ public class Game1 extends AppCompatActivity {
                     requirements.setText(R.string.Game33Requi);
                     instructions.setText(R.string.Game33Inst);
                     break;
+
+            case 33: name.setText(R.string.Game34Name);
+                    player.setText(R.string.Game34Players);
+                    requirements.setText(R.string.Game34Requi);
+                    instructions.setText(R.string.Game34Inst);
+                    break;
+
+            case 34: name.setText(R.string.Game35Name);
+                    player.setText(R.string.Game35Players);
+                    requirements.setText(R.string.Game35Requi);
+                    instructions.setText(R.string.Game35Inst);
+                    break;
         }
         //instructions.setText(R.string.note1);
 
 
     }
 }
+//TODO: CAMBIAR EL NÚMERO DE VERSIÓN TANTO EN GRADLE COMO EN LA INFO SCREEN!!

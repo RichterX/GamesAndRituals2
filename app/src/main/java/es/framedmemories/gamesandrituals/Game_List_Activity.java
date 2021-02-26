@@ -110,6 +110,10 @@ public class Game_List_Activity extends AppCompatActivity {
 
         category.add(new Category ("33", getString(R.string.Title_33), getString(R.string.Type_Game), res ));
 
+        category.add(new Category ("34", getString(R.string.Title_34), getString(R.string.Type_Game), res ));
+
+        category.add(new Category ("35", getString(R.string.Title_35), getString(R.string.Type_Ritual), res2 ));
+
 
 
         //////////    LO QUE OCURRE AL HACER TOUCH EN UN ELEMENTO DE LA LISTVIEW    ////////////
