@@ -1,5 +1,6 @@
 package es.framedmemories.gamesandrituals;
 
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
@@ -12,6 +13,9 @@ public class Game1 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_game1);
+
+        // ESTE CÓDIGO HACE QUE SOLAMENTE SE EJECUTE EN HORIZONTAL
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         name = findViewById(R.id.tv_title);
         player = findViewById(R.id.tv_players);
