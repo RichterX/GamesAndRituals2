@@ -2,8 +2,9 @@ package es.framedmemories.gamesandrituals;
 
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class Game1 extends AppCompatActivity {
 
@@ -237,10 +238,29 @@ public class Game1 extends AppCompatActivity {
                     requirements.setText(R.string.Game35Requi);
                     instructions.setText(R.string.Game35Inst);
                     break;
+
+            case 35: name.setText(R.string.Game36Name);
+                    player.setText(R.string.Game36Players);
+                    requirements.setText(R.string.Game36Requi);
+                    instructions.setText(R.string.Game36Inst);
+                    break;
+
+            case 36: name.setText(R.string.Game37Name);
+                    player.setText(R.string.Game37Players);
+                    requirements.setText(R.string.Game37Requi);
+                    instructions.setText(R.string.Game37Inst);
+                    break;
+
+            case 37: name.setText(R.string.Game38Name);
+                    player.setText(R.string.Game38Players);
+                    requirements.setText(R.string.Game38Requi);
+                    instructions.setText(R.string.Game38Inst);
+                    break;
         }
         //instructions.setText(R.string.note1);
 
 
     }
 }
-//TODO: CAMBIAR EL NÚMERO DE VERSIÓN TANTO EN GRADLE COMO EN LA INFO SCREEN!!
+//TODO: CAMBIAR EL NÚMERO DE VERSIÓN (VERSIONCODE: ) Y EL VERSIONNAME TANTO EN GRADLE COMO EN LA INFO SCREEN!!
+//OJO!! A PARTIR DE AGOSTO NIVEL DE API 30 Y GENERAR APP BUNDLE Y NO APK

@@ -47,6 +47,9 @@
     <string name="Title_33">33. El juego del Hospedaje</string>
     <string name="Title_34">34. La Caja de Espejos</string>
     <string name="Title_35">35. Ascensor hacia otro Mundo</string>
+    <string name="Title_36">36. El Juego del Poeta Muerto</string>
+    <string name="Title_37">37. El teléfono de la caja de Zapatos</string>
+    <string name="Title_38">38. El Escondite para un jugador</string>
 
 
     <!-- TEXTO DE LA PÁGINA INFO-->
@@ -86,7 +89,7 @@
         \n\nPor favor, contacta conmigo a
         través de este email: <b>software@framedmemories.es</b>
 
-        \n\nDesarrollado y traducido por Pedro Luque\nVer 1.6\nFramed Memories Software, 2018.\n\n\n
+        \n\nDesarrollado y traducido por Pedro Luque\nVer 1.7\nFramed Memories Software, 2018.\n\n\n
 
     </string>
 
@@ -3192,57 +3195,57 @@
     Planta tus pies. No te muevas.\n\n
 
     3. Tras haber pasado una hora, sube al primer escalón y enciende el ventilador. Mira hacia la
-    parte superior de las escaleras. Planta tus pies. No te muevas. No te gires ni mires tras de tí.\n\n
+    parte superior de las escaleras. Planta tus pies. No te muevas. No te gires ni mires tras de ti.\n\n
 
     4. Después de que haya pasado la segunda hora, sube al segundo escalón. Bébete el baso de agua
     completamente. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No
-    te gires ni mires tras de tí.\n\n
+    te gires ni mires tras de ti.\n\n
 
     5. Tras pasar la tercera hora, sube al tercer escalón, asegurándote de tener ambos pies dentro
     y sobre la tierra que hay esparcida. Mira hacia la parte superior de las escaleras. Planta tus
-    pies. No te muevas. No te gires ni mires tras de tí.\n\n
+    pies. No te muevas. No te gires ni mires tras de ti.\n\n
 
     6. Después de que haya pasado la cuarta hora, sube al cuarto escalón. Toma el encendedor o las
     cerillas y enciende la vela. Asegúrate de que no se apaga. Mira hacia la parte superior de las
-    escaleras. Planta tus pies. No te muevas. No te gires ni mires tras de tí.\n\n
+    escaleras. Planta tus pies. No te muevas. No te gires ni mires tras de ti.\n\n
 
     7. Tras pasar la quinta hora, sube al quinto escalón. Usa la vela del cuarto escalón para quemar
     la vieja foto de tu hogar. Una vez la fotografía sea irreconocible o quemada hasta las cenizas,
     apaga la vela. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No
-    te gires ni mires tras de tí. <b>NOTA:</b> Puede ser últil mantener la vela durante el paso 6 y
+    te gires ni mires tras de ti. <b>NOTA:</b> Puede ser últil mantener la vela durante el paso 6 y
     llevarla contigo hasta el paso 7. <b>En NINGÚN MOMENTO debes volverte o mirar hacia atrás.</b>\n\n
 
-    8. Despues de que haya pasado la sexta hora, sube al sexto escalón. Coge la fotografía actual de
+    8. Después de que haya pasado la sexta hora, sube al sexto escalón. Coge la fotografía actual de
     tu casa y rasgala en tantos trozos como indica la tirada de dados, pero no permitas que se rompa
     en pezados. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No
-    te gires ni mires tras de tí.\n\n
+    te gires ni mires tras de ti.\n\n
 
     9. Después de que haya pasado la séptima hora, sube al séptimo escalón. Adelanta el reloj tantas
     horas como indique la tirada de dados del paso anterior. NO ATRASES el reloj.Mira hacia la parte
-    superior de las escaleras. Planta tus pies. No te muevas. No te gires ni mires tras de tí.\n\n
+    superior de las escaleras. Planta tus pies. No te muevas. No te gires ni mires tras de ti.\n\n
 
     10.	Tras pasar la octava hora, sube al octavo escalón. Toma un bocado de la ofrenda de comida
     y trágatelo. NO PERMITAS que tu cara muestre signos de angustia o asco. Muestra tanto placer o
     gozo como puedas. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas.
-    No te gires ni mires tras de tí.\n\n
+    No te gires ni mires tras de ti.\n\n
 
     11.	Después de que la novena hora haya acabado, sube al noveno escalón. Toma el espejo y mira
     en el, centrándote en tu propia cara. NO MIRES a ningún otro punto más que a tu cara, no importa
     lo que intenten captar tus ojos. Mira hacia la parte superior de las escaleras. Planta tus pies.
-    No te muevas. No te gires ni mires tras de tí.\n\n
+    No te muevas. No te gires ni mires tras de ti.\n\n
 
     12.	Tras pasar la décima hora, rompe el espejo y sube al décimo escalón. Usa tu objeto afilado
     para extraer una gota fresca de tu sangre. Permite a la gota caer en la pila de polvo y ceniza.
     Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No te gires ni
-    mires tras de tí.\n\n
+    mires tras de ti.\n\n
 
     13.	Después de que la undécima hora haya pasado, sube al undécimo escalón. Mata al insecto.
     Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas. No te gires ni
-    mires tras de tí.\n\n
+    mires tras de ti.\n\n
 
     14.	Tras pasar la duodécima hora, sube al duodécimo escalón. Toma el ítem extraído de tu cuerpo
     y trágatelo entero. Mira hacia la parte superior de las escaleras. Planta tus pies. No te muevas.
-    No te gires ni mires tras de tí.\n\n
+    No te gires ni mires tras de ti.\n\n
 
     15.	Después de que la decimotercera hora haya pasado, sube al último escalón. Mantén el objeto
     afilado cerca.\n\n
@@ -3813,8 +3816,320 @@
 
 
     <!--__________________________ JUEGO 36____________________________________-->
+
+    <string name="Game36Name"><b>El Juego del Poeta Muerto</b></string>
+
+    <string name="Game36Players"><b><u>JUGADORES</u></b>\n* 1 Principal\n</string>
+
+    <string name="Game36Requi"><b><u>REQUISITOS\n</u></b>
+        * 1 mesa\n
+        * 2 sillas\n
+        * 1 vela\n
+        * 1 encendedor o un librillo de cerillas\n
+        * 2 vasos de vino\n
+        * 1 botella de vino\n
+        * 1 habitación vacía\n\n
+    </string>
+
+    <string name="Game36Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>Preludio:\n</b>
+        1. Comienza de noche. Corre las cortinas de la habitación vacía, asegurándote de que no entra
+        ninguna luz desde el exterior.\n\n
+
+        2. Coloca la mesa en el centro de la habitación y coloca las sillas, una a cada lado opuesto
+        de la mesa.\n\n
+
+        3. Coloca una copa de vino enfrente de cada silla. Coloca la vela en el centro de la mesa, a
+        la vez que la botella de vino (una al lado de la otra).\n\n
+
+        4. Enciende la vela con un mechero o las cerillas.\n\n
+
+        5. Apaga las luces.\n\n
+
+        6. Cierra (y bloquea) la puerta.\n\n
+
+    <b>El Evento Principal:\n</b>
+        1. Coge la botella de vino y sirve una medida entera en cada copa.\n\n
+
+        2. Cambia la botella, sientate en una de las sillas, y toma tu copa. Álzala y haz un brindis
+        silencioso; luego toma un pequeño sorbo.\n\n
+
+        3. <b>Si lo has hecho bien,</b> habrá una presencia en la silla opuesta a ti una vez bajes
+        la copa. Permanece en calma; no te sobresaltes, asustes, o provoques a la presencia de ninguna
+        manera. <b>Si la otra silla permanece vacía</b>, apaga la vela, enciende las luces, y abandona
+        la habitación. Cierra la puerta con llave. No vuelvas a entrar a la habitación hasta la mañana.\n\n
+
+        4. Pronuncia en voz alta las palabras, “Deseo comenzar una partida.” Si la presencia está
+        de acuerdo, debes escoger ser el Jugador A o el Jugador B. Una vez hayas escogido tu letra,
+        pronuncia en voz alta, “Te despojo de la letra [Tu Letra].”\n\n
+
+        5. Ahora, haz una pregunta. Tras haber recibido tu respuesta, toma un sorbo de vino. Nada mas
+        acabar tu sorbo, te convertiras en el Jugador B (o el A, dependiendo de cual hayas escogido).\n\n
+
+        6. Escucha antentamente. Si el jugador A te hace una pregunta, respondela. Entonces toma un
+        sorbo de tu copa de vino.\n\n
+
+        7. Continúa de la misma forma, alternando entre ser el Jugador A y el B, hasta que una o
+        ambas copas estén vacías. <b>NO TOQUES otra copa que no sea la tuya.</b>\n\n
+
+
+    <b>Final:\n</b>
+        1. Quien sea el Jugador A cuando el vino se acaba gana automáticamente el juego.\n
+    • <b>Si eres el Jugador A</b>, la presencia se irá; permanece sentado hasta que haya desaparecido
+        completamente. Apaga la vela, enciende las luces y abandona la habitación.\n
+    • <b>Si eres el Jugador B</b>, no apagues la vela; eso debe hacerlo el jugador A. Una vez la
+        vela haya sido apagada, enciende las luces. Desde ahora, ten cuidado con los espacios oscuros.
+        Si ves algo por el rabillo del ojo, gírate para enfrentarlo. Si localizas algo detrás de ti
+        por un espejo, date la vuleta. <b>JAMÁS, bajo NINGUNA circunstancia, pronuncies estas
+            palabras:</b>
+            “Esta alma es tuya. Puedes hacer cualquier negocio con ella.”\n\n
+
+    <b>Notas Adicionales:\n</b>
+    Este juego DEBE ser jugado en una habitación en la que un poeta haya muerto. El fallecido o
+        fallecida no tiene por qué haber sido literalmente un poeta; algunos dicen tener “el alma de un poeta”,
+        con esto es suficiente. Cuando prepares el espacio, una de las sillas idealmente debe situarse
+        donde fue encontrada la cabeza del poeta; la otra donde se encontraban los pies.\n\n
+
+    DEBES realizar este ritual solo o sola. Ninguna otra persona, animal o criatura viviente deben
+        estar presentes.\n\n
+
+    Mantén la habitación libre de cualquier tecnología como smartphones, portátiles.\n\n
+
+    Debes responder cada cuestión de forma veraz; no obstante, no tienes que responder a la pregunta
+        libremente o completamente. Guarda tus secretos, darlos a conocer podría resultar en desastre.\n\n
+
+    <b>Sobre protocolos de seguridad:\n</b>
+    No existen protocolos de seguridad.
+
+    </string>
+
     <!--__________________________ JUEGO 37____________________________________-->
+
+    <string name="Game37Name"><b>El Teléfono de la caja de Zapatos</b></string>
+
+    <string name="Game37Players"><b><u>JUGADORES</u></b>\n* 1 Principal\n</string>
+
+    <string name="Game37Requi"><b><u>REQUISITOS\n</u></b>
+        * 1 “Una cabina telefónica.” Un armario es una buena elección.\n
+        * 1 vaso de papel\n
+        * 1 caja de zapatos\n
+        * 1 trozo de hilo, de dos a cuatro pies de largo\n
+        * 1 aguja\n
+        * Unas tijeras\n
+        * 1 objeto de poder. Este objeto debe tener alguna conexión con la persona con la que deseas
+        hablar.\n
+        * 1 hoja de papel\n
+        * 1 bolígrafo. No intentes sustituírlo por un lápiz..\n
+        * 1 superficie plana sobre la cual escribir\n\n
+
+    </string>
+
+    <string name="Game37Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>La Llamada Saliente:\n</b>
+        1. Comienza en el momento en el que te vayas a acostar. La hora en sí misma es intrascendente;
+         lo que importa es que tu día haya acabado.\n\n
+
+        2. Mantén las luces encendidas, pero apaga cualquier otro dispositivo electrónico: Teléfonos,
+        televisores, ordenadores, etc…\n\n
+
+        3. Espera. Sabrás cuando ha llegado el momento para comenzar en serio.\n\n
+
+        4. Una vez llegues al “momento correcto,” coge tu hoja de papel y tu bolígrafo y comienza a
+        escribir una carta con destinatario la persona con la que deseas hablar. Explica a la persona
+        por qué debería llamarte. No taches nada mientras escribes, y no corrijas ninguna falta o
+        error. No pienses demasiado sobre lo que estás escribiendo; simplemente escribe.\n\n
+
+        5. Cuando acabes de escribir, toma tu trozo de cuerda y ata un extremo a tu objeto de poder.
+        Usando una aguja, realiza una perforación en la base del vaso de papel. Saca la aguja y haz
+        un nudo para que no se salga. Este será tu auricular e hilo telefónico.\n\n
+
+        6. Sujeta el vaso de papel y lee la carta en voz alta en él. Leela de forma sincera, con errores
+        y todo.\n\n
+
+        7. Coloca tu carta y tu objeto de poder dentro de la caja de zapatos con la línea telefónica
+        (el hilo) saliendo de ella. Cierra la tapa de la caja, pero no la selles; déjala en el suelo
+        de tu cabina telefónica. Deja el vaso de papel de pié sobre la caja de zapatos. Coloca las
+        tijeras al lado de ella.\n\n
+
+        8. Espera a que el teléfono suene.\n\n
+
+    <b>La Llamada Entrante:\n</b>
+        1. El “timbrazo” vendrá en forma del sueño de la persona tratando de llamarte. Puede ser esa
+        noche; puede ser una noche posterior. Te despertarás del sueño, probablemente en medio de la
+        noche, y estando seguro de que el teléfono está listo para ser respondido.\n\n
+
+        2. Levántate de tu cama y vé a la cabina telefónica. No enciendas la luz. No hables.\n\n
+
+        3. <b>NO PROCEDAS si cualquiera de lo siguiente ocurre:</b>\n
+            * Encuentras la caja de zapatos abierta.\n
+            * Encuentras el vaso de papel al revés o derrivado.\n
+        Si encuentras uno o ambos incidentes, no coloques el auricular cerca de tu oreja en ningún
+        momento. Mantén la caja de zapatos cerrada y arranca el hilo con tus manos. Si eres incapaz
+        de romperlo, usa las tijeras para hacerlo.\n\n
+
+        4. Si la caja de zapatos y el vaso de papel están intactos, puedes proceder. Entra en la cabina
+        telefónica y cierra la puerta.\n\n
+
+        5. Siéntate en el suelo, presiona el vaso de papel en tu oreja, cubre tu otra oreja con tu mano,
+        y escúcha. Escucha muy atentamente. Reduce tus movimientos al mínimo, intenta no hacer ningún
+        sonido, y no toques la caja de zapatos. No hables, incluso si te preguntan cosas u ordenan que
+        digas algo (ya dijiste lo que tenías que decir cuando hiciste la llamada saliente).\n\n
+
+    <b>Finalizando la llamada:\n</b>
+        1. Cuando la llamada finalice — o si, en cualquier momento, deseas colgar — mantén la tapa de
+        la caja de zapatos firmemente cerrada con una mano y tira de la cuerda con la otra mano hasta
+        que se rompa. Si no eres capaz de romper la cuerda de esta manera, usa las tijeras. NO PERMITAS
+        que la caja de zapatos se abra.\n\n
+
+        2. Retira la caja de zapatos a una localización segura y déjala ahí durante algunos meses. De
+        nuevo, NO PERMITAS que la caja se abra.\n\n
+
+        3. No vuelvas a ponerte el vaso de papel en la oreja de nuevo. En su lugar, quémalo.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        Si, durante los pasos tres y cuatro de La Llamada Saliente, no llegas a sentir con absoluta
+        certeza que es el momento de comenzar en el marco de una hora, <b>NO PROCEDAS.</b> En vez de
+        eso, vete a dormir e inténtalo de nuevo la siguiente noche. Si el “momento correcto” no llega
+        tras pasar algunas noches seguidas, prueba contactando con una persona diferente, o toma un
+        descanso por unas pocas noches. NO ESCRIBAS si dudas. Escribir con dudas resultará en llamar
+        al número equivocado.\n\n
+
+        No prepares el auricular con el vaso de papel en el paso cinco de La Llamada Saliente antes
+        de tiempo. Escribe tu carta; después haz el auricular.\n\n
+
+        Si el timbre para la Llamada Entrante no llega tras un máximo de cuatro noches, es posible
+        que la persona a la que intentas contactar no tenga nada que decirte. Puedes rejugar de nuevo
+        para hacer contacto con otra persona, pero no intentes jugar muy a menudo.\n\n
+
+    <b>Acerca de llamar a Números incorrectos:\n</b>
+        Llamar a un número incorrecto resultará en una llamada infructuosa con nadie, o con la persona
+        equivocada.\n\n
+
+        Si conectas con la persona incorrecta, pueden ocurrir cualquiera de las siguientes cosas:\n
+            * La persona incorrecta puede pretender ser la persona correcta.\n
+            * La persona incorrecta te da información erronea, haciendose pasar por la persona
+            correcta o como ella misma.\n
+            * La persona incorrecta puede hacerte pasar un mal rato.\n\n
+
+    <b>NUNCA, bajo NINGUNA CIRCUNSTANCIA, marques un número equivocado.</b>
+
+    </string>
+
+
     <!--__________________________ JUEGO 38____________________________________-->
+
+    <string name="Game38Name"><b>El Escondite para un Jugador (Hitori Kakurenbo)</b></string>
+
+    <string name="Game38Players"><b><u>JUGADORES</u></b>\n* 1 Principal\n</string>
+
+    <string name="Game38Requi"><b><u>REQUISITOS\n</u></b>
+        * 1 muñeco relleno con extremidades\n
+        * 1 saco de arroz sin cocer\n
+        * 1 par de cortauñas\n
+        * 1 aguja\n
+        * 1 trozo de cuerda roja\n
+        * 1 objeto afilado como un cuchillo o unas tijeras\n
+        * 1 baño con una bañera\n
+        * 1 copa con agua salada\n
+        * 1 televisión\n
+        * 1 sitio donde esconderse\n
+        * Incienso o ofuda\n\n
+
+    </string>
+
+    <string name="Game38Inst"><b><u>INSTRUCCIONES\n\n</u></b>
+    <b>Preludio:\n</b>
+        1. Usando el objeto afilado, raja y abre el muñeco. Retira todo el relleno.\n\n
+
+        2. Cambia el relleno por el arroz sin cocinar. Córtate un par de uñas y colócalas en el
+        interior con el arroz.\n\n
+
+        3. Usando la aguja y el hilo rojo, cose y cierra al muñeco. Sin cortar el hilo, toma el resto
+        del hilo, ata al muñeco con el mismo, y haz un nudo, dejando al muñeco atado al completo.\n\n
+
+        4. Llena la bañera con agua.\n\n
+
+        5. Purifica la habitación en la cual se encuentra tu sitio para esconderse con incienso o con
+        ofuda. Una vez haya sido purificado, coloca la habitación en la misma habitación. Coloca la
+        copa de agua salada y el objeto afilado en tu escondite.\n\n
+
+        6.	Pon un nombre al muñeco.\n\n
+
+    <b>El Evento Principal:\n</b>
+        1. Comienza precisamente a las 3am. Repite la siguiente frase al muñeco tres veces, llenando
+        el hueco con tu nombre donde sea apropiado: “[Tu nombre] es el primero en ir.”\n\n
+
+        2. Ve al baño. Sumerge el muñeco en la bañera y déjalo ahí.\n\n
+
+        3. Apaga todas las luces de tu casa.\n\n
+
+        4. Ve a tu escondite y enciende la televisión. Cierra los ojos y cuenta hasta diez.\n\n
+
+        5. Cuando termines de contar, abre tus ojos, coge tu objeto afilado, y vuelve al baño.\n\n
+
+        6. Saca al muñeco de la bañera y dile la siguiente frase, rellenando el hueco con el nombre
+        del muñeco donde proceda: “Te encontré, [Nombre del muñeco].” Usa tu objeto afilado para
+        cortar el hilo que rodea y ata al muñeco.\n\n
+
+        7. Dile la siguiente frase al muñeco, llenando el hueco con el nombre del muñeco donde proceda:
+         “Te toca, [Nombre del muñeco].” Vuelve a colocar al muñeco en la bañera.\n\n
+
+        8. Rápidamente vuelve a tu escondite. Permanece lo más en silencio posible.\n\n
+
+    <b>La Finalización:\n</b>
+        1. Vuelca una buena cantidad de agua salada en tu boca. No te la tragues; mantenla en tu boca.
+        Mantén el vaso con el resto de agua salada en tu mano.\n\n
+
+        2. Sal de tu escondite y comienza a buscar al muñeco. <b>NOTA: puede que el muñeco no esté
+            necesariamente en el baño donde lo dejaste.</b>\n\n
+
+        3. Cuando encuentres al muñeco, vuelca el resto de agua salada que hay en el vaso sobre
+        él. Escupe el agua salada de tu boca también sobre él. EN ESE ORDEN.\n\n
+
+        4. Repite la siguiente frase al muñeco tres veces: “Gané.”\n\n
+
+    <b>Postdata:\n</b>
+        1. Una vez el juego ha sido completado, deja al muñeco secarse; entonces quémalo y elimina
+        completamente los restos.\n\n
+
+    <b>Notas Adicionales:\n</b>
+        El arroz representa las entrañas del muñeco. Adicionalmente, sirve como cebo para atraer
+        espíritus.\n\n
+
+        El hilo rojo representan los vasos sanguíneos y sellan a los espíritus que hayas podido
+        atraer al interior del muñeco. Cortar el hilo en el Evento Principal durante el paso 6:
+        eso libera a los espíritus en él.\n\n
+
+        Cuando nombres a tu muñeco, NO le pongas tu propio nombre. También evita ponerle el nombre de
+        alguien a quien conozcas.\n\n
+
+        Una vez el juego haya comenzado, <b>NO HAGAS nada de lo siguiente</b> hasta que haya sido completado:\n
+            * Encender las luces.\n
+            * Cerrar cualquier puerta, incluyendo la puerta principal o la de atras con llave.\n
+            * Hacer ruido innecesario.\n
+            * Abandonar tu casa.\n\n
+
+        Generalmente no es recomendable abandonar tu escondite durante el paso 2 de la Finalización
+        sin el vaso en tu mano y la boca llena de agua; En caso de que algo haya entrado a tu hogar
+        durante el transcurso del juego, actuará como salvaguarda y te protegerá de cualquier daño
+        que el visitante (o visitantes) puedan intentar infligirte. El propósito de la televisión es
+        para alertarte de la presencia de estos potenciales visitantes. <b>Una vez comience a mostrar
+            un comportamiento poco usual, NUNCA, bajo NINGUNA circunstancia, abandones tu escondite
+            sin el agua salada.</b>\n\n
+
+        No permitas que el juego se prolongue por más de dos horas.\n\n
+
+        <b>Una vez ha comenzado, el juego DEBE JUGARSE hasta que sea completado. NO INTENTES abandonar
+            a la mitad del mismo. Hacerlo puede resultar en desastre.\n\n</b>
+
+        <b><i>NOTAS DEL DESARROLLADOR:\n</i></b>
+        <b>Puede que lo hayas intentado ya o puede que estes pensando en hacerlo. NO TE LO RECOMENDAMOS.
+        Hemos experimentado cosas muy malas durante el transcurso del juego, al igual que cosas
+        bastante duras y completamente extravagantes y peligrosas. Te recomendamos encarecidamente
+            que no juegues, o que lo hagas bajo tu cuenta y riesgo. </b>
+
+
+    </string>
     <!--__________________________ JUEGO 39____________________________________-->
     <!--__________________________ JUEGO 40____________________________________-->
 

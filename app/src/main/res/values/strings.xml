@@ -49,6 +49,9 @@
     <string name="Title_33">33. The Hosting Game</string>
     <string name="Title_34">34. The Mirror Box</string>
     <string name="Title_35">35. Elevator to Another World</string>
+    <string name="Title_36">36. The Dead Poet´s Game</string>
+    <string name="Title_37">37. The Shoebox Telephone</string>
+    <string name="Title_38">38. One-Man Hide and Seek Game</string>
 
     <!-- TEXTO DE LA PÁGINA INFO-->
 
@@ -83,7 +86,7 @@
         \n\nPlease contact me through this email:
         <b>software@framedmemories.es</b>
 
-        \n\nDeveloped and translated by Pedro Luque \nVer. 1.6\nFramed Memories Software, 2018.\n\n\n
+        \n\nDeveloped and translated by Pedro Luque \nVer. 1.7\nFramed Memories Software, 2018.\n\n\n
 
 
     </string>
@@ -3666,9 +3669,319 @@
         if you do, she may decide to keep you for her own.\n\n
 
     </string>
+
+
     <!--__________________________ JUEGO 36____________________________________-->
+
+    <string name="Game36Name"><b>The Dead Poet´s game</b></string>
+
+    <string name="Game36Players"><b><u>PLAYERS</u></b>\n* 1 Principal\n</string>
+
+    <string name="Game36Requi"><b><u>REQUIREMENTS\n</u></b>
+        * 1 table\n
+        * 2 chairs\n
+        * 1 candle\n
+        * 1 lighter or book of matches\n
+        * 2 wine glasses\n
+        * 1 bottle of wine\n
+        * 1 empty room\n\n
+    </string>
+
+    <string name="Game36Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>The Prelude:\n</b>
+        1. Begin at night. Draw the curtains of your empty room, ensuring that no light from the
+        outside bleeds into it.\n\n
+
+        2. Set the table up in the center of the room and place the chairs on either side of it,
+        opposite each other.\n\n
+
+        3. Set one wine glass in front of each chair. Place the candle in the center of the table
+        with the wine bottle beside it.\n\n
+
+        4. Light the candle with your lighter or matches.\n\n
+
+        5. Turn out the lights.\n\n
+
+        6. Lock the door.\n\n
+
+    <b>The Main Event:\n</b>
+        1. Pick up the bottle of wine from the table and pour a full measure into each glass.\n\n
+
+        2. Replace the bottle, sit in the \“head\” chair, and pick up your own glass. Raise it and
+        make a silent toast; then take a sip.\n\n
+
+        3. <b>If you have done this correctly,</b> there will be a presence in the chair opposite you after
+        you lower you glass. Remain calm; do not jump, start, or otherwise provoke the presence in
+        any way. <b>If the chair opposite you remains empty</b>, blow out the candle, turn on the lights,
+        and leave the room. Lock the door. Do not reenter the room until morning.\n\n
+
+        4. Say aloud the words, \“I wish to start a match.\” If the presence agrees, you must now
+        choose to be either Player A or Player B. Once you have chosen your letter, say aloud, “I
+        strip you of the letter [Your Letter].”\n\n
+
+        5. Now, ask a question. After you receive your answer, take a sip of wine. After you finish
+        your sip, you will now become Player B.\n\n
+
+        6. Listen closely. If Player A asks you a question, answer it. Then take a sip of your wine.\n\n
+
+        7. Continue in this fashion, alternating between being Player A and Player B, until one or both
+        glasses are empty. <b>Do NOT touch any glass other than your own.</b>\n\n
+
+
+    <b>The Ending:\n</b>
+        1. Whoever is Player A when the wine runs out automatically wins the game.\n\n
+
+    • <b>If you are Player A</b>, the presence will depart; remain seated until it has done so.
+            Blow out the candle, turn on the lights, and exit the room.\n
+    • <b>If you are Player B</b>, do not blow out the candle; that is for Player A to do. Once the
+            candle has gone out, turn on the lights. From now on, be careful in dark spaces. If you
+            see something out of the corner of your eye, turn to face it. If you spot something behind
+    you in a mirror, turn around. <b>Do NOT, under ANY circumstances, EVER say these words:</b>
+            “This soul is yours. It is yours to do business with.”\n\n
+
+    <b>Additional Notes:\n</b>
+    This game MUST be played in room where a poet has died. The deceased does not have to have been
+    a literal poet; someone said to have had “the soul of a poet” will suffice. When setting up the
+    space, one of the chairs should ideally be situated where the poet’s head was upon being found;
+    the other should sit at the poet’s feet.\n\n
+
+    You MUST perform this ritual alone. No other people, animals, or other living creatures may be
+    present.\n\n
+
+    Keep the room free of any type of technology—phones, laptops, the lot.\n\n
+
+    You must answer each question truthfully; however, you do not have to answer each question freely
+    or completely. Guard your secrets, for giving them up could result in disaster.\n\n
+
+    <b>Concerning Failsafes:\n</b>
+    There are no failsafes.
+
+    </string>
+
+
     <!--__________________________ JUEGO 37____________________________________-->
+
+    <string name="Game37Name"><b>The Shoebox Telephone</b></string>
+
+    <string name="Game37Players"><b><u>PLAYERS</u></b>\n* 1 Principal\n</string>
+
+    <string name="Game37Requi"><b><u>REQUIREMENTS\n</u></b>
+        * 1 \“phone booth.\” A closet is a good choice.\n
+        * 1 paper cup\n
+        * 1 shoebox\n
+        * 1 length of thread, two to four feet in length\n
+        * 1 needle\n
+        * A pair of scissors\n
+        * 1 power object. This object should have some connection to the person to whom you wish to speak.\n
+        * 1 sheet of paper\n
+        * 1 ink pen. Do not attempt to substitute a pencil.\n
+        * 1 flat surface on which to write\n\n
+
+    </string>
+
+    <string name="Game37Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>The Outbound Call:\n</b>
+        1. Begin right before you go to bed. The hour itself is inconsequential; all that matters
+    is that your day is essentially over.\n\n
+
+        2. Keep the lights on, but turn off all other electronic devices: Cellphones, televisions,
+    computers, etc.\n\n
+
+        3. Wait. You’ll know when the time is right to begin in earnest.\n\n
+
+        4. Once you arrive at the “right time,” take up your sheet of paper and your pen and begin
+    writing a letter addressed to the person to whom you wish to speak. Explain to your person why
+    they should call you. Do not cross out anything while writing, and do not correct any mistakes.
+    Don’t overthink what you’re writing; just write.\n\n
+
+        5. When you’re done writing, take up your length of thread and tie one end of it to your
+    power object. Using a needle, thread the other end through the bottom of your paper cup. Remove
+    the needle and tie off the thread. This will be your handset and telephone wire.\n\n
+
+        6. Pick up the paper cup and read your letter aloud into it. Read it sincerely, mistakes and all.\n\n
+
+        7. Place your letter and your power object in the shoebox with the telephone wire thread
+    leading out of it. Close the lid of the box, but don’t seal it; then rest it on the floor of
+    your phone booth. Leave the paper cup standing on top of the shoebox. Set the scissors down
+    next to it.\n\n
+
+        8. Wait for the telephone to ring.\n\n
+
+    <b>The Inbound Call:\n</b>
+        1. The “ring” will come in the form of a dream of the person trying to call you. It might be
+        that night; it might be a night shortly thereafter. You will wake up from the dream, likely in
+        the middle of the night, and know that the telephone is ready to be answered.\n\n
+
+        2. Get up from your bed and go to your phone booth. Do not turn on the light. Do not speak.\n\n
+
+        3. <b>Do NOT proceed if any of the following occur:</b>\n
+            * You find the shoebox open.\n
+            * You find the paper cup knocked over.\n
+        Should you encounter either or both of these incidents, do not place the headset anywhere near
+        your ear. Keep the shoebox closed and snap the string with your hands. If you are unable to
+        snap it, use the scissors to snip it.\n\n
+
+        4. If the shoebox and paper cup are undisturbed, you may proceed. Get in the phone both
+        and close the door.\n\n
+
+        5. Sit on the floor, press the paper cup to your ear, cover your other ear with your hand,
+        and listen. Really listen. They’re calling collect, after all. Keep movement to a minimum, try
+        not to make any noise, and do not touch the shoebox. Do not speak, even if you are asked questions
+        or are ordered to say something (you already had your say when you made the outbound call).\n\n
+
+    <b>Ending the Call:\n</b>
+        1. When the call has finished—or if, at any time, you want to hang up—hold the shoebox lid
+    firmly closed with one hand and pull on the thread with the other until it snaps. If you are
+    unable to snap the string in this manner, use the scissors. Do NOT allow the shoebox to open.\n\n
+
+        2. Remove the shoebox to a safe location and leave it there for several months. Again, do
+    NOT allow the shoebox to open.\n\n
+
+        3. Do not put the paper cup to your ear again. Burn it instead.\n\n
+
+    <b>Additional Notes:\n</b>
+    If, during steps three and four of the Outbound Call, the feeling of absolute certainty that it
+    is time to begin does not arrive within the space of an hour, <b>do NOT proceed.</b> Instead, go to
+    sleep and try again the next night. If the “right time” does not arrive several nights in a
+    row, either try contacting a different person, or take a break for a few nights. Do NOT write
+    in doubt. To write in doubt will result in dialing a wrong number.\n\n
+
+    Do not prepare the paper cup handset in step five of the Outbound Call in advance. Write your
+    letter; then make the handset.\n\n
+
+    If the ring for the Inbound Call does not arrive after a maximum of four nights, it is possible
+    that whomever you attempted to contact has nothing to say to you. You may replay the game to
+    make contact with another person, but do not attempt to play it too often.\n\n
+
+    <b>Concerning Wrong Numbers:\n</b>
+    Dialing a wrong number will either result in connecting you to no one at all, or connecting you
+    to the wrong person.\n\n
+
+    If connected to the wrong person, any of the following may occur:\n
+        * The wrong person could pretend to be the right person.\n
+        * The wrong person could feed you misinformation, either in the guise of the right person or as themselves.\n
+        * The wrong person could otherwise give you a bad time.\n\n
+
+    <b>Do NOT, under ANY circumstances, dial a wrong number.</b>
+
+    </string>
+
+
+
     <!--__________________________ JUEGO 38____________________________________-->
+
+
+    <string name="Game38Name"><b>One-Man Hide and Seek Game (Hitori Kakurenbo)</b></string>
+
+    <string name="Game38Players"><b><u>PLAYERS</u></b>\n* 1 Principal\n</string>
+
+    <string name="Game38Requi"><b><u>REQUIREMENTS\n</u></b>
+        * 1 stuffed doll with limbs\n
+        * 1 sack of uncooked rice\n
+        * 1 pair of nail clippers\n
+        * 1 needle\n
+        * 1 length of red thread\n
+        * 1 sharp edge such as a knife or pair of scissors\n
+        * 1 bathroom with bathtub\n
+        * 1 cup of salt water\n
+        * 1 television\n
+        * 1 hiding place\n
+        * Incense or ofuda\n\n
+
+    </string>
+
+    <string name="Game38Inst"><b><u>INSTRUCTIONS\n\n</u></b>
+    <b>The Prelude:\n</b>
+        1.	Using your sharp edge, cut open the doll. Remove the stuffing.\n\n
+
+        2.	Replace the stuffing with dry, uncooked rice. Clip off a piece of your fingernail and
+        place it inside the doll with the rice.\n\n
+
+        3.	Using the needle and red thread, stitch the doll closed. Without snipping the thread,
+        take the remaining length, wrap it around the doll, and tie off the ends.\n\n
+
+        4.	Fill the bathtub with water.\n\n
+
+        5.	Purify the room in which your hiding place is located with the incense or ofuda. Once
+        it has been purified, set up the television in the same room. Place the cup of salt water
+        and the sharp edge inside the hiding place.\n\n
+
+        6.	Name the doll.\n\n
+
+    <b>The Main Event:\n</b>
+        1. Begin at precisely 3am. Repeat the following phrase to the doll three times, filling in
+        your own name where appropriate: “[Your Name] is the first it.”\n\n
+
+        2. Go to the bathroom. Submerge the doll in the bathtub and leave it there.\n\n
+
+        3. Turn out all the lights in your house.\n\n
+
+        4. Go to your hiding place and switch on the television. Close your eyes and count to ten.\n\n
+
+        5. When you have finished counting, open your eyes, retrieve your sharp edge, and return to the bathroom.\n\n
+
+        6. Remove the doll from the bathtub and say the following phrase to it, filling in the
+        doll’s name where appropriate: “I have found you, [Doll’s Name].” Use your sharp edge to
+        cut the red thread binding the doll.\n\n
+
+        7. Say the following phrase to the doll, filling in the doll’s name where appropriate: “You
+        are the next it, [Doll’s Name].” Then return the doll to the bathtub.\n\n
+
+        8. Quickly return to your hiding place. Remain as silent as possible.\n\n
+
+    <b>The Ending:\n</b>
+        1. Take a large mouthful of salt water. Do not swallow it; hold it in your mouth. Keep the
+        cup containing the rest of the salt water in your hand.\n\n
+
+        2. Emerge from your hiding place and begin looking for the doll. <b>NOTE: The doll may not
+            necessarily be in the bathroom where you left it.</b>\n\n
+
+        3. When you find the doll, pour the remaining salt water in the cup over it. Expectorate
+        the salt water in your mouth over the doll as well.\n\n
+
+        4. Repeat the following phrase to the doll three times: “I win.”\n\n
+
+    <b>The Postscript:\n</b>
+        1. Once the game has been completed, allow the doll to dry, then burn it and discard the remains.\n\n
+
+    <b>Additional Notes:\n</b>
+        The rice represents the doll’s internal organs. Additionally, it serves as bait to attract
+        spirits.\n\n
+
+        The red thread represents a blood vessel and seals whatever spirits you might have attracted
+        inside the doll. Snipping the thread in the Main Event: step 6 releases the spirits.\n\n
+
+        When naming your doll, do NOT give it your own name. It is also advisable to avoid giving
+        it the name of anyone you know.\n\n
+
+        Once the game has begun, <b>do NOT do any of the following things</b> until it has been completed:\n
+            * Turn on the lights.\n
+            * Lock any doors, including the front or back doors\n
+            * Make unnecessary noise.\n
+            * Leave your house.\n\n
+
+        It is not generally advisable to emerge from your hiding place in the Ending: step 2 without
+        both holding the salt water in your mouth and carrying the cup with the remaining salt water
+        in your hand; should anything have found its way into your home during the course of the game,
+        they will act as safeguards and protect you from any harm your visitor or visitors may attempt
+        to inflict upon you. The purpose of the television is to alert you to the presence of these
+        potential visitors. <b>Should it begin to display abnormal behavior, do NOT, under ANY circumstance,
+            leave your hiding place without the salt water.</b>\n\n
+
+        Do not allow the game to go on for longer than two hours.\n\n
+
+        <b>Once it has been started, the game MUST be played through to completion. Do NOT attempt to
+            abandon it partway through. To do so would result in disaster.\n\n</b>
+
+        <b><i>DEVELOPER NOTES:\n</i></b>
+        <b>You may have tried it already or you may be thinking of playing it. WE DO NOT RECOMMEND IT.
+            We´ve experienced some pretty bad things over the course of the game, as well as some
+            pretty rough and downright wacky and dangerous stuff. We strongly recommend that you do
+            not play it, or do so at your own risk. </b>
+
+    </string>
+
+
     <!--__________________________ JUEGO 39____________________________________-->
     <!--__________________________ JUEGO 40____________________________________-->
 

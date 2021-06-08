@@ -5,12 +5,13 @@ import android.content.pm.ActivityInfo;
 import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
 
@@ -118,6 +119,12 @@ public class Game_List_Activity extends AppCompatActivity {
 
         category.add(new Category ("35", getString(R.string.Title_35), getString(R.string.Type_Ritual), res2 ));
 
+        category.add(new Category ("36", getString(R.string.Title_36), getString(R.string.Type_Game), res ));
+
+        category.add(new Category ("37", getString(R.string.Title_37), getString(R.string.Type_Game), res ));
+
+        category.add(new Category ("38", getString(R.string.Title_38), getString(R.string.Type_Game), res ));
+
 
 
         //////////    LO QUE OCURRE AL HACER TOUCH EN UN ELEMENTO DE LA LISTVIEW    ////////////
@@ -136,11 +143,6 @@ public class Game_List_Activity extends AppCompatActivity {
 
             }
         });
-
-
-
-
-
 
     }
 }
