@@ -14,7 +14,7 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-4303291848949898~6896608938"/>
 
-        <activity android:name=".SplashScreen">
+        <activity android:exported="true" android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

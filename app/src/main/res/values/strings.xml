@@ -86,7 +86,7 @@
         \n\nPlease contact me through this email:
         <b>software@framedmemories.es</b>
 
-        \n\nDeveloped and translated by Pedro Luque \nVer. 1.7\nFramed Memories Software, 2018.\n\n\n
+        \n\nDeveloped and translated by Pedro Luque \nVer. 1.8\nFramed Memories Software, 2022.\n\n\n
 
 
     </string>
@@ -3669,8 +3669,6 @@
         if you do, she may decide to keep you for her own.\n\n
 
     </string>
-
-
     <!--__________________________ JUEGO 36____________________________________-->
 
     <string name="Game36Name"><b>The Dead Poet´s game</b></string>
@@ -3757,7 +3755,6 @@
     There are no failsafes.
 
     </string>
-
 
     <!--__________________________ JUEGO 37____________________________________-->
 
@@ -3866,10 +3863,7 @@
 
     </string>
 
-
-
     <!--__________________________ JUEGO 38____________________________________-->
-
 
     <string name="Game38Name"><b>One-Man Hide and Seek Game (Hitori Kakurenbo)</b></string>
 
@@ -3980,8 +3974,6 @@
             not play it, or do so at your own risk. </b>
 
     </string>
-
-
     <!--__________________________ JUEGO 39____________________________________-->
     <!--__________________________ JUEGO 40____________________________________-->
 
